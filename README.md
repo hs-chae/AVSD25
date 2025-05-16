@@ -35,7 +35,7 @@ pip install -e .
 python generation/caption.py --samples 10000 --path data
 ```
 
-* ```--skills``` is an argument for specifying the skills of questions to generate. It includes all the skills except for the ν-geometry in default.
+* ```--skills``` is an argument for specifying the skills of questions to generate. It includes all the skills except for the ν-geometry in default. For ν-geometry generation, use ```generation/nugeo.py``` instead.
 
 * ```--format``` is to choose the dataset format. There are ```json```(default) and ```jsonl``` available.
 
