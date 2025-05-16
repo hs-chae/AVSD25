@@ -150,17 +150,4 @@ python score.py \
     --output results/score.json
 ```
 
-## Citations
-```
-@inproceedings{
-    chae2024decomposing,
-    title={Decomposing Complex Visual Comprehension into Atomic Visual Skills for Vision Language Models},
-    author={Hyunsik Chae and Seungwoo Yoon and Chloe Yewon Chun and Gyehun Go and Yongin Cho and Gyeongmin Lee and Ernest K. Ryu},
-    booktitle={The 4th Workshop on Mathematical Reasoning and AI at NeurIPS'24},
-    year={2024},
-    url={https://openreview.net/forum?id=nFU4xCyoe0}
-}
-```
-=======
-# AVSD25
->>>>>>> origin/main
+
