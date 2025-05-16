@@ -19,11 +19,11 @@ with open(os.path.join(os.path.dirname(__file__), 'conversations/conversation.js
     long_conversation = json.load(file)
 with open(os.path.join(os.path.dirname(__file__), 'conversations/short_conversation.json')) as file:
     short_conversation = json.load(file)
-with open(os.path.join(os.path.dirname(__file__), 'skills/a2/conversations/captions.json')) as file:
+with open(os.path.join(os.path.dirname(__file__), 'conversations/captions.json')) as file:
     captions = json.load(file)
-with open(os.path.join(os.path.dirname(__file__), 'skills/a2/conversations/twisted_captions.json')) as file:
+with open(os.path.join(os.path.dirname(__file__), 'conversations/twisted_captions.json')) as file:
     twist_captions = json.load(file)
-with open(os.path.join(os.path.dirname(__file__), 'skills/a2/conversations/questions.json')) as file:
+with open(os.path.join(os.path.dirname(__file__), 'conversations/questions.json')) as file:
     q_data = json.load(file)
 
 
@@ -213,7 +213,7 @@ def task2(d): #Which is the correct description?
 
 def task3(d): #True or False
     
-    q = "True or False: According to the image, "
+    q = "Answer the following question based on the given image. True or False: According to the image, "
 
     correct = generate_one_correct(d)
     wrong = generate_twist_caption(d)
