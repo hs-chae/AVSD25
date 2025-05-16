@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # AVS
 
 ![MathQA](https://img.shields.io/badge/Task-MathQA-red) 
@@ -24,8 +23,8 @@
 
 ## Installation
 ```
-git clone https://github.com/Atomic-Visual-Skills/Atomic-Visual-Skills.git
-cd Atomic-Visual-Skills
+git clone [https://github.com/Atomic-Visual-Skills/Atomic-Visual-Skills.git](https://github.com/hs-chae/AVSD25.git)
+cd AVSD25
 pip install -e .
 ```
 
