@@ -18,7 +18,7 @@
 
 
 ## News
-
+* You can find our AVSD data in (https://huggingface.co/datasets/cobordism/AVSD_25).
 ## About AVS
 
 ## Installation
