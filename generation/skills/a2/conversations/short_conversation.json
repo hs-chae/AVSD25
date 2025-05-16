@@ -1,0 +1,3502 @@
+{
+
+  "parallel_1":
+          [
+            [
+            "In the image, which line is parallel to line <1><2>?",
+            "<3><4>"
+            ],
+            [
+              "Can you identify the line that runs parallel to line <1><2> in the picture?",
+              "<3><4>"
+            ],
+            [
+              "Looking at the image, which line is parallel with line <1><2>?",
+              "<3><4>"
+            ],
+            [
+              "Which pair of lines are parallel in the image? 1. <1><2> and <3><4>, 2. <1><2> and <5><6>, 3. <3><4> and <5><6>.",
+                "1. <1><2> and <3><4>"
+            ],
+             [
+              "Which pair of lines in the image are parallel to each other? 1. <1><2> and <5><6>, 2. <1><2> and <3><4>, 3. <3><4> and <5><6>.",
+               "2.<1><2> and <3><4>"
+            ],
+            [
+              "Which pair of lines in the image are parallel to each other? 1. <1><2> and <5><6>, 2. <3><4> and <5><6>,  3. <1><2> and <3><4>.",
+               "3. <1><2> and <3><4>"
+            ],
+            [
+              "Which line is NOT parallel to Line <1><2>? 1. <3><4>, 2. <5><6>",
+                "2. <5><6>"
+            ],
+            [
+              "Which line is NOT parallel to Line <1><2>? 1. <5><6>, 2. <3><4>",
+                "1. <5><6> "
+            ]
+          ],
+  "C_parallel_1":
+          [
+            [
+        "In the image, which line is parallel to line <1><2>?",
+        "<3><4>"
+    ],
+    [
+        "In the image, which color's line is parallel to line <1><2>?",
+        "<5>"
+    ],
+    [
+        "Between <5> and <6>, which color's line is parallel to line <1><2>?",
+        "<5>"
+    ],
+    [
+        "In the image, is the <5> line parallel to line <1><2>?",
+        "Yes"
+    ],
+    [
+        "In the image, is the <6> line parallel to line <1><2>?",
+        "No"
+    ],
+    [
+        "In the image, is the <6> line parallel to line <1><2>?",
+        "No"
+    ],
+    [
+        "Looking at the image, which line is parallel with line <1><2>?",
+        "<3><4>"
+    ],
+    [
+        "Which pair of lines are parallel in the image? 1. <1><2> and <3><4>, 2. <1><2> and <7><8>.",
+        "1. <1><2> and <3><4>"
+    ],
+    [
+        "Which pair of lines in the image are parallel to each other? 1. <1><2> and <7><8>, 2. <1><2> and <3><4>.",
+        "2. <1><2> and <3><4>"
+    ],
+    [
+        "Which line is NOT parallel to Line <1><2>? 1. <3><4>, 2. <7><8>",
+        "2. <7><8>"
+    ],
+    [
+        "Which color's line is NOT parallel to Line <1><2>? 1. <5>, 2. <6>",
+        "2. <6>"
+    ],
+    [
+        "Which line is NOT parallel to Line <1><2>? 1. <6>, 2. <5>",
+        "1. <6>"
+    ],
+    [
+        "Which color's line is NOT parallel to Line <1><2>? 1. <6>, 2. <5>",
+        "1. <6>"
+    ]
+          ],
+  "parallel_2":
+          [
+            [
+              "How many more lines are parallel to line <1><2> in the image?",
+              "<3>"
+            ],
+            [
+              "How many lines are parallel to line <1><2> in the image, excluding itself?",
+                "<3>"
+            ]
+          ],
+  "C_parallel_2":
+          [
+            [
+              "How many more lines are parallel to line <1><2> in the image?",
+              "<3>"
+            ],
+            [
+              "How many more lines are parallel to the <4> line in the image? ",
+                "<3>"
+            ],
+            [
+              "How many lines are parallel to the <4> line, besides itself? ",
+                "<3>"
+            ],
+
+            [
+              "How many lines are parallel to line <1><2> in the image, excluding itself?",
+                "<3>"
+            ],
+            [
+              "How many lines are parallel to the <4> line in the image, excluding itself?",
+                "<3>"
+            ]
+          ],
+  "parallel_3":
+          [
+            [
+              "Which line is parallel to line <1><2> in the image?",
+              "<3><4>"
+            ],
+            [
+              "Which line is parallel to line <1><2> in the image?",
+              "<4><3>"
+            ]
+          ],
+  "C_parallel_3":
+          [
+            [
+              "Which line is parallel to line <1><2> in the image?",
+              "<3><4>"
+            ],
+            [
+              "Which color's line is parallel to line <1><2> in the image?",
+              "<7>"
+            ],
+            [
+              "What color is the line that is parallel to line <1><2> in the image?",
+              "<7>"
+            ],
+            [
+              "What color is the line that is parallel to the <5> line in the image?",
+              "<7>"
+            ],
+             [
+              "Among <2><3>, <3><4>, <4><1>, which line is parallel to the <5> line?",
+              "<3><4>"
+            ],
+            [
+              "Among <3><4>, <4><1>, <2><3>, which line is parallel to the <5> line?",
+              "<3><4>"
+            ],
+            [
+              "Among  <4><1>, <2><3>, <3><4>, which line is parallel to the <5> line?",
+              "<3><4>"
+            ]
+          ],
+  "parallel_4":
+            [
+                [
+                "Which line is parallel to line <1><2> in the image?",
+                "<3><4>"
+                ],
+              [
+                "Which line is parallel to line <1><2> in the image?",
+                "<4><3>"
+                ]
+            ],
+  "C_parallel_4":
+          [
+            [
+        "Which line is parallel to line <1><2> in the image?",
+        "<3><4>"
+    ],
+    [
+        "Which color's line is parallel to line <1><2> in the image?",
+        "<7>"
+    ],
+    [
+        "What color is the line that is parallel to line <1><2> in the image?",
+        "<7>"
+    ],
+    [
+        "What color is the line that is parallel to the <5> line in the image?",
+        "<7>"
+    ],
+    [
+        "Among <2><3>, <3><4>, <4><1>, which line is parallel to the <5> line?",
+        "<3><4>"
+    ],
+    [
+        "Among <3><4>, <4><1>, <2><3>, which line is parallel to the <5> line?",
+        "<3><4>"
+    ],
+    [
+        "Among <4><1>, <2><3>, <3><4>, which line is parallel to the <5> line?",
+        "<3><4>"
+    ]
+          ],
+  "parallel_5": [
+        [
+            "Which line that passes through <2> is parallel to line <3>?",
+            "<4>"
+        ],
+        [
+            "Is the line <3> parallel to line <4>?",
+            "Yes"
+        ],
+        [
+            "Among the lines that pass through <2>, which line is parallel to line <3>?",
+            "<4>"
+        ],
+        [
+            "Is the line <5> parallel to line <3>?",
+            "No"
+        ],
+        [
+            "Is the line <4> parallel to line <5>?",
+            "No"
+        ],
+        [
+            "Between line <4> and <5>, which line is parallel to line <3>?",
+            "<4>"
+        ],
+        [
+            "Between line <4> and <5>, which line is parallel to line <3>?",
+            "<4>"
+        ],
+        [
+            "Between line <5> and <4>, which line is parallel to line <3>?",
+            "<4>"
+        ]
+    ],
+
+    "C_parallel_5": [
+        [
+            "Which line that passes through <2> is parallel to line <3>?",
+            "<4>"
+        ],
+        [
+            "Which color's line that passes through <2> is parallel to line <3>?",
+            "<6>"
+        ],
+        [
+            "Which color's line that passes through <2> is parallel to the <5> line?",
+            "<6>"
+        ],
+        [
+            "Among the lines that pass through <2>, which line is parallel to line <3>?",
+            "<6>"
+        ],
+        [
+            "Among the lines that pass through <2>, what is the color of the line parallel to line <3>?",
+            "<6>"
+        ],
+        [
+            "Among the lines that pass through <2>, what is the color of the line parallel to the <5> line?",
+            "<6>"
+        ],
+        [
+            "Is the line <3> parallel to line <4>?",
+            "Yes"
+        ],
+        [
+            "Is the <5> line parallel to the <6> line?",
+            "Yes"
+        ],
+        [
+            "Is the line <7> parallel to line <3>?",
+            "No"
+        ],
+        [
+            "Is the point <2> on the <6> line?",
+            "Yes"
+        ],
+        [
+            "Is the point <1> on the <6> line?",
+            "No"
+        ],
+        [
+            "Is the point <2> on the <5> line?",
+            "No"
+        ],
+        [
+            "Is the point <1> on the <5> line?",
+            "Yes"
+        ],
+        [
+            "Is the <6> line parallel to line <7>?",
+            "No"
+        ],
+        [
+            "Between line <7> and <4>, which line is parallel to the <5> line?",
+            "<4>"
+        ]
+    ],
+  "length_1": [
+        [
+            "Which line is longer, line <1><2> or line <3><4>?",
+            "<3><4>"
+        ],
+        [
+            "Which line is longer, line <3><4> or line <1><2>?",
+            "<3><4>"
+        ],
+        [
+            "Which line is shorter, line <1><2> or line <3><4>?",
+            "<1><2>"
+        ],
+        [
+            "Which line is shorter, line <3><4> or line <1><2>?",
+            "<1><2>"
+        ],
+        [
+            "Is line <1><2> longer than line <3><4>?",
+            "No"
+        ],
+        [
+            "Is line <1><2> shorter than line <3><4>?",
+            "Yes"
+        ],
+        [
+            "Between lines <1><2> and <3><4>, which one is the longest?",
+            "<3><4>"
+        ],
+        [
+            "Between lines <3><4> and <1><2>, which one is the longest?",
+            "<3><4>"
+        ],
+        [
+            "Between lines <1><2> and <3><4>, which one is the shortest?",
+            "<1><2>"
+        ],
+        [
+            "Between lines <3><4> and <1><2>, which one is the shortest?",
+            "<1><2>"
+        ],
+        [
+            "Are lines <1><2> and <3><4> equal in length?",
+            "No"
+        ],
+        [
+            "Are lines <3><4> and <1><2> equal in length?",
+            "No"
+        ]
+    ],
+
+    "C_length_1": [
+        [
+            "Which line is longer, line <1><2> or line <3><4>?",
+            "<3><4>"
+        ],
+        [
+            "Which line is longer, line <3><4> or line <1><2>?",
+            "<3><4>"
+        ],
+        [
+            "Which color's line is longer, <5> or <6>?",
+            "<6>"
+        ],
+        [
+            "Which color's line is longer, <6> or <5>?",
+            "<6>"
+        ],
+        [
+            "Which line is shorter, line <1><2> or line <3><4>?",
+            "<1><2>"
+        ],
+        [
+            "Which color's line is shorter, <5> or <6>?",
+            "<5>"
+        ],
+        [
+            "Is line <1><2> longer than line <3><4>?",
+            "No"
+        ],
+        [
+            "Is the <5> line longer than <6> line?",
+            "No"
+        ],
+        [
+            "Is the <6> line longer than <5> line?",
+            "Yes"
+        ],
+        [
+            "Is the <6> line shorter than <5>?",
+            "No"
+        ],
+        [
+            "Is the <5> line shorter than <6>?",
+            "Yes"
+        ],
+        [
+            "Between lines <1><2> and <3><4>, which one is the longest?",
+            "<3><4>"
+        ]
+    ],
+
+    "length_2": [
+        [
+            "Which line is longer, line <1> or line <2>?",
+            "<2>"
+        ],
+        [
+            "Which line is longer, line <2> or line <1>?",
+            "<2>"
+        ],
+        [
+            "Is line <1> shorter than line <2>?",
+            "Yes"
+        ],
+        [
+            "Is line <2> shorter than line <1>?",
+            "No"
+        ],
+        [
+            "Is line <1> longer than line <2>?",
+            "No"
+        ],
+        [
+            "Is line <2> longer than line <1>?",
+            "Yes"
+        ],
+        [
+            "Between line <1> and line <2>, which one is the shorter line?",
+            "<1>"
+        ],
+        [
+            "In the image, which line has the greatest length?",
+            "<2>"
+        ],
+        [
+            "Are lines <1> and <2> the same length?",
+            "No"
+        ]
+    ],
+
+    "C_length_2": [
+        [
+            "Which line is longer, the <3> line or line <2>?",
+            "<2>"
+        ],
+        [
+            "Which line is longer, line <2> or the <3> line?",
+            "<2>"
+        ],
+        [
+            "Which line is longer, line <1> or the <4> line?",
+            "<4>"
+        ],
+        [
+            "Which line is longer, the <4> line or line <1>?",
+            "<4>"
+        ],
+        [
+            "Is line <1> shorter than line <2>?",
+            "Yes"
+        ],
+        [
+            "Is the <3> line shorter than line <2>?",
+            "Yes"
+        ],
+        [
+            "Is line <1> shorter than the <4> line?",
+            "Yes"
+        ],
+        [
+            "Is line <2> shorter than line <1>?",
+            "No"
+        ],
+        [
+            "Is the <4> line shorter than line <1>?",
+            "No"
+        ],
+        [
+            "Is line <2> shorter than the <3> line?",
+            "No"
+        ],
+        [
+            "Is line <1> longer than line <2>?",
+            "No"
+        ],
+        [
+            "Is line <2> longer than line <1>?",
+            "Yes"
+        ]
+    ],
+
+    "length_3": [
+        [
+            "Which line is the longest in the image?",
+            "<2>"
+        ],
+        [
+            "Are any lines longer than line <1>?",
+            "Yes, <2>"
+        ],
+        [
+            "Among the line segments <2>, <3>, <4>, which is longer than <1>?",
+            "<2>"
+        ],
+        [
+            "Among the line segments <4>, <2>, <3>, which is longer than <1>?",
+            "<2>"
+        ],
+        [
+            "Among the line segments <3>, <4>, <2>, which is longer than <1>?",
+            "<2>"
+        ],
+        [
+            "Are any of the line segments  <3>, <2>, <4> longer than <1>?",
+            "Yes, <2>"
+        ],
+        [
+            "Are any of the line segments  <3>, <4>, <2> longer than <1>?",
+            "Yes, <2>"
+        ],
+        [
+            "Among line segments <1>, <2> and <3>, which one is the shortest?",
+            "<3>"
+        ],
+        [
+            "Among line segments <1>, <3> and <2>, which one is the shortest?",
+            "<3>"
+        ],
+        [
+            "Among line segments <3>, <2> and <1>, which one is the shortest?",
+            "<3>"
+        ],
+        [
+            "Are all lines in the image shorter than line <1>?",
+            "No"
+        ]
+    ],
+
+    "C_length_3": [
+        [
+            "Among the <3> lines, which is the longest in the image?",
+            "<2>"
+        ],
+        [
+            "Out of the <3> lines, which is the longest in the image?",
+            "<2>"
+        ],
+        [
+            "Are any lines longer than line <1>?",
+            "Yes"
+        ],
+        [
+            "Is any of the <3> lines longer than line <1>?",
+            "Yes"
+        ],
+        [
+            "Among the line segments <2>, <4>, <5>, which is longer than <1>?",
+            "<2>"
+        ],
+        [
+            "Among the line segments <4>, <2>, <5>, which is longer than <1>?",
+            "<2>"
+        ],
+        [
+            "Among the line segments <5>, <4>, <2>, which is longer than <1>?",
+            "<2>"
+        ],
+        [
+            "Are any of the line segments  <5>, <2>, <4> longer than <1>?",
+            "Yes, <2>"
+        ],
+        [
+            "Are any of the line segments  <5>, <4>, <2> longer than <1>?",
+            "Yes, <2>"
+        ],
+        [
+            "Among the lines with <3> color, which is the longest?",
+            "<2>"
+        ],
+        [
+            "Are all lines in the image shorter than line <1>?",
+            "No"
+        ]
+    ],
+
+    "length_4": [
+        [
+            "Is the length of line <1><2> longer than the radius of the circle centered at point <3>?",
+            "Yes"
+        ],
+        [
+            "Between line <1><2> and the radius of the circle centered at <3>, which is longer?",
+            "<1><2>"
+        ],
+        [
+            "Is line <1><2> shorter than the radius of the circle centered at <3>?",
+            "No"
+        ],
+        [
+            "Does the circle centered at <3> have a radius longer than line <1><2>?",
+            "No"
+        ],
+        [
+            "Is the radius of the circle centered at <3> equal in length to line <1><2>?",
+            "No"
+        ]
+    ],
+
+    "C_length_4": [
+        [
+            "Is the length of line <1><2> longer than the radius of the circle centered at point <3>?",
+            "Yes"
+        ],
+        [
+            "Is the length of the <4> line longer than the radius of the circle centered at point <3>?",
+            "Yes"
+        ],
+        [
+            "Is the length of the <4> line longer than the radius of the <5> circle?",
+            "Yes"
+        ],
+        [
+            "Is the length of line <1><2> longer than the radius of the <5> circle?",
+            "Yes"
+        ],
+        [
+            "Between line <1><2> and the radius of the circle centered at <3>, which is longer?",
+            "<1><2>"
+        ],
+        [
+            "Between the <4> line and the radius of the <5> circle, which is longer?",
+            "<4>"
+        ],
+        [
+            "Does the <5> circle have a radius longer than the <4> line?",
+            "No"
+        ],
+        [
+            "Is the radius of the <5> circle equal in length to the <4> line?",
+            "No"
+        ]
+    ],
+
+    "length_5": [
+        [
+            "Is the length of line <1><2> shorter than the radius of the circle centered at point <3>?",
+            "Yes"
+        ],
+        [
+            "Between line <1><2> and the radius of the circle <3>, which is longer?",
+            "<3>"
+        ],
+        [
+            "Is line <1><2> longer than the radius of the circle centered at <3>?",
+            "No"
+        ],
+        [
+            "Does the circle centered at <3> have a radius shorter than line <1><2>?",
+            "No"
+        ],
+        [
+            "Are line <1><2> and the radius of the circle centered at <3> equal in length?",
+            "No"
+        ]
+    ],
+
+    "C_length_5": [
+        [
+            "Is the length of line <1><2> shorter than the radius of the circle centered at point <3>?",
+            "Yes"
+        ],
+        [
+            "Is the length of the <4> line shorter than the radius of the <5> circle?",
+            "Yes"
+        ],
+        [
+            "Between <4> line and the radius of the <5> circle, which is longer?",
+            "<5>"
+        ],
+        [
+            "Is line <1><2> longer than the radius of the circle centered at <3>?",
+            "No"
+        ],
+        [
+            "Is the <4> line longer than the radius of the <5> circle?",
+            "No"
+        ],
+        [
+            "Does the <5> circle have a radius shorter than the <4> line?",
+            "No"
+        ]
+    ],
+
+    "length_6": [
+        [
+            "Is the length of line <1><2> equal to the radius of the circle centered at point <3>?",
+            "Yes"
+        ],
+        [
+            "Does line <1><2> have the same length as the radius of the circle centered at <3>?",
+            "Yes"
+        ],
+        [
+            "Between line <1><2> and the radius of the circle centered at <3>, which is longer?",
+            "Equal"
+        ],
+        [
+            "Is line <1><2> shorter than the radius of the circle centered at <3>?",
+            "No"
+        ],
+        [
+            "Are line <1><2> and the radius of the circle centered at <3> different in length?",
+            "No"
+        ]
+    ],
+
+    "C_length_6": [
+        [
+            "Is the length of line <1><2> equal to the radius of the circle centered at point <3>?",
+            "Yes"
+        ],
+        [
+            "Is the length of the <4> line equal to the radius of the <5> circle?",
+            "Yes"
+        ],
+        [
+            "Does line <1><2> have the same length as the radius of the circle centered at <3>?",
+            "Yes"
+        ],
+        [
+            "Does the <4> line have the same length as the radius of the <5> circle?",
+            "Yes"
+        ],
+        [
+            "Between the <4> line and the radius of the <5> circle, which is longer?",
+            "Equal"
+        ]
+    ],
+
+    "length_7": [
+        [
+            "Is the length of line <1><2> longer than the diameter of the circle centered at point <3>?",
+            "Yes"
+        ],
+        [
+            "Between line <1><2> and the diameter of the circle centered at <3>, which is longer?",
+            "<1><2>"
+        ],
+        [
+            "Is line <1><2> shorter than the diameter of the circle centered at <3>?",
+            "No"
+        ],
+        [
+            "Does the circle centered at <3> have a diameter longer than line <1><2>?",
+            "No"
+        ],
+        [
+            "Are line <1><2> and the diameter of the circle centered at <3> equal in length?",
+            "No"
+        ]
+    ],
+
+    "C_length_7": [
+        [
+            "Is the length of line <1><2> longer than the diameter of the circle centered at point <3>?",
+            "Yes"
+        ],
+        [
+            "Is the length of the <4> line longer than the diameter of the <5> circle?",
+            "Yes"
+        ],
+        [
+            "Between line <1><2> and the diameter of the circle centered at <3>, which is longer?",
+            "<1><2>"
+        ],
+        [
+            "Between the <4> line and the diameter of the <5> circle, which is longer?",
+            "<4>"
+        ],
+        [
+            "Is the <4> line shorter than the diameter of the <5> circle?",
+            "No"
+        ]
+    ],
+
+    "length_8": [
+        [
+            "Between point <2> and <3>, which point is the most distant from point <1>?",
+            "<2>"
+        ],
+        [
+            "Between point <3> and <2>, which point is the most distant from point <1>?",
+            "<2>"
+        ],
+        [
+            "Between points <2>, <3>, which is farther from point <1>?",
+            "<2>"
+        ],
+        [
+            "Between points <3>, <2>, which is farther from point <1>?",
+            "<2>"
+        ],
+        [
+            "Between points <2>, <3>, which is closer to point <1>?",
+            "<3>"
+        ],
+        [
+            "Between points <3>, <2>, which is closer to point <1>?",
+            "<3>"
+        ],
+        [
+            "Is point <2> closer to point <1> than point <3>?",
+            "No"
+        ],
+        [
+            "Is point <3> closer to point <1> than point <2>?",
+            "Yes"
+        ]
+    ],
+
+    "C_length_8": [
+        [
+            "Between point <2> and <3>, which point is the most distant from point <1>?",
+            "<2>"
+        ],
+        [
+            "Among the <5> points, which point is the most distant from point <1>?",
+            "<2>"
+        ],
+        [
+            "Among the <5> points, which point is the most distant from the <4> point?",
+            "<2>"
+        ],
+        [
+            "Between point <3> and <2>, which point is the most distant from point <1>?",
+            "<2>"
+        ],
+        [
+            "Between points <2>, <3>, which is farther from point <1>?",
+            "<2>"
+        ],
+        [
+            "Between points <3>, <2>, which is farther from point <1>?",
+            "<2>"
+        ],
+        [
+            "Between points <2>, <3>, which is closer to point <1>?",
+            "<3>"
+        ],
+        [
+            "Between points <2>, <3>, which is closer to the <4> point?",
+            "<3>"
+        ],
+        [
+            "Between points <3>, <2>, which is closer to the <4> point?",
+            "<3>"
+        ],
+        [
+            "Is point <2> closer to the <4> point than point <3>?",
+            "No"
+        ],
+        [
+            "Is point <3> closer to the <4> point than point <2>?",
+            "Yes"
+        ]
+    ],
+
+    "length_9": [
+        [
+            "Is the length of line <1><2> shorter than the diameter of the circle centered at point <3>?",
+            "Yes"
+        ],
+        [
+            "Between line <1><2> and the diameter of the circle centered at <3>, which is longer?",
+            "<3>"
+        ],
+        [
+            "Is line <1><2> longer than the diameter of the circle centered at <3>?",
+            "No"
+        ],
+        [
+            "Does the circle centered at <3> have a diameter longer than line <1><2>?",
+            "Yes"
+        ],
+        [
+            "Are line <1><2> and the diameter of the circle centered at <3> equal in length?",
+            "No"
+        ]
+    ],
+
+    "C_length_9": [
+        [
+            "Is the length of line <1><2> longer than the diameter of the circle centered at point <3>?",
+            "No"
+        ],
+        [
+            "Is the length of the <4> line longer than the diameter of the <5> circle?",
+            "No"
+        ],
+        [
+            "Between line <1><2> and the diameter of the circle centered at <3>, which is longer?",
+            "<3>"
+        ],
+        [
+            "Between the <4> line and the diameter of the <5> circle, which is longer?",
+            "<5>"
+        ],
+        [
+            "Is the <4> line shorter than the diameter of the <5> circle?",
+            "Yes"
+        ]
+    ],
+
+    "length_10": [
+        [
+            "Compare the distance between point <3> and <4> with the length of line <1><2>.",
+            "Line <1><2> is shorter"
+        ],
+        [
+            "Compare the distance between point <3> and <4> with the length of line <1><2>.",
+            "<3><4> is longer"
+        ],
+        [
+            "Is the distance between points <3> and <4> equal to the length of line <1><2>?",
+            "No"
+        ],
+        [
+            "Is the line <1><2> longer than the distance between point <3> and <4>?",
+            "No"
+        ],
+        [
+            "Is the distance between points <3> and <4> shorter than the length of line <1><2>?",
+            "No"
+        ],
+        [
+            "If you connect point <3> and <4> with a straight line, would it be longer than line <1><2>?",
+            "Yes"
+        ],
+        [
+            "If you connect point <3> and <4> with a straight line, would it be shorter than line <1><2>?",
+            "No"
+        ]
+    ],
+
+    "C_length_10": [
+        [
+            "Compare the distance between point <3> and <4> with the length of the <5> line.",
+            "<5> is shorter"
+        ],
+        [
+            "Compare the distance between point <3> and <4> with the length of the <5> line.",
+            "<3><4> is longer"
+        ],
+        [
+            "Is the distance between points <3> and <4> equal to the length of line <1><2>?",
+            "No"
+        ],
+        [
+            "Is the <5> line longer than the distance between point <3> and <4>?",
+            "No"
+        ],
+        [
+            "Is the distance between points <3> and <4> shorter than the length of the <5> line",
+            "No"
+        ],
+        [
+            "If you connect point <3> and <4> with a straight line, would it be longer than line <1><2>?",
+            "Yes"
+        ],
+        [
+            "If you connect point <3> and <4> with a straight line, would it be shorter than the <5> line?",
+            "No"
+        ]
+    ],
+
+    "length_11": [
+        [
+            "Is line <1><2> shorter than the distance between point <3> and <4>?",
+            "No (equal)"
+        ],
+        [
+            "Is line <1><2> longer than the distance between point <3> and <4>?",
+            "No (equal)"
+        ],
+        [
+            "If you connect points <3> and <4> with a straight line segment, would it be longer than line <1><2>?",
+            "No (equal)"
+        ],
+        [
+            "Do line <1><2> and the distance between point <3> and <4> measure the same?",
+            "Yes"
+        ],
+        [
+            "Comparing line <1><2> with the segment connecting point <3> and <4>, which is longer?",
+            "Same"
+        ],
+        [
+            "Given the current situation, do you see any difference in the length of line <1><2> and the distance between point <3> and <4>?",
+            "No"
+        ],
+        [
+            "Does the line segment <1><2> match perfectly with the distance between point <3> and <4> if placed side by side?",
+            "Yes"
+        ],
+        [
+            "Are line <1><2> and the segment from point <3> to point <4> congruent in terms of length?",
+            "Yes"
+        ]
+    ],
+
+    "C_length_11": [
+        [
+            "Is the <5> line as long as the distance between point <3> and <4>?",
+            "Yes"
+        ],
+        [
+            "Could the <5> line be longer than the distance from <3> to <4>?",
+            "No"
+        ],
+        [
+            "Do you see any difference in measurement between line <1><2> and the segment connecting <3> and <4>?",
+            "No"
+        ],
+        [
+            "If I place line <1><2> on top of the segment <3><4>, would they align perfectly?",
+            "Yes"
+        ],
+        [
+            "Is it true that line of color <5> is shorter than the distance from <3> to <4>?",
+            "No"
+        ],
+        [
+            "Does the current situation imply that line of color <5> and the distance between <3> and <4> are congruent?",
+            "Yes"
+        ]
+    ],
+
+    "length_12": [
+        [
+            "Is line <1><2> longer than the distance between points <3> and <4>?",
+            "Yes"
+        ],
+        [
+            "Could the distance from <3> to <4> match line <1><2> in length?",
+            "No"
+        ],
+        [
+            "If I measure line <1><2>, would it exceed the measurement of the segment <3><4>?",
+            "Yes"
+        ],
+        [
+            "Is there any chance that line <1><2> is shorter than or equal to the distance between <3> and <4>?",
+            "No"
+        ],
+        [
+            "How would you compare the lengths of <1><2> and the distance between points <3> and <4> in this image?",
+            "<1><2> is longer"
+        ],
+        [
+            "Does the current situation confirm line <1><2> dominates in length over points <3> and <4>?",
+            "Yes"
+        ],
+        [
+            "What would you see if you compare line <1><2> with the points <3> and <4>?",
+            "<1><2> extends beyond"
+        ]
+    ],
+
+    "C_length_12": [
+        [
+            "Is the line <1><2> longer than the distance between <3> and <4>?",
+            "Yes"
+        ],
+        [
+            "Is the <5> line longer than the distance between <3> and <4>?",
+            "Yes"
+        ],
+        [
+            "Could line of color <5> be equal in length to the distance from <3> to <4>?",
+            "No"
+        ],
+        [
+            "Do you observe that the length of the <5> line is smaller than the distance from <3> to <4>?",
+            "No"
+        ],
+        [
+            "Would measuring the color <5> line confirm that it’s bigger than the distance connecting points <3> and <4>?",
+            "Yes"
+        ]
+    ],
+
+    "length_13": [
+        [
+            "Does triangle <1><2><3> have all its edges equal in length?",
+            "Yes"
+        ],
+        [
+            "Is the length of edge <1><2> longer than the length of edge <2><3>?",
+            "No"
+        ],
+        [
+            "Is the length of edge <1><2> same as the length of edge <2><3>?",
+            "Yes"
+        ],
+        [
+            "Is the length of edge <1><2> shorter than the length of edge <2><3>?",
+            "No"
+        ],
+        [
+            "Which edge is longer, <1><2> or <2><3>?",
+            "Same"
+        ],
+        [
+            "Which edge is shorter, <1><2> or <3><2>?",
+            "Same"
+        ],
+        [
+            "Which edge of triangle <1><2><3> is the longest?",
+            "All equal"
+        ],
+        [
+            "Which edge of triangle <1><2><3> is the shortest?",
+            "All equal"
+        ],
+        [
+            "Can any of the edges in triangle <1><2><3> be shorter or longer than the others?",
+            "No"
+        ],
+        [
+            "Is there any possibility of a scalene or isosceles property in this triangle?",
+            "No"
+        ],
+        [
+            "Would you classify triangle <1><2><3> as having symmetrical edges?",
+            "Yes"
+        ]
+    ],
+
+  "C_length_13": [
+        [
+            "Are the edges <1><2>, <2><3>, and <3><1> in color <4> all equal?",
+            "Yes"
+        ],
+        [
+            "Could there be any variation in the side lengths of the <4> triangle?",
+            "No"
+        ],
+        [
+            "If we measure each edge <1><2>, <2><3>, and <3><1>, what would we find?",
+            "All same"
+        ],
+        [
+            "Which edge would you claim to be the smallest if forced to pick among the edges of the <4> triangle?",
+            "None"
+        ],
+        [
+            "Which edge would you claim to be the largest if forced to pick among the edges of the <4> triangle?",
+            "None"
+        ],
+        [
+            "Among the edges of the <4> triangle, which one is the longest?",
+            "All same"
+        ],
+        [
+            "Among the edges of the <4> triangle, which one is the shortest?",
+            "All same"
+        ],
+        [
+            "Which edge of the <4> triangle is the longest?",
+            "All same"
+        ],
+        [
+            "Is the length of edge <1><2> shorter than the length of edge <2><3>?",
+            "No"
+        ],
+        [
+            "Which edge is longer, <1><2> or <2><3>?",
+            "Same"
+        ],
+        [
+            "Which edge is shorter, <1><2> or <3><2>?",
+            "Same"
+        ],
+        [
+            "Which edge of the <4> triangle is the longest?",
+            "All same"
+        ],
+        [
+            "Which edge of the <4> triangle is the shortest?",
+            "All same"
+        ]
+    ],
+    "length_14_1": [
+        [
+            "Do edges <1><2> and <3><1> in the triangle have the same length?",
+            "Yes"
+        ],
+        [
+            "Is the third edge <2><3> equal in length to <1><2> and <3><1>?",
+            "No"
+        ],
+        [
+            "Does the fact that <2><3> is longer make this triangle scalene?",
+            "No"
+        ],
+        [
+            "Could <2><3> be the shortest side of the triangle <1><2><3>?",
+            "No"
+        ],
+        [
+            "Could <2><3> be the longest side of the triangle <1><2><3>?",
+            "Yes"
+        ],
+        [
+            "If we measure <1><2>, <3><1>, and <2><3>, what would we discover?",
+            "Two match, one is longer"
+        ],
+        [
+            "If I asked you to pick the shortest side among the edges of triangle <1><2><3>, would it be <2><3>?",
+            "No"
+        ],
+        [
+            "If I asked you to pick the shortest side among the edges of triangle <1><2><3>, would it be <2><3>?",
+            "Yes"
+        ],
+        [
+            "If I asked you to pick the shortest side among the edges of triangle <1><2><3>, would it be <1><2>?",
+            "Yes"
+        ],
+        [
+            "Is there a possibility that line <3><1> is secretly longer than line <2><3>?",
+            "No"
+        ]
+    ],
+    "C_length_14_1": [
+        [
+            "Which edges of the <4> triangle are of equal length?",
+            "Lines <1><2> and <1><3>"
+        ],
+        [
+            "Are all edges of the <4> triangle the same length?",
+            "No"
+        ],
+        [
+            "Does the edge <2><3> match the length of the other two edges in color <4> ?",
+            "No"
+        ],
+        [
+            "Could line <2><3> be shorter than <1><2>?",
+            "No"
+        ],
+        [
+            "Is there a possibility that all three edges are the same length after all?",
+            "No"
+        ],
+        [
+            "How would you verify the difference in lengths among <1><2>, <3><1>, and <2><3>?",
+            "Measure: <2><3> longest, other two match"
+        ]
+    ],
+    "length_14_2": [
+        [
+            "Are <1><2> and <3><1> the equal sides in triangle <1><2><3>?",
+            "Yes"
+        ],
+        [
+            "Are <1><2> and <2><3> the equal sides in the triangle <1><2><3>?",
+            "No"
+        ],
+        [
+            "Which side is the shortest among <1><2>, <3><1>, and <2><3>?",
+            "<2><3>"
+        ],
+        [
+            "Which is longer, line <1><2> or <2><3>?",
+            "<1><2>"
+        ],
+        [
+            "Which is shorter, line <1><2> or <2><3>?",
+            "<2><3>"
+        ],
+        [
+            "Do <1><2> and <3><1> match in length with each other?",
+            "Yes"
+        ],
+        [
+            "Do <3><2> and <2><1> match in length with each other?",
+            "No"
+        ]
+    ],
+    "C_length_14_2": [
+        [
+            "Are <1><2> and <3><1> the equal sides in <4> triangle?",
+            "Yes"
+        ],
+        [
+            "Are <1><2> and <2><3> the equal sides in the <4> triangle?",
+            "No"
+        ],
+        [
+            "Which side is the shortest among the edges of the <4> triangle?",
+            "<2><3>"
+        ],
+        [
+            "Which side is the shortest among the <4> lines?",
+            "<2><3>"
+        ],
+        [
+            "Which is longer, line <1><2> or <2><3>?",
+            "<1><2>"
+        ],
+        [
+            "Which is shorter, line <1><2> or <2><3>?",
+            "<2><3>"
+        ],
+        [
+            "Which is shorter, line <1><2> or <1><3>?",
+            "Same"
+        ],
+        [
+            "Do <1><2> and <3><1> match in length with each other?",
+            "Yes"
+        ],
+        [
+            "Do <3><2> and <2><1> match in length with each other?",
+            "No"
+        ],
+        [
+            "Could it be that <2><3> is actually the same length as the other sides if measured carefully?",
+            "No"
+        ]
+    ],
+    "length_15": [
+        [
+            "Does triangle <1><2><3> have any pair of sides that are equal?",
+            "No"
+        ],
+        [
+            "Do line <1><2> and line <1><3> have the same length?",
+            "No"
+        ],
+        [
+            "Do line <1><2> and line <2><3> have the same length?",
+            "No"
+        ],
+        [
+            "Could any two edges of triangle <1><2><3> match in length?",
+            "No"
+        ],
+        [
+            "Among the edges of the triangle <1><2><3>, find a pair with equal lengths.",
+            "None"
+        ]
+    ],
+    "C_length_15": [
+        [
+            "Does the <4> triangle have any pair of sides that are equal?",
+            "No"
+        ],
+        [
+            "Do line <1><2> and line <1><3> have the same length?",
+            "No"
+        ],
+        [
+            "Among the <4> lines, find a pair of equal lengths.",
+            "None"
+        ],
+        [
+            "Do line <1><2> and line <2><3> have the same length?",
+            "No"
+        ],
+        [
+            "Could any two edges of triangle <1><2><3> match in length?",
+            "No"
+        ],
+        [
+            "Could any two edges of the <4> triangle match in length?",
+            "No"
+        ],
+        [
+            "Among the edges of the <4> triangle, find a pair with equal lengths.",
+            "None"
+        ]
+    ],
+    "length_16": [
+        [
+            "Does circle <1> have a larger radius than circle <2>?",
+            "Yes"
+        ],
+        [
+            "Does circle <2> have a larger radius than circle <1>?",
+            "No"
+        ],
+        [
+            "Is the radius of circle <1> greater than the radius of circle <2>?",
+            "Yes"
+        ],
+        [
+            "Is the radius of circle <2> greater than the radius of circle <1>?",
+            "No"
+        ],
+        [
+            "Does circle <1> have a radius that exceeds the radius of circle <2>?",
+            "Yes"
+        ],
+        [
+            "Does circle <2> have a radius that exceeds the radius of circle <1>?",
+            "No"
+        ],
+        [
+            "Is the radius of circle <1> longer compared to circle <2>?",
+            "Yes"
+        ],
+        [
+            "Is the radius of circle <2> longer compared to circle <1>?",
+            "No"
+        ]
+    ],
+    "C_length_16": [
+        [
+            "Does circle <1> have a larger radius than circle <2>?",
+            "Yes"
+        ],
+        [
+            "Does the <3> circle have a larger radius than the <4> circle?",
+            "Yes"
+        ],
+        [
+            "Which color's circle has a larger radius, <3> or <4>?",
+            "<3>"
+        ],
+        [
+            "Is the radius of circle <1> bigger than the radius of circle <2>?",
+            "Yes"
+        ],
+        [
+            "Is the circle of color <3> larger in radius than the circle of color <4>?",
+            "Yes"
+        ],
+        [
+            "Between the <3> circle and the <4> circle, which one has a greater radius?",
+            "<3>"
+        ],
+        [
+            "Are circles <1> and <2> the same color?",
+            "No"
+        ],
+        [
+            "Which circle is bigger in radius, <1> or <2>?",
+            "<1>"
+        ],
+        [
+            "Do circles <1> and <2> have the same radius?",
+            "No"
+        ],
+        [
+            "Which of these two colors represents the circle with the larger radius, <3> or <4>?",
+            "<3>"
+        ]
+    ],
+    "length_17_1": [
+        [
+            "True or False: line <1><2> is twice as long as line <3><4>.",
+            "True"
+        ],
+        [
+            "True or False: line <1><2> is thrice as long as line <3><4>.",
+            "False"
+        ],
+        [
+            "True or False: line <1><2> is as long as line <3><4>.",
+            "False"
+        ],
+        [
+            "True or False: line <1><2> is longer than thrice line <3><4>.",
+            "False"
+        ],
+        [
+            "Choose the correct word: Line <1><2> is twice/thrice/four times as long as line <3><4>.",
+            "twice"
+        ],
+        [
+            "Choose the correct number: Line <1><2> is 2/3/4 times as long as line <3><4>.",
+            "2"
+        ],
+        [
+            "Yes or No: line <1><2> appears longer than line <3><4>.",
+            "Yes"
+        ],
+        [
+            "True or False: line <3><4> is half as long as line <1><2>.",
+            "True"
+        ],
+        [
+            "Fill in the blank: line <1><2> is _______ longer than line <3><4>.",
+            "twice"
+        ],
+        [
+            "If line <3><4> measures 5 units, how long is line <1><2>?",
+            "10"
+        ],
+        [
+            "Which line is shorter: line <1><2> or line <3><4>?",
+            "<3><4>"
+        ],
+        [
+            "True or False: line <1><2> is double the length of line <3><4>.",
+            "True"
+        ]
+    ],
+    "C_length_17_1": [
+        [
+            "True or False: line <1><2> is twice as long as line <3><4>.",
+            "True"
+        ],
+        [
+            "True or False: line <1><2> is twice as long as line <3><4>.",
+            "True"
+        ],
+        [
+            "True or False: line <1><2> is thrice as long as line <3><4>.",
+            "False"
+        ],
+        [
+            "True or False: line <1><2> is as long as line <3><4>.",
+            "False"
+        ],
+        [
+            "True or False: line <1><2> is longer than thrice line <3><4>.",
+            "False"
+        ],
+        [
+            "Choose the correct word: Line <1><2> is twice/thrice/four times as long as line <3><4>.",
+            "twice"
+        ],
+        [
+            "Choose the correct number: Line <1><2> is 1/2/3/4/5 times long as line <3><4>.",
+            "2"
+        ],
+        [
+            "Yes or No: line <1><2> appears longer than line <3><4>.",
+            "Yes"
+        ],
+        [
+            "True or False: line <3><4> is half as long as line <1><2>.",
+            "True"
+        ],
+        [
+            "Fill in the blank: line <1><2> is _______ longer than line <3><4>.",
+            "twice"
+        ],
+        [
+            "If line <3><4> measures 5 units, how long is line <1><2>?",
+            "10"
+        ],
+        [
+            "Which line is shorter: line <1><2> or line <3><4>?",
+            "<3><4>"
+        ],
+        [
+            "True or False: line <1><2> is double the length of line <3><4>.",
+            "True"
+        ]
+    ],
+    "length_17_2": [
+        [
+            "True or False: line <1><2> is thrice as long as line <3><4>.",
+            "True"
+        ],
+        [
+            "Yes or No: line <1><2> appears shorter than line <3><4>.",
+            "No"
+        ],
+        [
+            "Is line <1><2> longer than the twice of line <3><4>?",
+            "Yes"
+        ],
+        [
+            "Yes or No: line <3><4> appears shorter than line <1><2>.",
+            "Yes"
+        ],
+        [
+            "Choose the correct word: line <1><2> is twice/thrice/four times as long as line <3><4>?",
+            "thrice"
+        ],
+        [
+            "True or False: line <1><2> is four times as long as line <3><4>?",
+            "False"
+        ],
+        [
+            "Yes or No: line <1><2> is longer than line <3><4>.",
+            "Yes"
+        ],
+        [
+            "If line <3><4> measures 10 units, how long is line <1><2>?",
+            "30"
+        ],
+        [
+            "True or False: line <3><4> is one-third the length of line <1><2>.",
+            "True"
+        ],
+        [
+            "Yes or No: line <1><2> is the same length as line <3><4>?",
+            "No"
+        ],
+        [
+            "Which line is shorter: line <1><2> or line <3><4>?",
+            "<3><4>"
+        ],
+        [
+            "Fill in the blank: line <1><2> is _______ as long as line <3><4>.",
+            "three times"
+        ]
+    ],
+    "length_17_3": [
+        [
+            "True or False: line <1><2> is <5> times as long as line <3><4>.",
+            "True"
+        ],
+        [
+            "True or False: line <3><4> is <5> times as long as line <1><2>.",
+            "False"
+        ],
+        [
+            "Yes or No: line <3><4> is <5> times longer than line <1><2>.",
+            "No"
+        ],
+        [
+            "Yes or No: line <1><2> is <5> times longer than line <3><4>.",
+            "Yes"
+        ],
+        [
+            "Choose the correct number: line <1><2> is 1/2/3/4/5 times as long as line <3><4>.",
+            "<5>"
+        ],
+        [
+            "Fill in the blank: line <1><2> is _ times the length of line <3><4>.",
+            "<5>"
+        ],
+        [
+            "Which line is shorter: line <1><2> or line <3><4>?",
+            "<3><4>"
+        ]
+    ],
+    "angle1": [
+        [
+            "Is the angle <2><1><3> acute?",
+            "Yes"
+        ],
+        [
+            "Is angle <2><1><3> less than 90 degrees?",
+            "Yes"
+        ],
+        [
+            "Is angle <2><1><3> an obtuse angle?",
+            "No"
+        ],
+        [
+            "Does angle <2><1><3> measure less than a right angle?",
+            "Yes"
+        ]
+    ],
+    "C_angle1": [
+        [
+            "Is the angle <2><1><3> acute?",
+            "Yes"
+        ],
+        [
+            "Is the angle represented by <4> lines acute?",
+            "Yes"
+        ],
+        [
+            "Is the angle represented by <4> lines acute?",
+            "Yes"
+        ],
+        [
+            "Is the angle represented by <4> lines acute?",
+            "Yes"
+        ],
+        [
+            "Is the angle represented by <4> lines acute?",
+            "Yes"
+        ],
+        [
+            "Is angle between <4> lines less than 90 degrees?",
+            "Yes"
+        ],
+        [
+            "Is angle <2><1><3> an obtuse angle?",
+            "No"
+        ],
+        [
+            "Does angle <2><1><3> measure less than a right angle?",
+            "Yes"
+        ]
+    ],
+    "angle2": [
+        [
+            "Is the angle <2><1><3> obtuse?",
+            "Yes"
+        ],
+        [
+            "Is the angle <2><1><3> acute?",
+            "No"
+        ],
+        [
+            "Is angle <2><1><3> greater than 90 degrees?",
+            "Yes"
+        ],
+        [
+            "Is angle <2><1><3> an obtuse angle?",
+            "Yes"
+        ],
+        [
+            "Does angle <2><1><3> measure more than a right angle?",
+            "Yes"
+        ]
+    ],
+    "C_angle2": [
+        [
+            "Is the angle <2><1><3> obtuse?",
+            "Yes"
+        ],
+        [
+            "Is the angle between <4> lines obtuse?",
+            "Yes"
+        ],
+        [
+            "Is the angle <2><1><3> acute?",
+            "No"
+        ],
+        [
+            "Is the angle between <4> lines acute?",
+            "No"
+        ],
+        [
+            "Is angle <2><1><3> greater than 90 degrees?",
+            "Yes"
+        ],
+        [
+            "Is angle represented by <4> color obtuse?",
+            "Yes"
+        ],
+        [
+            "Does the angle between <4> lines measure more than a right angle?",
+            "Yes"
+        ]
+    ],
+    "angle3": [
+        [
+            "Is the angle <2><1><3> right?",
+            "Yes"
+        ],
+        [
+            "Is the angle <2><1><3> acute?",
+            "No"
+        ],
+        [
+            "Is the angle <2><1><3> acute?",
+            "No"
+        ],
+        [
+            "Is angle <2><1><3> equal to 90 degrees?",
+            "Yes"
+        ],
+        [
+            "Is angle <2><1><3> a right angle?",
+            "Yes"
+        ],
+        [
+            "Is angle <2><1><3> an obtuse angle?",
+            "No"
+        ],
+        [
+            "Does angle <2><1><3> measure exactly 90 degrees?",
+            "Yes"
+        ]
+    ],
+    "C_angle3": [
+        [
+            "Is the angle between <4> lines right?",
+            "Yes"
+        ],
+        [
+            "Is the angle between <4> lines right?",
+            "Yes"
+        ],
+        [
+            "Is the angle between <4> lines right?",
+            "Yes"
+        ],
+        [
+            "Is the angle <2><1><3> right?",
+            "Yes"
+        ],
+        [
+            "Is the angle <2><1><3> acute?",
+            "No"
+        ],
+        [
+            "Is the angle <2><1><3> acute?",
+            "No"
+        ],
+        [
+            "Is angle <2><1><3> equal to 90 degrees?",
+            "Yes"
+        ],
+        [
+            "Is angle <2><1><3> a right angle?",
+            "Yes"
+        ],
+        [
+            "Is angle <2><1><3> an obtuse angle?",
+            "No"
+        ],
+        [
+            "Is angle represent by <4> color an obtuse angle?",
+            "No"
+        ]
+    ],
+    "angle4": [
+        [
+            "Is the triangle <1><2><3> acute?",
+            "Yes"
+        ],
+        [
+            "Is the triangle <1><2><3> a right triangle?",
+            "No"
+        ],
+        [
+            "Are all angles in triangle <1><2><3> acute?",
+            "Yes"
+        ],
+        [
+            "Is triangle <1><2><3> an acute-angled triangle?",
+            "Yes"
+        ]
+    ],
+    "C_angle4": [
+        [
+            "Is the triangle <1><2><3> acute?",
+            "Yes"
+        ],
+        [
+            "Is the triangle <1><2><3> acute?",
+            "Yes"
+        ],
+        [
+            "Is the <4> triangle acute?",
+            "Yes"
+        ],
+        [
+            "Is the <4> triangle acute?",
+            "Yes"
+        ],
+        [
+            "Is the triangle in <4> acute?",
+            "Yes"
+        ],
+        [
+            "Is triangle <1><2><3> a right triangle?",
+            "No"
+        ],
+        [
+            "Is the <4> triangle a right triangle?",
+            "No"
+        ],
+        [
+            "Is the <4> triangle a right triangle?",
+            "No"
+        ],
+        [
+            "Are all angles in the <4> triangle acute?",
+            "Yes"
+        ],
+        [
+            "Is triangle <1><2><3> an acute-angled triangle?",
+            "Yes"
+        ]
+    ],
+    "angle5": [
+        [
+            "Is the triangle <1><2><3> obtuse?",
+            "Yes"
+        ],
+        [
+            "Which angle in the triangle <1><2><3> is obtuse?",
+            "<1>"
+        ],
+        [
+            "Are all angles in triangle <1><2><3> acute?",
+            "No"
+        ],
+        [
+            "Are <1><2><3> an acute triangle?",
+            "No"
+        ],
+        [
+            "Does triangle <1><2><3> have an obtuse angle?",
+            "Yes"
+        ]
+    ],
+    "C_angle5": [
+        [
+            "Is the triangle <1><2><3> obtuse?",
+            "Yes"
+        ],
+        [
+            "Is the triangle in <4> obtuse?",
+            "Yes"
+        ],
+        [
+            "Is the <4> triangle obtuse?",
+            "Yes"
+        ],
+        [
+            "Which angle in the triangle <1><2><3> is obtuse?",
+            "<1>"
+        ],
+        [
+            "Which angle in the <4> triangle is obtuse?",
+            "<1>"
+        ],
+        [
+            "Are all angles in triangle <1><2><3> acute?",
+            "No"
+        ],
+        [
+            "Are all angles in the <4> triangle acute?",
+            "No"
+        ],
+        [
+            "Does the <4> triangle have an obtuse angle?",
+            "Yes"
+        ]
+    ],
+    "angle6": [
+        [
+            "Is the triangle <1><2><3> right?",
+            "Yes"
+        ],
+        [
+            "Which angle in the triangle <1><2><3> is right?",
+            "<1>"
+        ],
+        [
+            "Is the triangle <1><2><3> acute?",
+            "No"
+        ],
+        [
+            "Which angle in the triangle <1><2><3> is right?",
+            "vertex <1>"
+        ],
+        [
+            "Does triangle <1><2><3> have a right angle?",
+            "Yes"
+        ],
+        [
+            "Is triangle <1><2><3> a right-angled triangle?",
+            "Yes"
+        ]
+    ],
+    "C_angle6": [
+        [
+            "Is the triangle <1><2><3> right?",
+            "Yes"
+        ],
+        [
+            "Is the <4> triangle a right triangle?",
+            "Yes"
+        ],
+        [
+            "Is the <4> triangle a right triangle?",
+            "Yes"
+        ],
+        [
+            "Is the <4> triangle a right triangle?",
+            "Yes"
+        ],
+        [
+            "Which angle in the triangle <1><2><3> is right?",
+            "<1>"
+        ],
+        [
+            "Which angle in the <4> triangle is the right one?",
+            "<1>"
+        ],
+        [
+            "Is the triangle <1><2><3> acute?",
+            "No"
+        ],
+        [
+            "Is the <4> triangle acute?",
+            "No"
+        ],
+        [
+            "Is the <4> triangle acute?",
+            "No"
+        ],
+        [
+            "Which angle in the triangle <1><2><3> is right?",
+            "vertex <1>"
+        ],
+        [
+            "Does the <4> polygon have a right angle?",
+            "Yes"
+        ],
+        [
+            "Is triangle <1><2><3> a right-angled triangle?",
+            "Yes"
+        ]
+    ],
+    "angle7": [
+        [
+            "Among the angles <2><1><3> and <2><1><4>, which one is acute?",
+            "<2><1><3>"
+        ],
+        [
+            "Which angle is obtuse, <2><1><3> or <2><1><4>?",
+            "<2><1><4>"
+        ],
+        [
+            "Which angle is acute, <2><1><4> or <2><1><3>?",
+            "<2><1><3>"
+        ],
+        [
+            "Between angles <2><1><3> and <2><1><4>, which is less than 90 degrees?",
+            "<2><1><3>"
+        ],
+        [
+            "Which of the angles <2><1><3> or <2><1><4> is smaller?",
+            "<2><1><3>"
+        ]
+    ],
+    "C_angle7": [
+        [
+            "Among the angles <2><1><3> and <2><1><4>, which one is acute?",
+            "<2><1><3>"
+        ],
+        [
+            "Which line forms an acute angle with line <2><1>, line <1><3> or line <1><4>?",
+            "<1><3>"
+        ],
+        [
+            "Which line forms an acute angle with line <2><1>, line <1><3> or line <1><4>?",
+            "<1><3>"
+        ],
+        [
+            "Which line forms an acute angle with line <2><1>, <5> line or <6> line?",
+            "<5>"
+        ],
+        [
+            "Which line forms an acute angle with line <2><1>, line <1><3> or line <1><4>?",
+            "<5>"
+        ],
+        [
+            "Which angle is obtuse, <2><1><3> or <2><1><4>?",
+            "<2><1><4>"
+        ],
+        [
+            "Which line forms an obtuse angle with line <2><1>, <5> line or <6> line?",
+            "<6>"
+        ],
+        [
+            "Which line forms an obtuse angle with line <2><1>, line <1><3> or line <1><4>?",
+            "<6>"
+        ],
+        [
+            "Which angle is acute, <2><1><4> or <2><1><3>?",
+            "<2><1><3>"
+        ]
+    ],
+    "angle7-2": [
+        [
+            "Among the angles <2><1><3> and <2><1><4>, which one is acute?",
+            "<2><1><4>"
+        ],
+        [
+            "Which line forms an acute angle with line <2><1>, line <1><3> or line <1><4>?",
+            "<1><4>"
+        ],
+        [
+            "Which line forms an acute angle with line <2><1>, line <1><3> or line <1><4>?",
+            "<1><4>"
+        ],
+        [
+            "Which line forms an acute angle with line <2><1>, <5> line or <6> line?",
+            "<6>"
+        ],
+        [
+            "Which color's line forms an acute angle with line <2><1>, <5> or <6>?",
+            "<6>"
+        ],
+        [
+            "Which angle is obtuse, <2><1><3> or <2><1><4>?",
+            "<2><1><3>"
+        ],
+        [
+            "Which line forms an obtuse angle with line <2><1>, <5> line or <6> line?",
+            "<5>"
+        ],
+        [
+            "Which color's line forms an obtuse angle with line <2><1>, <5> or <6>?",
+            "<5>"
+        ],
+        [
+            "Which of the angles <2><1><3> or <2><1><4> is smaller?",
+            "<2><1><4>"
+        ]
+    ],
+    "angle8": [
+        [
+            "Among the angles <1>, <3>, <5>, which is obtuse, acute, and right?",
+            "<1> is <2>, <3> is <4>, <5> is <6>"
+        ],
+        [
+            "Out of the angles <1>, <3>, and <5>, identify which one is obtuse, acute, or right.",
+            "<1> is <2>, <3> is <4>, <5> is <6>"
+        ],
+        [
+            "Among angles <1>, <3>, and <5>, determine which is obtuse, which is acute, and which is right.",
+            "<1> is <2>, <3> is <4>, <5> is <6>"
+        ],
+        [
+            "Which of the angles <1>, <3>, and <5> is obtuse, acute, or right?",
+            "<1> is <2>, <3> is <4>, <5> is <6>"
+        ]
+    ],
+    "C_angle8": [
+        [
+            "Among the angles <1>, <3>, <5>, which is obtuse, acute, and right?",
+            "<1> is <2>, <3> is <4>, <5> is <6>"
+        ],
+        [
+            "Among the angles of <7>, <8>, <9>, which is obtuse, acute, and right?",
+            "<7> is <2>, <8> is <4>, <9> is <6>"
+        ],
+        [
+            "Out of the angles in <7>, <8>, and <9>, identify which one is obtuse, acute, or right.",
+            "<7> is <2>, <8> is <4>, <9> is <6>"
+        ],
+        [
+            "Among angles <1>, <3>, and <5>, determine which is obtuse, which is acute, and which is right.",
+            "<1> is <2>, <3> is <4>, <5> is <6>"
+        ],
+        [
+            "Among angles of color <7>, <8>, and <9>, determine which is obtuse, which is acute, and which is right.",
+            "<7> is <2>, <8> is <4>, <9> is <6>"
+        ],
+        [
+            "Which of the angles <1>, <3>, and <5> is obtuse, acute, or right?",
+            "<1> is <2>, <3> is <4>, <5> is <6>"
+        ]
+    ],
+    "angle9": [
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are acute??",
+            "<1> is acute, others obtuse"
+        ],
+        [
+            "Among the angles <3>, <2>, <4>, and <1>, which of them are acute?",
+            "<1> is acute, others obtuse"
+        ],
+        [
+            "Among the angles <2>, <1>, <4>, and <3>, which of them are acute?",
+            "<1> is acute, others obtuse"
+        ],
+        [
+            "Among the angles <3>, <4>, <1>, and <2>, which of them are acute?",
+            "<1> is acute, others obtuse"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are acute?",
+            "1"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are acute?",
+            "1"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are obtuse?",
+            "3"
+        ]
+    ],
+    "C_angle9": [
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are acute??",
+            "<1> is acute, others obtuse"
+        ],
+        [
+            "Among the angles in <5>, which of them are acute?",
+            "<1> is acute, others obtuse"
+        ],
+        [
+            "Among the <5> angles in the image, which of them are acute?",
+            "<1> is acute, others obtuse"
+        ],
+        [
+            "Out of the <5> angles, which of them are acute?",
+            "<1> is acute, others obtuse"
+        ],
+        [
+            "Out of the angles in color <5>, which of them are acute?",
+            "<1> is acute"
+        ],
+        [
+            "Among the angles <2>, <1>, <4>, and <3>, which of them are acute?",
+            "<1> is acute, others obtuse"
+        ],
+        [
+            "Among the angles <3>, <4>, <1>, and <2>, which of them are acute?",
+            "<1> is acute, others obtuse"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are acute?",
+            "1"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are acute?",
+            "1"
+        ],
+        [
+            "Among the angles each represented by a pair of <5> lines, how many of them are acute?",
+            "1"
+        ],
+        [
+            "Out of the angles represented in <5>, how many of them are acute?",
+            "1"
+        ],
+        [
+            "Among the angles represented in <5>, how many of them are acute?",
+            "1"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are acute?",
+            "1"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are obtuse?",
+            "3"
+        ]
+    ],
+    "angle10": [
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are obtuse?",
+            "<1> is obtuse, others acute"
+        ],
+        [
+            "Among the angles <2>, <1>, <3>, and <4>, which of them are obtuse?",
+            "<1> is obtuse, others acute"
+        ],
+        [
+            "Among the angles <3>, <2>, <1>, and <4>, which of them are obtuse?",
+            "<1> is obtuse, others acute"
+        ],
+        [
+            "Among the angles <4>, <2>, <3>, and <1>, which of them are obtuse?",
+            "<1> is obtuse, others acute"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are obtuse?",
+            "1"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are obtuse?",
+            "1"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are acute?",
+            "3"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are acute?",
+            "3"
+        ]
+    ],
+    "C_angle10": [
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are obtuse?",
+            "<1> is obtuse, others acute"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are obtuse?",
+            "<1>"
+        ],
+        [
+            "Among the angles in color <5>, which of them are obtuse?",
+            "<1>"
+        ],
+        [
+            "Among the angles represented in color <5>, which of them are obtuse?",
+            "<1>"
+        ],
+        [
+            "Out of the angles represented in color <5>, which of them are obtuse?",
+            "<1>"
+        ],
+        [
+            "Among the angles <2>, <1>, <3>, and <4>, which of them are obtuse?",
+            "<1> is obtuse, others acute"
+        ],
+        [
+            "Among the angles <3>, <2>, <1>, and <4>, which of them are obtuse?",
+            "<1> is obtuse, others acute"
+        ],
+        [
+            "Among the angles <4>, <2>, <3>, and <1>, which of them are obtuse?",
+            "<1> is obtuse, others acute"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are obtuse?",
+            "1"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are obtuse?",
+            "1"
+        ],
+        [
+            "Among the angles represented in <5>, how many of them are obtuse?",
+            "1"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are acute?",
+            "3"
+        ],
+        [
+            "Among the angles in <5> color, how many of them are acute?",
+            "3"
+        ],
+        [
+            "From the angles represented in <5>, how many of them are acute?",
+            "3"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are acute?",
+            "3"
+        ]
+    ],
+    "angle11": [
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are right?",
+            "<1>, others acute"
+        ],
+        [
+            "Among the angles <2>, <1>, <3>, and <4>, which of them are right?",
+            "<1>"
+        ],
+        [
+            "Among the angles <2>, <3>, <1>, and <4>, which of them are right?",
+            "<1>, others acute"
+        ],
+        [
+            "Among the angles <2>, <3>, <4>, and <1>, which of them are right?",
+            "<1>, others acute"
+        ],
+        [
+            "Among the angles <2>, <3>, <4>, and <1>, how many of them are right?",
+            "1"
+        ],
+        [
+            "Among the angles <2>, <3>, <4>, and <1>, how many of them are right?",
+            "1"
+        ],
+        [
+            "Among the angles <2>, <3>, <4>, and <1>, how many of them are acute?",
+            "3"
+        ],
+        [
+            "Among the angles <2>, <3>, <4>, and <1>, how many of them are acute?",
+            "3"
+        ]
+    ],
+    "C_angle11": [
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are right?",
+            "<1>, others acute"
+        ],
+        [
+            "Among the angles in <5>, which of them are right?",
+            "<1>, others acute"
+        ],
+        [
+            "Out of the angles in color <5>, which of them are right?",
+            "<1>, others acute"
+        ],
+        [
+            "Out of the angles of color <5>, which of them are right?",
+            "<1>, others acute"
+        ],
+        [
+            "Out of the angles represented in color <5>, which of them are right?",
+            "<1>, others acute"
+        ],
+        [
+            "Among the angles <2>, <1>, <3>, and <4>, which of them are right?",
+            "<1>"
+        ],
+        [
+            "Among the angles <2>, <3>, <1>, and <4>, which of them are right?",
+            "<1>, others acute"
+        ],
+        [
+            "Among the angles <2>, <3>, <4>, and <1>, which of them are right?",
+            "<1>, others acute"
+        ],
+        [
+            "Among the angles <2>, <3>, <4>, and <1>, how many of them are right?",
+            "1"
+        ],
+        [
+            "Among the angles in color <5>, how many of them are right?",
+            "1"
+        ],
+        [
+            "Out of the angles in color <5>, how many of them are right?",
+            "1"
+        ],
+        [
+            "Out of the angles represented in <5>, how many of them are right?",
+            "1"
+        ],
+        [
+            "Among the angles <2>, <3>, <4>, and <1>, how many of them are right?",
+            "1"
+        ],
+        [
+            "Among the angles <2>, <3>, <4>, and <1>, how many of them are acute?",
+            "3"
+        ]
+    ],
+    "angle12": [
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are right?",
+            "<1>, others obtuse"
+        ],
+        [
+            "Among the angles <2>, <1>, <3>, and <4>, which of them are right?",
+            "<1>, others obtuse"
+        ],
+        [
+            "Among the angles <3>, <2>, <1>, and <4>, which of them are right?",
+            "<1>, others obtuse"
+        ],
+        [
+            "Among the angles <4>, <2>, <3>, and <1>, which of them are right?",
+            "<1>, others obtuse"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are right?",
+            "1"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are right?",
+            "1"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are obtuse?",
+            "3"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are obtuse?",
+            "3"
+        ]
+    ],
+    "C_angle12": [
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are right?",
+            "<1>, others obtuse"
+        ],
+        [
+            "Among the angles in color <5>, which of them are right?",
+            "<1>, others obtuse"
+        ],
+        [
+            "Out of the angles in color <5>, which of them are right?",
+            "<1>, others obtuse"
+        ],
+        [
+            "Out of the angles represented in color <5>, which of them are right?",
+            "<1>, others obtuse"
+        ],
+        [
+            "Among the angles <2>, <1>, <3>, and <4>, which of them are right?",
+            "<1>, others obtuse"
+        ],
+        [
+            "Among the angles <3>, <2>, <1>, and <4>, which of them are right?",
+            "<1>, others obtuse"
+        ],
+        [
+            "Among the angles <4>, <2>, <3>, and <1>, which of them are right?",
+            "<1>, others obtuse"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are right?",
+            "1"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are right?",
+            "1"
+        ],
+        [
+            "Among the angles in color <5>, how many of them are right?",
+            "1"
+        ],
+        [
+            "Out of the angles in color <5>, how many of them are right?",
+            "1"
+        ],
+        [
+            "Out of the angles in <5> color, how many of them are right?",
+            "1"
+        ],
+        [
+            "Among the angles <4>, <3>, <2>, and <1>, how many of them are obtuse?",
+            "3"
+        ]
+    ],
+    "angle13": [
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are acute?",
+            "<1> & <2>, <3> & <4> obtuse"
+        ],
+        [
+            "Among the angles <2>, <3>, <1>, and <4>, which of them are obtuse?",
+            "<3> & <4>, <1> & <2> acute"
+        ],
+        [
+            "Among the angles <4>, <2>, <1>, and <3>, which of them are acute?",
+            "<1> & <2>, <3> & <4> obtuse"
+        ],
+        [
+            "Among the angles <4>, <3>, <1>, and <2>, which of them are obtuse?",
+            "<3> & <4>, <1> & <2> acute"
+        ],
+        [
+            "Among the angles <1>, <3>, <4>, and <2>, which of them are acute?",
+            "<1> & <2>, <3> & <4> obtuse"
+        ],
+        [
+            "Among the angles <4>, <2>, <1>, and <3>, which of them are acute?",
+            "<1> & <2>, <3> & <4> obtuse"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are acute?",
+            "2"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are obtuse?",
+            "2"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are acute?",
+            "2"
+        ],
+        [
+            "Among the angles <2>, <3>, <1>, and <4>, how many of them are obtuse?",
+            "2"
+        ],
+        [
+            "Among the angles <3>, <4>, <1>, and <2>, how many of them are acute?",
+            "2"
+        ],
+        [
+            "Among the angles <3>, <2>, <4>, and <1>, how many of them are obtuse?",
+            "2"
+        ],
+        [
+            "Among the angles <1>, <4>, <2>, and <3>, how many of them are obtuse?",
+            "2"
+        ]
+    ],
+    "C_angle13": [
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are acute?",
+            "<1> & <2>, <3> & <4> obtuse"
+        ],
+        [
+            "Among the angles in <5>, which of them are acute?",
+            "<1> & <2>, <3> & <4> obtuse"
+        ],
+        [
+            "Among the angles in color <5>, which of them are acute?",
+            "<1> & <2>, <3> & <4> obtuse"
+        ],
+        [
+            "Among the angles in <5> color, which of them are acute?",
+            "<1> & <2>, <3> & <4> obtuse"
+        ],
+        [
+            "Among the angles in <5> color, which of them are acute?",
+            "<1> & <2>, <3> & <4> obtuse"
+        ],
+        [
+            "Among the angles <2>, <3>, <1>, and <4>, which of them are acute?",
+            "<1> & <2>, <3> & <4> obtuse"
+        ],
+        [
+            "Among the angles <4>, <2>, <1>, and <3>, which of them are acute?",
+            "<1> & <2>, <3> & <4> obtuse"
+        ],
+        [
+            "Among the angles <4>, <3>, <1>, and <2>, which of them are acute?",
+            "<1> & <2>, <3> & <4> obtuse"
+        ],
+        [
+            "Among the angles <1>, <3>, <4>, and <2>, which of them are acute?",
+            "<1> & <2>, <3> & <4> obtuse"
+        ],
+        [
+            "Among the angles <4>, <2>, <3>, and <1>, which of them are acute?",
+            "<1> & <2>, <3> & <4> obtuse"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are acute?",
+            "2"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are acute?",
+            "2"
+        ],
+        [
+            "Among the angles in <5>, how many of them are acute?",
+            "2"
+        ],
+        [
+            "Among the angles in color <5>, how many of them are acute?",
+            "2"
+        ],
+        [
+            "Out of the angles in color <5>, how many of them are acute?",
+            "2"
+        ],
+        [
+            "Out of the angles in <5> color, how many of them are acute?",
+            "2"
+        ],
+        [
+            "Out of the angles represented in <5>, how many of them are obtuse?",
+            "2"
+        ],
+        [
+            "Among the angles <2>, <3>, <1>, and <4>, how many of them are acute?",
+            "2"
+        ],
+        [
+            "Among the angles <3>, <4>, <1>, and <2>, how many of them are obtuse?",
+            "2"
+        ],
+        [
+            "Among the angles <3>, <2>, <4>, and <1>, how many of them are obtuse?",
+            "2"
+        ],
+        [
+            "Among the angles <1>, <4>, <2>, and <3>, how many of them are obtuse?",
+            "2"
+        ]
+    ],
+    "angle14": [
+        [
+            "Does the sum of the angles <1> and <2> exceed 90 degrees?",
+            "No"
+        ],
+        [
+            "Is the sum of the angles <1> and <2> more than 90 degrees?",
+            "No"
+        ],
+        [
+            "Is the total of angles <1> and <2> less than or equal to 90 degrees?",
+            "Yes"
+        ],
+        [
+            "Do angles <1> and <2> add up to more than a right angle?",
+            "No"
+        ]
+    ],
+    "C_angle14": [
+        [
+            "Does the sum of the angles <1> and <2> exceed 90 degrees?",
+            "No"
+        ],
+        [
+            "Does the sum of the angles with color <3> and <4> exceed 90 degrees?",
+            "No"
+        ],
+        [
+            "Is the total of angles <1> and <2> less than or equal to 90 degrees?",
+            "Yes"
+        ],
+        [
+            "Is the total of angles with color <3> and <4> less than or equal to 90 degrees?",
+            "Yes"
+        ],
+        [
+            "Do angles <1> and <2> add up to more than a right angle?",
+            "No"
+        ],
+        [
+            "Do angles represented in color <3> and <4> add up to more than a right angle?",
+            "No"
+        ]
+    ],
+    "angle15": [
+        [
+            "Does the sum of the angles <1> and <2> exceed 90 degrees?",
+            "Yes"
+        ],
+        [
+            "Does the sum of the angles <1> and <2> exceed 180 degrees?",
+            "No"
+        ],
+        [
+            "Do angles <1> and <2> add up to more than 90 degrees?",
+            "Yes"
+        ],
+        [
+            "Does the sum of the angles <1> and <2> exceed 180 degrees?",
+            "No"
+        ],
+        [
+            "Is the combined measure of angles <1> and <2> less than or equal to 180 degrees?",
+            "Yes"
+        ]
+    ],
+    "C_angle15": [
+        [
+            "Does the sum of the angles <1> and <2> exceed 90 degrees?",
+            "Yes"
+        ],
+        [
+            "Does the sum of the angles with color <3> and <4> exceed 90 degrees?",
+            "Yes"
+        ],
+        [
+            "Does the sum of the angles with color <3> and <4> exceed 90 degrees?",
+            "Yes"
+        ],
+        [
+            "Does the sum of the angles <1> and <2> exceed 180 degrees?",
+            "No"
+        ],
+        [
+            "Does the sum of the angles from color <3> and <4> exceed 180 degrees?",
+            "No"
+        ],
+        [
+            "Is the combined measure of angles <1> and <2> less than or equal to 180 degrees?",
+            "Yes"
+        ]
+    ],
+    "angle16": [
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are acute?",
+            "All"
+        ],
+        [
+            "Among the angles <2>, <3>, <1>, and <4>, which of them are acute?",
+            "All"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are acute?",
+            "4"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are obtuse?",
+            "0"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are obtuse?",
+            "0"
+        ]
+    ],
+    "C_angle16": [
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are acute?",
+            "All"
+        ],
+        [
+            "Among the angles of color <5>, <6>, <7> and <8>, which of them are acute?",
+            "All"
+        ],
+        [
+            "Among <5>, <6>, <7>, <8>, which color's angles are acute?",
+            "All"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are acute?",
+            "4"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are acute?",
+            "4"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are obtuse?",
+            "0"
+        ],
+        [
+            "What is the color of angle <1>?",
+            "<5>"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are obtuse?",
+            "0"
+        ]
+    ],
+    "angle17": [
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are obtuse?",
+            "All"
+        ],
+        [
+            "Among the angles <2>, <3>, <1>, and <4>, which of them are obtuse?",
+            "All"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are obtuse?",
+            "4"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are obtuse?",
+            "4"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are acute?",
+            "0"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are acute?",
+            "0"
+        ]
+    ],
+    "C_angle17": [
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, which of them are obtuse?",
+            "All"
+        ],
+        [
+            "Among the angles of color <5>, <6>, <7> and <8>, which of them are obtuse?",
+            "All"
+        ],
+        [
+            "Is angle in color <5> and <6> both obtuse?",
+            "Yes"
+        ],
+        [
+            "Is angle in color <5> and <6> both acute?",
+            "No"
+        ],
+        [
+            "What is the color of angle <1>?",
+            "<5>"
+        ],
+        [
+            "Among the angles <2>, <3>, <1>, and <4>, which of them are obtuse?",
+            "All"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are obtuse?",
+            "4"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are obtuse?",
+            "4"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are acute?",
+            "0"
+        ],
+        [
+            "Among the angles <1>, <2>, <3>, and <4>, how many of them are acute?",
+            "0"
+        ]
+    ],
+
+  "angle18-2-1" : [
+    [
+      "Among the lines in the image, which line bisects the angle generated the lines <2> and <3>? Choose from : <4>, <5>.",
+      "Line <4>"
+    ],
+    [
+      "Among the lines in the image, which line bisects the angle generated the lines <2> and <3>? Choose from : <5>, <4>.",
+      "Line <4>"
+    ],
+    [
+      "Among the lines in the image, which line divides the angle generated the lines <2> and <3> into half? Choose from : <4>, <5>.",
+      "Line <4>"
+    ],
+    [
+      "Among the lines in the image, which line divides the angle generated the lines <2> and <3> into half? Choose from : <5>, <4>.",
+      "Line <4>"
+    ],
+    [
+      "Among the lines in the image, which line equally divides the angle generated the lines <2> and <3>? Choose from : <4>, <5>.",
+      "Line <4>"
+    ],
+    [
+      "Among the lines in the image, which line equally divides the angle generated the lines <2> and <3>? Choose from : <5>, <4>.",
+      "Line <4>"
+    ],
+    [
+      "Among the lines in the image, which line bisects the angle <1>? Choose from : <5>, <4>.",
+      "Line <4>"
+    ],
+    [
+      "Among the lines in the image, which line bisects the angle <1>? Choose from : <4>, <5>.",
+      "Line <4>"
+    ],
+    [
+      "Among the lines in the image, which line uniformly divides the angle <1>? Choose from : <5>, <4>.",
+      "Line <4>"
+    ],
+    [
+      "Among the lines in the image, which line uniformly divides the angle <1>? Choose from : <4>, <5>.",
+      "Line <4>"
+    ],
+    [
+      "Choose the correct phrase : Line ( <4> / <5> ) bisects the angle generated by lines <2> and <3>.",
+      "Line <4>"
+    ],
+    [
+      "Choose the correct phrase : Line ( <5> / <4> ) bisects the angle generated by lines <2> and <3>.",
+      "Line <4>"
+    ],
+    [
+      "Choose the correct phrase : Line ( <4> / <5> ) bisects the angle <1>.",
+      "Line <4>"
+    ],
+    [
+      "Choose the correct phrase : Line ( <5> / <4> ) bisects the angle <1>.",
+      "Line <4>"
+    ],
+    [
+      "Among the lines in the image, which line bisects the angle <1>, (i) <4> or (ii) <5>?",
+      "(i) <4>"
+    ],
+    [
+      "Among the lines in the image, which line bisects the angle <1>, (i) <5> or (ii) <4>?.",
+      "(ii) <4>"
+    ],
+    [
+      "True or False : Line <4> bisects the angle <1>.",
+      "True."
+    ],
+    [
+      "True or False : Line <5> bisects the angle <1>.",
+      "False."
+    ]
+  ],
+  "angle18-3-1" : [
+    [
+      "Among the lines in the image, which lines trisect the angle generated the lines <2> and <3>? Choose from : <4>, <5>, <6>",
+      "Lines <4> and <5>"
+    ],
+    [
+      "Among the lines in the image, which lines trisect the angle generated the lines <2> and <3>? Choose from : <5>, <6>, <4>",
+      "Lines <4> and <5>"
+    ],
+    [
+      "Among the lines in the image, which lines trisect the angle generated the lines <2> and <3>? Choose from : <6>, <5>, <4>",
+      "Lines <4> and <5>"
+    ],
+    [
+      "Among the lines in the image, which line can be a trisector of the angle <1>? Choose from : <4>, <6>.",
+      "Line <4>"
+    ],
+    [
+      "Among the lines in the image, which line can be a trisector of the angle <1>? Choose from : <5>, <6>.",
+      "Line <5>"
+    ],
+    [
+      "Among the lines in the image, which line can be a trisector of the angle <1>? Choose from : <6>, <4>.",
+      "Line <4>"
+    ],
+    [
+      "Among the lines in the image, which line can be a trisector of the angle <1>? Choose from : <6>, <5>.",
+      "Line <5>"
+    ],
+    [
+      "Choose the correct phrase : Line ( <4> / <6> ) trisects the angle generated by lines <2> and <3>.",
+      "Line <4>"
+    ],
+    [
+      "Choose the correct phrase : Line ( <6> / <4> ) trisects the angle generated by lines <2> and <3>.",
+      "Line <4>"
+    ],
+    [
+      "Choose the correct phrase : Line ( <5> / <6> ) trisects the angle generated by lines <2> and <3>.",
+      "Line <5>"
+    ],
+    [
+      "Choose the correct phrase : Line ( <6> / <5> ) trisects the angle generated by lines <2> and <3>.",
+      "Line <5>"
+    ],
+    [
+      "Choose the correct phrase : Line ( <4> / <6> ) trisects the angle <1>.",
+      "Line <4>"
+    ],
+    [
+      "Choose the correct phrase : Line ( <6> / <4> ) trisects the angle <1>.",
+      "Line <4>"
+    ],
+    [
+      "Choose the correct phrase : Line ( <5> / <6> ) trisects the angle <1>.",
+      "Line <4>"
+    ],
+    [
+      "Choose the correct phrase : Line ( <6> / <5> ) trisects the angle <1>.",
+      "Line <4>"
+    ],
+    [
+      "List all the lines that trisect the angle <1>.",
+      "Lines <4> and <5>"
+    ],
+    [
+      "Out of lines <4>, <5>, <6>, list all the lines that trisect the angle <1>.",
+      "Lines <4> and <5>"
+    ],
+    [
+      "Out of lines <5>, <6>, <4>, list all the lines that trisect the angle <1>.",
+      "Lines <4> and <5>"
+    ],
+    [
+      "Out of lines <6>, <4>, <5>, list all the lines that trisect the angle <1>.",
+      "Lines <4> and <5>"
+    ]
+  ],
+  "angle18-2-2" : [
+    [
+      "In the image, which <2> line bisects the <1> lines? Choose from <3> and <4>.",
+      "Line <3>"
+    ],
+    [
+      "In the image, which <2> line bisects the <1> lines? Choose from <4> and <3>.",
+      "Line <3>"
+    ],
+    [
+      "Between <3> and <4>, which <2> line bisects the <1> lines?",
+      "Line <3>"
+    ],
+    [
+      "Between <4> and <3>, which <2> line bisects the <1> lines?",
+      "Line <3>"
+    ],
+    [
+      "Choose the correct option : Line ( <4> / <5> ) divides the angle by <1> lines into exactly half.",
+      "Line <4>"
+    ],
+    [
+      "Choose the correct option : Line ( <5> / <4> ) divides the angle by <1> lines into exactly half.",
+      "Line <5>"
+    ]
+  ],
+  "angle18-3-2" : [
+    [
+      "In the image, which <2> line trisects the <1> lines? Choose from : <3>, <5>.",
+      "Line <3>"
+    ],
+    [
+      "In the image, which <2> line trisects the <1> lines? Choose from : <5>, <3>.",
+      "Line <3>"
+    ],
+    [
+      "In the image, which <2> line trisects the <1> lines? Choose from : <4>, <5>.",
+      "Line <4>"
+    ],
+    [
+      "In the image, which <2> line trisects the <1> lines? Choose from : <5>, <4>.",
+      "Line <4>"
+    ],
+    [
+      "Between <3> and <4>, which <2> line trisects the <1> lines?",
+      "Line <3>"
+    ],
+    [
+      "Between <4> and <3>, which <2> line trisects the <1> lines?",
+      "Line <3>"
+    ],
+    [
+      "Among the <2> lines, list all the lines that trisect the <1> lines.",
+      "Lines <3> and <4>"
+    ],
+    [
+      "Out of the <2> lines, list all the lines that trisect the <1> lines. Choose from : <3>, <4>, <5>.",
+      "Lines <3> and <4>"
+    ],
+    [
+      "Out of the <2> lines, list all the lines that trisect the <1> lines. Choose from : <4>, <5>, <3>.",
+      "Lines <3> and <4>"
+    ],
+    [
+      "Out of lines <2> lines, list all the lines that trisect the <1> lines. Choose from : <5>, <3>, <4>.",
+      "Lines <3> and <4>"
+    ],
+    [
+      "True or False: Line <3> trisects the <1> lines.",
+      "True."
+    ],
+    [
+      "True or False: Line <4> trisects the <1> lines.",
+      "True."
+    ],
+    [
+      "True or False: Line <5> trisects the <1> lines.",
+      "False."
+    ]
+  ],
+  "angle18-2-3" : [
+    [
+      "In the image, which color's line bisects the angle generated by the <1> line and the <2> line? Choose from : <3>, <4>.",
+      "<3>"
+    ],
+    [
+      "In the image, which color's line bisects the angle generated by the <1> line and the <2> line? Choose from : <4>, <3>.",
+      "<3>"
+    ],
+    [
+      "In the image, what is the color of the line bisecting the angle by the <1> line and the <2> line? Choose from : <3>, <4>.",
+      "<3>"
+    ],
+    [
+      "In the image, what is the color of the line bisecting the angle by <1> line and the <2> line? Choose from : <4>, <3>.",
+      "<3>"
+    ],
+    [
+      "In the image, which color's line bisects the angle generated by the <1> line and the <2> line? Choose from : <5>.",
+      "<3>"
+    ],
+    [
+      "Choose the correct option: the <6> line bisects the angle generated by the <1> line and the <2> line.",
+      "<3>"
+    ],
+    [
+      "True or False: The <3> line bisects the <1> line and the <2> line.",
+      "True."
+    ],
+    [
+      "True or False: The <4> line bisects the <1> line and the <2> line.",
+      "False."
+    ]
+  ],
+  "angle18-3-3" : [
+    [
+      "Choose the colors of the lines that trisect the angle generated by the <1> line and the <2> line. Choose from : <3>, <4>, <5>.",
+      "<3> and <4>"
+    ],
+    [
+      "Choose the colors of the lines that trisect the angle generated by the <1> line and the <2> line. Choose from : <4>, <5>, <3>.",
+      "<3> and <4>"
+    ],
+    [
+      "Choose the colors of the lines that trisect the angle generated by the <1> line and the <2> line. Choose from : <5>, <3>, <4>.",
+      "<3> and <4>"
+    ],
+    [
+      "Which line trisects the angle generated by the <1> line and the <2> line? Choose from : <6>.",
+      "Line <3>"
+    ],
+    [
+      "Which line trisects the angle generated by the <1> line and the <2> line? Choose from : <7>.",
+      "Line <3>"
+    ]
+  ],
+  "angle19-smallest-1": [
+    [
+      "Which of the angles <2>, <3> are the smallest?",
+      "<2>"
+    ],
+    [
+      "Which of the angles <3>, <2> are the smallest?",
+      "<2>"
+    ],
+    [
+      "Among the angles plotted in color <1>, which of them is the smallest?",
+      "<2>"
+    ],
+    [
+      "Between the angles <2>, <3>, which is smaller?",
+      "<2>"
+    ],
+    [
+      "Between the angles <3>, <2>, which is smaller?",
+      "<2>"
+    ],
+    [
+      "Between the angles <2>, <3>, which is larger?",
+      "<3>"
+    ],
+    [
+      "Between the angles <3>, <2>, which is larger?",
+      "<3>"
+    ],
+    [
+      "Between the angles <2>, <3>, which is NOT smaller?",
+      "<3>"
+    ],
+    [
+      "Between the angles <3>, <2>, which is NOT smaller?",
+      "<3>"
+    ],
+    [
+      "Between the angles <2>, <3>, which is NOT larger?",
+      "<2>"
+    ],
+    [
+      "Between the angles <3>, <2>, which is NOT larger?",
+      "<2>"
+    ],
+    [
+      "Among the angles <4>, which is the smallest?",
+      "<2>"
+    ],
+    [
+      "Choose the correct option: Among the <1> figures, the one with the smallest angle is <5>.",
+      "<2>"
+    ]
+  ],
+  "angle19-largest-1": [
+    [
+      "Which of the angles <2>, <3> are the largest?",
+      "<2>"
+    ],
+    [
+      "Which of the angles <3>, <2> are the largest?",
+      "<2>"
+    ],
+    [
+      "Among the angles plotted in color <1>, which of them is the largest?",
+      "<2>"
+    ],
+    [
+      "Between the angles <2>, <3>, which is larger?",
+      "<2>"
+    ],
+    [
+      "Between the angles <3>, <2>, which is larger?",
+      "<2>"
+    ],
+    [
+      "Between the angles <2>, <3>, which is smaller?",
+      "<3>"
+    ],
+    [
+      "Between the angles <3>, <2>, which is smaller?",
+      "<3>"
+    ],
+    [
+      "Between the angles <2>, <3>, which is NOT larger?",
+      "<3>"
+    ],
+    [
+      "Between the angles <3>, <2>, which is NOT larger?",
+      "<3>"
+    ],
+    [
+      "Between the angles <2>, <3>, which is NOT smaller?",
+      "<2>"
+    ],
+    [
+      "Between the angles <3>, <2>, which is NOT smaller?",
+      "<2>"
+    ],
+    [
+      "Among the angles <4>, which is the largest?",
+      "<2>"
+    ],
+    [
+      "Choose the correct option: Among the <1> figures, the one with the largest angle is <5>.",
+      "<2>"
+    ]
+  ],
+    "angle19-smallest-2" : [
+        [
+            "Among the figures in the image, which color's figure has the smallest angle?",
+            "<1>"
+          ],
+        [
+          "Between the <1> angle and the <2> angle, which is smaller?",
+          "<1>"
+        ],
+        [
+          "Between the <2> angle and the <1> angle, which is smaller?",
+          "<1>"
+        ],
+      [
+        "Among the angles in the figure, which color is the smallest? Choose from: <3>.",
+        "<1>"
+      ],
+      [
+        "Among the angles in the figure, which color is the smallest? Choose from: <4>.",
+        "<1>"
+      ],
+      [
+        "Choose the correct option: Among the pair of lines in the image, the one with the smallest angle is <4>.",
+        "<1>"
+      ],
+       [
+          "Between the <1> angle and the <2> angle, which is NOT smaller?",
+          "<2>"
+        ],
+        [
+          "Between the <2> angle and the <1> angle, which is NOT smaller?",
+          "<2>"
+        ]
+    ],
+  "angle19-largest-2" : [
+        [
+            "Among the figures in the image, which color's figure has the largest angle?",
+            "<1>"
+          ],
+        [
+          "Between the <1> angle and the <2> angle, which is larger?",
+          "<1>"
+        ],
+        [
+          "Between the <2> angle and the <1> angle, which is larger?",
+          "<1>"
+        ],
+        [
+          "Among the angles in the figure, which color is the largest? Choose from: <3>.",
+          "<1>"
+        ],
+        [
+          "Among the angles in the figure, which color is the largest? Choose from: <4>.",
+          "<1>"
+        ],
+        [
+          "Choose the correct option: Among the pair of lines in the image, the one with the largest angle is <4>.",
+          "<1>"
+        ],
+        [
+          "Between the <1> angle and the <2> angle, which is NOT larger?",
+          "<2>"
+        ],
+        [
+          "Between the <2> angle and the <1> angle, which is NOT larger?",
+          "<2>"
+        ]
+
+  ],
+  "angle20-1": [
+    [
+      "Between <4> and <3>, which angle is equal to angle <2>?",
+      "<3>"
+    ],
+    [
+      "Between <3> and <4>, which angle is equal to angle <2>?",
+      "<3>"
+    ],
+    [
+      "Among the <1> angles, which angle is equal to <2>?",
+      "<3>"
+    ],
+    [
+      "Out of <4> and <3>, which one is congruent to <2>?",
+      "<3>"
+    ],
+    [
+      "Which angle, <3> or <4>, equals angle <2>?",
+      "<3>"
+    ],
+    [
+      "Considering the <1> angles, can you tell me which is the same as angle <2>?",
+      "<3>"
+    ]
+  ],
+  "angle20-2": [
+    [
+      "Between <2> and <3>, which color's angle is equal to the <1> angle?",
+      "<2>"
+    ],
+    [
+      "Between <3> and <2>, which color's angle is equal to the <1> angle?",
+      "<2>"
+    ],
+    [
+      "Which angle, <2> or <3>, matches the measure of the <1> angle?",
+      "<2>"
+    ],
+    [
+      "Which color's angle from <3> and <2> aligns with the <1> angle?",
+      "<2>"
+    ],
+    [
+      "Among <2> and <3>, which one is the same measure as the <1> angle?",
+      "<2>"
+    ]
+  ],
+  "angle22-1" : [
+    [
+      "Which of the angles <2>, <3> are the largest?",
+      "<2>"
+    ],
+    [
+      "Which of the angles <3>, <2> are the largest?",
+      "<2>"
+    ],
+    [
+      "Among the angles plotted in color <1>, which of them is the largest?",
+     "<2>"
+    ],
+    [
+      "Between the angles <2>, <3>, which is larger?",
+      "<2>"
+    ],
+    [
+      "Between the angles <3>, <2>, which is larger?",
+      "<2>"
+    ],
+    [
+      "Between the angles <2>, <3>, which is smaller?",
+      "<3>"
+    ],
+    [
+      "Between the angles <3>, <2>, which is smaller?",
+      "<3>"
+    ],
+    [
+      "Between the angles <2>, <3>, which is NOT larger?",
+      "<3>"
+    ],
+    [
+      "Between the angles <3>, <2>, which is NOT larger?",
+      "<3>"
+    ],
+    [
+      "Between the angles <2>, <3>, which is NOT smaller?",
+      "<2>"
+    ],
+    [
+      "Between the angles <3>, <2>, which is NOT smaller?",
+      "<2>"
+    ],
+    [
+      "Among the angles <4>, which is the largest?",
+      "<2>"
+    ],
+    [
+      "Choose the correct option: Among the <1> figures, the one with the largest angle is <5>.",
+      "<2>"
+    ]
+  ],
+  "angle22-2" : [
+        [
+            "Among the figures in the image, which color's figure has the largest angle?",
+            "<1>"
+          ],
+        [
+          "Between the <1> angle and the <2> angle, which is larger?",
+          "<1>"
+        ],
+        [
+          "Between the <2> angle and the <1> angle, which is larger?",
+          "<1>"
+        ],
+        [
+          "Among the angles in the figure, which color is the largest? Choose from: <3>.",
+          "<1>"
+        ],
+        [
+          "Among the angles in the figure, which color is the largest? Choose from: <4>.",
+          "<1>"
+        ],
+        [
+          "Choose the correct option: Among the pair of lines in the image, the one with the largest angle is <4>.",
+          "<1>"
+        ],
+        [
+          "Between the <1> angle and the <2> angle, which is NOT larger?",
+          "<2>"
+        ],
+        [
+          "Between the <2> angle and the <1> angle, which is NOT larger?",
+          "<2>"
+        ]
+
+  ]
+
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+

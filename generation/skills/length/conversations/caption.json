@@ -1,0 +1,945 @@
+{
+    "line": [
+        "<1> The image depicts a line clearly connecting two distinct points.",
+        "Points <1> and <2> in the image are connected by a straight line, indicating their direct relationship."
+    ],
+    "labelled_line": [
+        "<1>The image depicts a geometry diagram featuring a line segment that is clearly marked with its length.",
+        "The image depicts two lines, one of which has a length marked as <3>.",
+        "In the image, there is a line of length <3> that connects the points labeled <1> and <2>."
+    ],
+    "circle": [
+        "<1> The image displays a clearly visible circle in its composition.",
+        "<1> The image features a circle with its center marked as Point.",
+        "The diagram illustrates a circle with center <1>, highlighting that the radius is not depicted within the illustration."
+    ],
+    "infinite_line": [
+        "<1> The image depicts an infinite, continuous line that extends without end.",
+        "An infinite line is depicted intersecting point <1> in the image.",
+        "This image shows an infinite line intersecting at point <1>."
+    ],
+    "circle_with_radius": [
+        "<1> The image clearly features a prominent circle, easily visible to the observer.",
+        "<1> is the center of a prominent circle in the image, which has a radius of <2>.",
+        "<1> The image contains a distinct circle at its focus.",
+        "The image contains a circle for which the radius is provided, offering a detailed mathematical or geometric reference."
+    ],
+    "parallel_1": [
+        "Two parallel lines, labeled <1><2> and <3><4>, run alongside each other in the image.",
+        "Line <1><2> in the picture runs parallel to line <3><4>, creating a symmetrical pattern or composition within the image.",
+        "The image displays two lines, <1><2> and <3><4>, that run parallel to each other.",
+        "<1><2> and <3><4> run parallel to each other, suggesting symmetry or balance within the image.",
+        "<1><2> and <3><4> in the image demonstrate a clear example of parallel lines, maintaining equal distance and direction.",
+        "<1> The image features multiple lines intersecting at various angles, with lines <1><2> and <3><4> running parallel to each other.",
+        "Line <1><2> is parallel to line <3><4>, while line <5><6> is not parallel to line <1><2>.",
+        "The image shows several lines positioned with respect to each other, highlighting that Line <5><6> diverges in direction compared to Line <1><2>, as they are not parallel."
+    ],
+    "C_parallel_1": [
+        "Line <3><4> runs parallel to line <1><2> in the image, showcasing geometric symmetry.",
+        "The image features a set of lines, with the <5> colored line running parallel to the line labeled <1><2>.",
+        "The image shows two lines, labeled <5> and <6>, with the line <5> being parallel to the line labeled <1><2>.",
+        "The image shows a geometric configuration where line <5> is parallel to line <1><2>.",
+        "<1> The image features two lines, where line <6> is not parallel to the indicated line <1><2>, showcasing a clear distinction in their orientation.",
+        "The image shows two lines with one line intersecting or diverging from the other, indicating they are not parallel.",
+        "The image shows two parallel lines, with line <3><4> running in the same direction as line <1><2>.",
+        "The image shows two pairs of lines, with lines <1><2> and <3><4> drawn parallel to each other.",
+        "<1> The image depicts a geometric layout where lines <1><2> and <3><4> run parallel to each other, reflecting symmetry and alignment.",
+        "In the image, Line <1><2> is parallel to Line <3><4>, while Line <7><8> is not parallel to Line <1><2>.",
+        "Line <6> diverges from the parallel path of lines <1><2>.",
+        "The image displays various lines, but the line labeled <6> is not parallel to the line labeled <1><2>.",
+        "The image shows a set of lines, among which line <6> is distinct as it is not parallel to line <1><2>."
+    ],
+    "parallel_2": [
+        "Lines <1><2> and <3> other lines form a set of parallel lines in the image, demonstrating consistent direction and spacing.",
+        "There are <3> lines in the image that run parallel to a specified line, providing a sense of symmetry and geometric repetition."
+    ],
+    "C_parallel_2": [
+        "There are several parallel lines in the image including the one marked as line <1><2>, with <3> more lines running alongside it, forming a pattern.",
+        "There are a total of <4> lines parallel to each other in the image, emphasizing the repeating pattern or structure.",
+        "<1> The image displays a set of lines where one line is highlighted as the reference line <4>, and there are <3> other lines in the image that run parallel to it.",
+        "There are a total of four parallel lines visible in the image, with one of them being numbered as <1><2>.",
+        "The image features a total of four parallel lines, with three of them matching the alignment of the specified line."
+    ],
+    "parallel_3": [
+        "Lines <1><2> and <3><4> in the image run parallel to each other, indicating that they extend in the same direction without intersecting.",
+        "In the image, line <4><3> runs parallel to line <1><2>."
+    ],
+    "C_parallel_3": [
+        "Lines <1><2> and <3><4> run parallel to each other in the image, illustrating geometric lines parallelism.",
+        "The image shows several lines, including a prominent <7> line that is parallel to another line marked <1><2>.",
+        "The image features a prominently colored line, specifically in shade <7>, which runs parallel to another notable line in the scene.",
+        "The image shows a scene with a line that is <7> in color, running parallel to another prominently marked <5> line.",
+        "<2><3>, <3><4>, and <4><1> are lines in a geometric figure, and the line <3><4> is parallel to line <5>.",
+        "<3><4> is the line that runs parallel to the <5> line in the image.",
+        "<1> shows lines drawn on a plane with specific designations, where line <3><4> runs parallel to line <5>, demonstrating the concept of parallelism in geometry."
+    ],
+    "parallel_4": [
+        "Two lines, <1><2> and <3><4>, are depicted in the image, running parallel to each other.",
+        "Line <1><2> and line <4><3> are depicted as parallel lines in the image."
+    ],
+    "C_parallel_4": [
+        "The image shows lines <1><2> and <3><4> that are parallel to each other.",
+        "The image shows two geometric lines, one of which is the line labeled <7>, and they are parallel to each other, running side by side without intersecting.",
+        "<7> color lines run parallel in the image, complementing the scene along with line <1><2>.",
+        "<1> The image features a line with a distinct color that runs parallel to another identified line marked as <5>, and the parallel line is colored <7>.",
+        "<1> The image shows a geometric figure with multiple lines labeled, among which the line labeled <3><4> is identified as being parallel to the line labeled <5>.",
+        "<1> The image shows a set of geometrical lines, with line <3><4> running parallel to line <5>, an uncommon occurrence in the layout.",
+        "The image illustrates multiple lines, with line <3><4> being parallel to the <5> line, while other lines are positioned differently."
+    ],
+    "parallel_5": [
+        "Line <4> runs parallel alongside line <3> through point <2>, demonstrating parallelism.",
+        "The image shows line <3> and line <4> running alongside each other, maintaining equal distance and never intersecting, indicating parallelism.",
+        "<1> The image illustrates several lines intersecting and among them, line <4> runs parallel to line <3>.",
+        "The image shows several lines, with line <5> intersecting line <3> instead of running parallel to it.",
+        "<1> The lines in the image show an intersection, as line <4> and line <5> are not parallel to each other.",
+        "<1> The image shows a set of lines with line <4> running parallel to line <3>.",
+        "<1> The image shows a geometric diagram where line <4> runs parallel to line <3>, creating a symmetrical pattern.",
+        "<1> The image shows geometric lines, with line <4> running parallel to line <3>."
+    ],
+    "C_parallel_5": [
+        "Lines <3> and <4> are depicted as running parallel to each other through point <2>, which suggests a geometric relationship between these lines in the image.",
+        "The blue line passes through a part of the image and runs parallel to another line that is labeled differently in the scene.",
+        "The image shows a geometric diagram with multiple lines labeled by numbers, highlighting that line <6> is parallel to line <3>, and both pass through specified points in the composition.",
+        "The image shows several lines, and line <6> is parallel to line <3> and passes through point <2>.",
+        "The image shows several lines intersecting at various points, with one line having a distinct color that runs parallel to another specified line.",
+        "The image depicts a geometric diagram where multiple lines intersect. Among the lines passing through a common point labeled <2>, one line is parallel to another labeled <5>, maintaining a specific spatial orientation between them.",
+        "<3> The image shows two lines, line <3> and line <4>, positioned parallel to each other.",
+        "The image shows two lines, labeled as <5> and <6>, showcasing parallel alignment to each other.",
+        "Two lines, labeled as <7> and <3>, are depicted with differing orientations, demonstrating that they are not parallel to each other.",
+        "Point <2> is located directly on the <6> line.",
+        "The image shows a geometric diagram where point <1> is positioned away from the path of the <6> line, indicating it does not lie on it.",
+        "The point labeled as <2> is positioned away from the path of line number <5>, indicating no intersection.",
+        "The image shows point <1> located exactly on the line <5>, illustrating a perfect alignment.",
+        "The image shows two lines labeled as <6> and <7>, with the line labeled <6> not parallel to the line labeled <7>.",
+        "<1> The image shows multiple lines, including lines <4> and <5>, which are parallel to each other."
+    ],
+    "length_1": [
+        "Line <3><4> is noticeably longer than line <1><2> in the image, demonstrating a clear difference in their lengths.",
+        "Line <3><4> extends further across the image compared to the shorter line <1><2>.",
+        "Line <1><2> is noticeably shorter in length compared to line <3><4>, emphasizing the visual difference between the two line segments.",
+        "Line <1><2> is depicted as being shorter in length compared to the longer line <3><4>, illustrating the difference in measurements between the two.",
+        "The image displays two line segments, where line segments <1><2> is noticeably shorter than line segments <3><4>.",
+        "Two intersecting lines on a surface, with line <1><2> being visibly shorter than line <3><4>.",
+        "<1><2> are shorter than <3><4> line, indicating <3><4> spans a greater distance across the image.",
+        "<1> The image shows a comparison of two lines, with line <3><4> being notably longer than line <1><2>.",
+        "Line <1><2> appears to be shorter than line <3><4>, suggesting a difference in length between these two segments.",
+        "The image shows a comparison between two pairs of lines, where the pair <1><2> is notably shorter than the pair <3><4>.",
+        "Line <3><4> extends further than line <1><2>, indicating a difference in their lengths.",
+        "<1> The image shows two lines with different lengths. <2> While line <3><4> is noticeably longer, line <1><2> is shorter by comparison."
+    ],
+    "C_length_1": [
+        "Two sets of lines are present, where line <3><4> is noticeably longer than line <1><2>, showcasing a clear difference in length between the two.",
+        "This image shows a visual comparison between two lines, where line <3><4> is noticeably longer than line <1><2>.",
+        "The image shows two lines, with the line labeled <6> being noticeably longer than the line labeled <5>.",
+        "The image shows various colored lines with the one labeled <6> being longer than the one labeled <5>.",
+        "Two distinct lines are displayed, with line <1><2> being notably shorter in length compared to the longer line <3><4>.",
+        "The image shows two lines demonstrating lengths, with the <5> line notably shorter compared to the <6> line.",
+        "Lines <1><2> and <3><4> are both present, with line <3><4> being longer than line <1><2>.",
+        "The image displays two lines, where the line labeled <6> is longer than the one labeled <5>.",
+        "The image shows two lines, with the sixth line being noticeably longer than the fifth line.",
+        "<1> The image shows two lines, where the fifth line is visibly shorter than the sixth line.",
+        "The image depicts two lines, with line <5> being shorter in length compared to line <6>.",
+        "Between lines labeled <1><2> and <3><4>, the line labeled <3><4> appears longer."
+    ],
+    "length_2": [
+        "<2> is a longer line than <1> in the image.",
+        "Line <2> in the image extends further than line <1>, showcasing its greater length compared to the other.",
+        "In the image, there are two lines, where line <1> is visibly shorter than line <2>.",
+        "<1> The image shows two lines where line one is shorter than line two.",
+        "<1> The image depicts two lines, with line <1> appearing shorter in length compared to line <2>.",
+        "<1> Two lines are present, with line <2> being noticeably longer than line <1>.",
+        "Line <1> is visibly shorter than line <2> in the image.",
+        "<2> The image shows multiple lines, and among them, line <2> stands out with the greatest length.",
+        "The image depicts two lines, where line <2> is noticeably longer than line <1>."
+    ],
+    "C_length_2": [
+        "Line <2> is depicted as being longer than line <3> in the image.",
+        "The image depicts two lines, with line <2> being noticeably longer than the <3> line.",
+        "The image shows a comparison between two lines where the line labeled <4> is noticeably longer than the line labeled <1>.",
+        "<1> The image shows two lines, where the line labeled <4> is noticeably longer than the line labeled <1>.",
+        "Line <1> is depicted as shorter than line <2> in the image.",
+        "The composition of the image features multiple lines, with line <3> being noticeably shorter than line <2>.",
+        "The image illustrates a side-by-side comparison of two lines, where line <1> is noticeably shorter in length than line <4>.",
+        "<1> The image shows two lines, with line <1> being shorter than line <2>.",
+        "The image shows two lines, with line 4 being longer than line 1.",
+        "Line <3> in the image is shorter than line <2>, showcasing a disparity in length between the two lines.",
+        "Line <2> extends further across the image than line <1>.",
+        "<1> The image shows two lines, with the second line being longer than the first line."
+    ],
+    "length_3": [
+        "In the image, line <2> stands out as the longest compared to the other lines present.",
+        "<1> The image showcases multiple lines, where line <2> stands out as the longest among them.",
+        "<2> is longer than <1> when comparing line segments <2>, <3>, and <4>.",
+        "<2> is visibly longer than <1> among the line segments <4>, <2>, <3>, showcasing their comparative lengths.",
+        "<2> is a longer line segment compared to <1> in the image.",
+        "<1> The image shows a comparison of several line segments, where line segment <2> is visibly longer than line segment <1>.",
+        "The image shows multiple line segments, where line segment <2> is noticeably longer than line segment <1>.",
+        "Line segment <3> is noticeably shorter compared to line segments <1> and <2> in the image.",
+        "Line segment <3> is visibly shorter compared to segments <1> and <2> in the diagram.",
+        "<3> In the image, line segment <3> is the shortest compared to line segments <2> and <1>, showcasing a clear visual length comparison.",
+        "<2> is a longer line than <1> in the image."
+    ],
+    "C_length_3": [
+        "The image shows three lines, with line <2> being the longest among them.",
+        "Line <2> in the image extends further than lines <1> and <3>.",
+        "<1>: An image displays multiple lines, where line <2> notably extends further in length than line <1>.",
+        "<1> The image shows several lines, with line <2> being noticeably longer than line <1>.",
+        "<1> is shorter compared to <2>, indicating <2> is a longer line segment than <1>.",
+        "<1> is shorter than <2>, among the line segments numbered <4>, <2>, and <5>.",
+        "<1> is shorter than the line segment labeled <2>, highlighting the comparison of line lengths.",
+        "<1> The image shows several line segments, with segment <2> being noticeably longer than segment <1>.",
+        "<1>: The image depicts several line segments labeled <1>, <2>, <4>, and <5>, with line segment <2> being notably longer than line segment <1>.",
+        "Line <2> is visibly the longest among the lines displayed with <3> color.",
+        "<1> appears to be a reference line in the image, but <2> exceeds it in length, providing a visual contrast."
+    ],
+    "length_4": [
+        "The image shows a geometric setup where the distance between points labeled <1> and <2> exceeds the radius of a circle that has its center at the location marked as <3>.",
+        "Line <1><2> stretches across a greater distance than the radius of the circle centered at <3>, showcasing a longer path.",
+        "The image depicts a geometric arrangement where the distance between points <1> and <2> extends beyond the radial measurement of a circle whose center is located at point <3>.",
+        "The image depicts a circle centered at position <3> with its radius being shorter than the straight line segment connecting points <1> and <2>.",
+        "<1> and <2> are endpoints of a line longer than the radius of the circle centered at <3>."
+    ],
+    "C_length_4": [
+        "<1> represents a line that extends beyond the radial distance from the center <3> to the perimeter of the circle.",
+        "<1> The image illustrates a geometric setup where a line exceeds the length of the radius of a circle that has its center at a specified point.",
+        "<1> The image depicts a line that extends beyond the radius of an adjacent circle, illustrating the comparative lengths.",
+        "The image shows a diagram where the length of line <1><2> extends beyond the radius of the <5> circle.",
+        "The image depicts a geometric comparison where the length of line <1><2> exceeds the radius of a circle centered at <3>.",
+        "<1> The image shows a comparison between a specific line and the radius of a circle, highlighting that the line extends further in length than the circle's radius.",
+        "The image depicts a fifth circle with a radius that is shorter in length compared to a fourth line present in the scene.",
+        "<1> The image contains a comparison between a circle and a line, where the length of the line is markedly greater than the radius of the circle, illustrating a disparity in their dimensions."
+    ],
+    "length_5": [
+        "The length of line <1><2> is visibly shorter than the radius of the circle centered at point <3>.",
+        "The image displays a geometric diagram where line <1><2> is shorter compared to the radius of circle <3>.",
+        "<1> and <2> are points that are closer to each other than they are to point <3>, which is the center of a circle with a longer radius.",
+        "The circle centered at <3> has a radius that extends beyond the length of line <1><2>, indicating a larger circumference relative to the line segment.",
+        "The image shows a circle centered at a specific point, with a line labeled with endpoints <1> and <2>. The length of line <1><2> is shorter than the radius of the circle, indicating a clear spatial comparison."
+    ],
+    "C_length_5": [
+        "<1><2> appears to be a line segment that is shorter in length compared to the radius of a circle that has its center at <3>.",
+        "<1> The image shows a line and a circle, where the length of the line is visibly shorter than the radius of the circle.",
+        "<1> The image shows a scene with a line labeled as <4> and a circle marked with <5>, where the radius of circle <5> extends longer than line <4>.",
+        "<1><2> is a line that is shorter in length compared to the radius of the circle centered at <3>.",
+        "The image features a circle with a radius that exceeds the length of a specific line labeled as <4>.",
+        "<5> The image depicts a circle with a radius that extends longer than a nearby line, specifically <4>."
+    ],
+    "length_6": [
+        "The image contains geometric shapes, showing a line segment that matches the length of a circle's radius, highlighting their equivalence in measurement.",
+        "The image depicts a geometric drawing where a line segment matches the length of the radius of a circle centered at a specific point.",
+        "<1><2> The line and the radius of the circle are shown to be exactly the same in length, illustrating a geometric equivalence.",
+        "<1> The image depicts a geometric setup where line <1><2> is equal in length to the radius of a circle centered at point <3>.",
+        "<1> Lines <1><2> and the radius of the circle centered at <3> are the same length in the image."
+    ],
+    "C_length_6": [
+        "The image depicts a geometric setup where a line segment is equal in length to the radius of a circle that is centered at a specific point.",
+        "<1> The image illustrates a geometric diagram where the length of a specific line segment matches the radius of a particular circle.",
+        "The image depicts a geometric figure where line segments and a circle are positioned such that one of the lines equals the circle's radius in length.",
+        "<4> line is the same length as the radius of the <5> circle, illustrating geometric equality.",
+        "<1> The image shows a scenario where the length of a certain line and the radius of a particular circle are being compared, and are found to be of equal length."
+    ],
+    "length_7": [
+        "The image depicts line <1><2> being longer than the diameter of a circle centered at point <3>.",
+        "Line <1><2> in the image spans a greater distance compared to the diameter of the circle centered at <3>.",
+        "Line <1><2> is depicted as being longer than the diameter of the circle centered at <3>.",
+        "The circle centered at <3> has a diameter that is shorter than the length of the line segment connecting points <1> and <2>.",
+        "Line <1><2> extends further than the diameter of the circle centered at <3>."
+    ],
+    "C_length_7": [
+        "<1><2> is depicted as a line stretching longer than the circle's diameter, which is anchored around point <3>.",
+        "<1> The image shows a scenario where a specific line is drawn longer than the diameter of a nearby circle, highlighting their contrasting measurements.",
+        "Line <1><2> is notably longer than the diameter of the circle centered at <3> in the image.",
+        "<1> The image shows a comparison between a line and the diameter of a circle, where the line is visibly longer than the circle's diameter.",
+        "<4> The line is notably longer than the diameter of the <5> circle in the image."
+    ],
+    "length_8": [
+        "Point <2> is farther away from point <1> compared to point <3>.",
+        "Point <2> is further away from point <1> than point <3> is.",
+        "Point <2> is located farther away from point <1> compared to point <3>.",
+        "Point <2> is situated at a greater distance from point <1> compared to point <3>, demonstrating a clear difference in proximity.",
+        "Point <3> is situated nearer to point <1> than point <2>, indicating a closer proximity between these two points on the image.",
+        "<Point 3 is closer to point 1 than point 2 is, indicating the proximity of these locations in the image.>",
+        "The image shows three distinct points, with point <2> positioned further from point <1> than point <3>, indicating a closer proximity between point <1> and point <3>.",
+        "Point <3> is positioned in such a way that it is noticeably nearer to point <1> compared to the distance between point <2> and point <1>."
+    ],
+    "C_length_8": [
+        "Between point <2> and <3>, the image clearly shows that point <2> is further from point <1> than point <3>.",
+        "Point <2> appears to be located at the furthest distance from point <1> among the given five points, indicating a clear separation in space.",
+        "<1> The image shows a configuration where multiple points are plotted, with Point <2> being the farthest from Point <4>.",
+        "The image shows three points labeled <1>, <2>, and <3>, with point <2> being the furthest from point <1>.",
+        "Point <2> is located at a greater distance from point <1> than point <3>, showing its relative position in the image.",
+        "Point <2> is more distant from point <1> compared to point <3> in the image.",
+        "<1> and <3> are closer to each other compared to <1> and <2>.",
+        "<1> The image features a map with various labeled points, and it highlights that point <3> is positioned nearer to point <4> than point <2> is.",
+        "<1> The visual depiction illustrates a spatial comparison where point <3> is positioned closer to point <4> than point <2>.",
+        "The image illustrates the relative distances between multiple points, notably showing that point <3> is nearer to the <4> point compared to point <2>.",
+        "Point <3> is noticeably closer to point <4> when compared to the distance between point <2> and point <4>, suggesting a shorter path."
+    ],
+    "length_9": [
+        "<1><2> is depicted as a shorter line compared to the diameter of the circle centered at point <3>.",
+        "The image shows a geometric diagram where the diameter of a circle is compared to a specific line segment, highlighting that the diameter of the circle is longer than the line segment between points labeled <1> and <2>.",
+        "The length of line <1><2> is shorter than the diameter of the circle with its center at <3>, demonstrating a comparison between linear distance and circular measure.",
+        "The image shows a geometric configuration where a circle centered at a specific point has a diameter that surpasses the length of a particular line segment.",
+        "The length of line segment connecting points labeled <1> and <2> is shorter than the diameter of the large circle centered at point <3>."
+    ],
+    "C_length_9": [
+        "<1><2> is a line in an image, and compared to this line, the diameter of the circle centered at point <3> is longer, making the line noticeably shorter.",
+        "<1> The image shows a short line next to a larger circle, demonstrating a comparison in their dimensions.",
+        "The image shows a circle with a center point marked as <3> and its diameter is depicted to be longer than the distance between two marked points, <1> and <2>.",
+        "The <5> circle in the image has a diameter that is longer than the <4> line.",
+        "<1> The image shows a circle with a line that is shorter than the circle's diameter."
+    ],
+    "length_10": [
+        "The distance between points <3> and <4> is greater than the length of line segment <1><2>.",
+        "The image shows a geometric configuration where the distance between two specific points is notably greater than the length of a given line segment.",
+        "The image depicts a geometric diagram where the distance between labeled points <3> and <4> is greater than the length of the line connecting points <1> and <2>.",
+        "<1><2> is a line that is shorter than the distance between points <3> and <4> in the image.",
+        "<1> The image depicts line <1><2> as being longer compared to the distance between points <3> and <4>.",
+        "<1> The image depicts two distinct lines formed by connecting specified points, with the line between points <3> and <4> being longer than the line between points <1> and <2>.",
+        "A geometric layout is depicted where a line connecting points 3 and 4 is visually longer than the line connecting points 1 and 2."
+    ],
+    "C_length_10": [
+        "The distance between point <3> and <4> surpasses the length of the <5> line.",
+        "The image showcases a geometrical diagram where the distance between points <3> and <4> is highlighted, indicating it is longer than the length of line <5>.",
+        "The image displays geometric points and lines where the distance measured between points <3> and <4> exceeds the length of line <1><2>.",
+        "The image depicts line <5> which is shorter compared to the distance between points <3> and <4>.",
+        "The distance between the designated markers is greater than the measurement of the specified line segment.",
+        "<1> The arrangement of points suggests that the distance between points <3> and <4> is greater than that between points <1> and <2>.",
+        "<3> and <4> are points on the image where the line connecting them is longer than the <5> line."
+    ],
+    "length_11": [
+        "<1><2> in the image appear to be equal in length to the distance separating points <3> and <4>.",
+        "<1> Line <2> appears to be equal in length to the distance measured between point <3> and point <4> in the image.",
+        "Two separate pairs of points appear to be connected by line segments of identical length.",
+        "Line <1><2> and the distance between point <3> and <4> both represent the same measurement.",
+        "The image features a geometric comparison, showing lines and segments of equal length, highlighting the symmetry between line segments.",
+        "The image shows a situation where line <1><2> and the distance between point <3> and <4> appear to be of the same length, displaying no noticeable difference in measurements.",
+        "<1> The line segment matches perfectly in length when placed side by side with the distance between the specified points <3> and <4>. <2>",
+        "<1> The image depicts line <1><2> and the segment from point <3> to point <4>, which are equal in length, illustrating congruence."
+    ],
+    "C_length_11": [
+        "The image depicts a line labeled <5> which is equal in length to the distance measured between points <3> and <4>.",
+        "The image shows a geometric diagram where line <5> is compared to the distance between points <3> and <4>, both having equal lengths.",
+        "<1><2> and the segment connecting <3> and <4> are of equal length in the image, indicating perfect measurement consistency.",
+        "<1><2> This image shows a line segment plotted on a coordinate plane, perfectly matching with the segment <3><4> when aligned on top of each other.",
+        "The image shows a scenario where a line of color <5> is being compared in length to the distance from point <3> to point <4>, and they are illustrated to be equal in length.",
+        "<1> The image shows an arrangement where a line of color <5> and the distance between <3> and <4> visually appear to have the same length, demonstrating congruency."
+    ],
+    "length_12": [
+        "The line between points <1> and <2> extends notably longer than the straight-line distance separating <3> and <4>.",
+        "The image depicts a scene where one line connects two highlighted points, labeled <1> and <2>, while another pair of points, labeled <3> and <4>, are shown at a shorter distance relative to the mentioned line, illustrating a noticeable difference in lengths between the two segments.",
+        "<1><2> is a longer line segment compared to <3><4>, exceeding it in measurement.",
+        "In the image, line <1><2> is noticeably longer than the distance between <3> and <4>.",
+        "Line <1><2> stretches across the image, clearly extending further than the shorter segment that links points <3> and <4>.",
+        "The image shows a scene where line segments are compared, and the segment marked as <1><2> is evidently longer than the segments or points marked as <3> and <4>.",
+        "The image likely shows two lines, with one line being longer than the other when compared to specific points, illustrating a comparison of their lengths and endpoints."
+    ],
+    "C_length_12": [
+        "The image depicts line <1><2> which is visibly longer than the distance between <3> and <4>.",
+        "The image depicts a scenario where the <5> line extends beyond the space between markers <3> and <4>.",
+        "<1> The image shows a line of color that is larger than the distance from point <3> to point <4>, highlighting the relative size difference between the two.",
+        "<1><2> appears longer, indicating a notable difference in size compared to the distance between points <3> and <4>.",
+        "<1> The image shows two distances, one along a color-coded line and another connecting two specific points, with the line notably longer."
+    ],
+    "length_13": [
+        "<1><2><3> is an equilateral triangle, with all its sides being equal in length, specifically the edges <1><2>, <2><3>, and <3><1>.",
+        "The two edges with labels <1><2> and <2><3> are precisely the same length, demonstrating symmetry in the image.",
+        "The image contains geometric shapes where two line segments, labeled <1><2> and <2><3>, are equal in length.",
+        "The image depicts two edges labeled <1><2> and <2><3> that appear to be equal in length.",
+        "The image shows two edges labeled <1><2> and <2><3>, both of which are of equal length.",
+        "The image shows two edges that are equal in length, creating symmetry or balance in the composition.",
+        "The image shows an equilateral triangle where all three edges have equal length.",
+        "The triangle depicted in the image is equilateral, with all three edges being of equal length.",
+        "<1><2><3> This image illustrates a triangle where all sides are depicted as equal in length, emphasizing the concept of an equilateral triangle.",
+        "<1> The image shows a triangle with three equal sides, indicating it is an equilateral triangle.",
+        "<1><2><3> The triangle in the image is symmetrical, with all sides being of equal length."
+    ],
+    "C_length_13": [
+        "<1> The triangle formed by the edges <1><2>, <2><3>, and <3><1> is equilateral, with all sides having the same length and likely sharing the same color scheme.",
+        "<1> A triangle where all sides are of equal length, indicating it is an equilateral triangle.",
+        "The image depicts an equilateral triangle where all sides are of equal length.",
+        "All sides of the triangle exhibit equal length, demonstrating perfect geometric symmetry.",
+        "The image depicts an equilateral triangle where all sides are equal in length.",
+        "<4> The triangle in the image is equilateral, with all sides having equal length.",
+        "<4> The triangle in the image is an equilateral triangle, where each of its edges is of equal length.",
+        "<4> The triangle in the image is an equilateral triangle, as all its edges have identical lengths.",
+        "The diagram shows two lines, <1><2> and <2><3>, which are exactly equal in length.",
+        "The image shows two edges, <1><2> and <2><3>, that are of identical length, highlighting equal proportions.",
+        "Both edges of the triangle have equal length.",
+        "The triangle depicted in the image is an equilateral triangle with all sides equally long, showcasing symmetry in its structure.",
+        "<4> The triangle displayed in the image is perfectly equilateral, with all its edges having identical length."
+    ],
+    "length_14_1": [
+        "<1> The triangle in the image has two edges that are of equal length, specifically between points <1><2> and <3><1>.",
+        "<The triangle has unequal side lengths, with side <2><3> being longer than sides <1><2> and <3><1>.>",
+        "<2><3> This triangle is isosceles, featuring one side longer than the equal pair of sides.",
+        "<1> and <3> are connected by a longer edge in a triangle, making it the longest side, while <2> and <3> are also part of this geometric arrangement.",
+        "<1><2><3> The image depicts a triangle with edge <2><3> being the longest side compared to the other sides of the triangle.",
+        "<1><2> and <3><1> are of the same length, but <2><3> extends further, indicating an unequal distribution.",
+        "The image depicts a triangle where the side labeled <2><3> is the longest among its edges.",
+        "The image depicts a triangle where lines <1><2> and <1><3> are of equal length, and line <2><3> is longer.",
+        "The triangle in the image has two sides that are of equal length, while the third side is comparatively longer.",
+        "<1> In the image, line <2><3> clearly extends farther than line <3><1>, showing a more pronounced length."
+    ],
+    "C_length_14_1": [
+        "The triangle has two sides, labeled <1><2> and <1><3>, that are of equal length indicating it is an isosceles triangle.",
+        "The image shows a triangle with sides of varying lengths. Specifically, the edge between points 2 and 3 is longer than the other sides.",
+        "The shape in the image features an edge labeled <2><3> that is notably longer compared to the other two edges highlighted in color <4>.",
+        "<1> A comparison of lines is being made based on their lengths, with one line distinctly longer than the other.",
+        "<1> The image shows a diagram or drawing where two edges are indicated to be of the same length, but the third edge is distinctly longer, as highlighted by the accompanying text.",
+        "Objects labeled <1><2> and <3><1> are of equal length, while <2><3> is noticeably longer than the others."
+    ],
+    "length_14_2": [
+        "<1><2> and <3><1> are equal length sides of a triangle, indicating it is an isosceles triangle.",
+        "<1><2> is the longest side in the triangle <1><2><3>, while <2><3> is shorter, indicating a scalene or an isosceles triangle.",
+        "The geometric shape is comprised of three sides, with the segment connecting points <2> and <3> being the shortest among them.",
+        "The image shows two lines, one labeled as <1><2> and the other as <2><3>, with the line <1><2> appearing longer than the line <2><3>.",
+        "Line <2><3> is depicted as being shorter compared to line <1><2>.",
+        "The image shows two rectangular shapes, with sides that align precisely in length, demonstrating congruence in their dimensions.",
+        "The object denoted by <3><2> is noticeably shorter compared to the one referred to as <2><1> when observed side by side."
+    ],
+    "C_length_14_2": [
+        "<1><2> and <3><1> are equal sides in <4> triangle, indicating it is likely an isosceles triangle.",
+        "The triangle in the image has two unequal sides; the side labeled <1><2> is longer than the side labeled <2><3>.",
+        "The image depicts a triangle with various edges, and the edge between points 2 and 3 is the shortest among them.",
+        "<4> Line <2><3> is the shortest among them.",
+        "Two lines are compared in length, with line <1><2> being longer than line <2><3>.",
+        "Lines <2><3> and <1><2> are compared in the image, with line <2><3> appearing shorter than line <1><2>.",
+        "<1><2> and <1><3> are visually comparable lines, demonstrating equal length.",
+        "<1><2> and <3><1> are equal in length as they perfectly align as corresponding sides.",
+        "<3><2> is noticeably shorter in length compared to <2><1>, highlighting a disparity in their dimensions.",
+        "The image shows that side <2><3> is noticeably shorter than the other sides, suggesting an irregular shape."
+    ],
+    "length_15": [
+        "Triangle <1><2><3> is a scalene triangle with all sides of different lengths.",
+        "<1> The two lines have different lengths when compared visually in the image.",
+        "Lines between markings <1><2> and <2><3> on the image are of different lengths, showcasing a noticeable discrepancy in their measurements.",
+        "The image depicts a triangle with all sides of different lengths, highlighting the uniqueness in its geometric structure.",
+        "The edges of the triangle in the image have distinct lengths, with no pair of edges being equal."
+    ],
+    "C_length_15": [
+        "A <4> triangle is depicted, clearly showing that all its edges are of different lengths with no pair of sides being equal.",
+        "<1> The lines in the image vary in length, with line <1><2> being shorter or longer than line <1><3>.",
+        "<1> The image contains a set of lines, each of varying lengths, none of which have matching dimensions.",
+        "The two lines intersect at an angle, indicating they have different lengths.",
+        "This image depicts a unique triangle where no two edges are of the same length.",
+        "The triangle has three sides, each of which has a different length, indicating that no two edges are of the same measurement.",
+        "<1> The triangle depicted in the image has three sides, none of which have equal lengths, suggesting it is a scalene triangle."
+    ],
+    "length_16": [
+        "<1> The image shows two circles, where the circle labeled <1> has a larger radius than the circle labeled <2>.",
+        "Circle <1> is larger in size compared to circle <2>.",
+        "The image depicts two circles, with circle <1> having a noticeably larger radius compared to circle <2>.",
+        "The image shows two circles where circle <1> has a larger radius than circle <2>.",
+        "Circle <1> is noticeably larger in radius compared to circle <2>.",
+        "Circle <1> is larger than circle <2> in terms of radius.",
+        "Circle <1> has a larger radius than circle <2>, indicating that it appears bigger in size compared to the other circle in the image.",
+        "The image shows two circles, with circle <1> having a longer radius than circle <2>."
+    ],
+    "C_length_16": [
+        "Circle <1> is noticeably larger in radius compared to circle <2>, indicating a difference in size between the two shapes depicted.",
+        "The image shows two circles, with the circle labeled <3> having a noticeably larger radius than the one labeled <4>.",
+        "The image shows a comparison between circles, where the circle labeled <3> is visually larger in radius compared to the circle labeled <4>.",
+        "Circle <1> is depicted as having a larger size compared to circle <2>, indicating a greater radius.",
+        "<1> The image depicts two circles in different colors, with the circle of color <3> having a larger radius compared to the circle of color <4>.",
+        "The image shows two circles, with the <3> circle having a noticeably larger radius compared to the <4> circle.",
+        "The image contains two circles, each a distinct color, with circle <1> being color <3> and circle <2> being color <4>.",
+        "Circle <1> appears significantly larger in radius compared to circle <2> in the image.",
+        "Circles <1> and <2> are shown with differing radii, with circle <1> being visibly larger than circle <2>.",
+        "The image shows two circles, with the circle represented by color <3> having a larger radius than the one in color <4>."
+    ],
+    "length_17_1": [
+        "Line <1><2> extends for twice the length compared to line <3><4> in the image.",
+        "Line <1><2> is observed to be twice the length of line <3><4>, depicting a significant difference in their measurements.",
+        "Two lines in the image are of different lengths, with one line appearing to be twice the length of the other.",
+        "Line <1><2> is depicted as only twice the length of line <3><4>, suggesting a comparison of lengths where line <1><2> is not more than three times longer than line <3><4>.",
+        "Line <1><2> appears to be twice the length of line <3><4> in the image, illustrating the proportional difference between the two lines.",
+        "Line <1><2> in the image is depicted as being approximately twice the length of line <3><4>, demonstrating a clear difference in their lengths.",
+        "<1><2> seems to stretch further across the surface compared to <3><4>.",
+        "<3><4> appears to be significantly shorter than line <1><2>, indicating that <3><4> is half the length of <1><2>.",
+        "Line <1><2> is twice the length of line <3><4>, indicating a notable difference in their lengths.",
+        "This image contains a diagram with lines labeled with numbers, where line <1><2> measures 10 units, which is twice the length of line <3><4> that measures 5 units.",
+        "The image shows two lines labeled as line <1><2> and line <3><4>, with line <3><4> being shorter than line <1><2>, which is twice as long.",
+        "The image shows two lines where line <1><2> is exactly twice as long as line <3><4>."
+    ],
+    "C_length_17_1": [
+        "The image depicts two lines, where the line labeled <5> is noticeably longer, appearing to be twice the length of the line labeled <6>.",
+        "<1> The image contains two lines marked as <5> and <6>, where line <5> is visibly longer than line <6>, but it appears to be approximately twice, not thrice, the length of line <6>.",
+        "Line <5> in the image appears to be significantly longer than line <6>.",
+        "The image shows two lines, with line <5> being approximately twice as long as line <6>, providing a clear contrast in their lengths.",
+        "line <1> and line <2> are visibly half the length of a longer line as indicated by line <3> and line <4>.",
+        "the <5> line in the image appears to be twice the length of the <6> line, showcasing a visual comparison of line lengths."
+    ],
+    "length_17_2": [
+        "Line <1><2> stretches across a significant portion of the image, extending precisely three times the distance covered by the much shorter line <3><4>.",
+        "The image shows two lines, with the first line spanning three times the length of the second line.",
+        "Line <1><2> is significantly longer, measuring three times the length of line <3><4>, clearly surpassing twice the length.",
+        "Line <3><4> appears to be shorter in length as compared to line <1><2> in the image, illustrating a difference in their sizes.",
+        "<1> The image shows a visual comparison between two lines, where it is evident that one line is three times the length of the other, demonstrating the concept of proportionality.",
+        "<1><2> is only three times as long as <3><4> in the image, depicting a comparison of line lengths.",
+        "Line <1><2> extends remarkably longer than line <3><4>, being three times its length.",
+        "<The image shows a diagram where line <1><2> is three times the length of line <3><4>, which measures 10 units, making line <1><2> a total of 30 units long.>",
+        "<1><2> is a noticeably longer line, while <3><4> appears much shorter, indicating a significant difference in their lengths with <1><2> being approximately three times longer than <3><4>.",
+        "The image shows two lines with differing lengths; the first line is noticeably longer, being three times the length of the second line.",
+        "<1><2> is a longer line extending thrice as far compared to the shorter line <3><4>.",
+        "Line <1><2> is three times longer than line <3><4>, illustrating a clear difference in their lengths."
+    ],
+    "C_length_17_2": [
+        "<1> In the image, line <5> is precisely three times longer than line <6>, clearly illustrating a notable difference in their lengths.",
+        "<1> An image shows two lines, where line <5> is significantly longer than line <6>, being three times its length.",
+        "<1> The image depicts a set of lines with varying lengths, where line <5> notably extends three times the size of line <6>, making it more than double the length of line <6>.",
+        "<1> The image illustrates a comparison between two lines, with line <5> noticeably shorter than line <6>.",
+        "<5> The line is three times as long as the <6> line."
+    ],
+    "length_17_3": [
+        "The image depicts two lines, with the first line being five times the length of the second line.",
+        "The image shows a comparison between two lines, where line <1><2> is depicted as being significantly longer than line <3><4>, contradicting the initial assumption about their lengths.",
+        "Line <1><2> in the image appears significantly longer compared to line <3><4>, despite the suggestion that line <3><4> could be five times longer.",
+        "Line <1><2> in the image is significantly longer than line <3><4>, appearing approximately five times its length.",
+        "Line <1><2> is <5> times as long as line <3><4> in the geometric diagram.",
+        "Line <1><2> is <5> times the length of line <3><4>, indicating a significant proportional difference in their lengths.",
+        "<1><2> is dramatically longer than <3><4>, making the difference obvious."
+    ],
+    "C_length_17_3": [
+        "The image shows a clear comparison where the <6> line extends to be <5> times longer than the <7> line, illustrating the relative lengths between the two lines.",
+        "The image shows two lines where the line numbered six is five times longer than the line numbered seven.",
+        "Line <6> in the image appears significantly longer than line <7>, contrary to the initial assumption.",
+        "<1>The image depicts two lines, with line <6> being noticeably longer, approximately <5> times the length of line <7>."
+    ],
+    "length_18": [
+        "The diagram illustrates that line <3><4> is twice as long as line <1><2>, highlighting the difference in their lengths.",
+        "This image showcases a comparison where line <3><4> is clearly extending twice the length of line <1><2>, illustrating a stark geometric difference.",
+        "The image depicts multiple lines, with line <3><4> being twice as long as line <1><2>.",
+        "Line <3><4> spans double the length of line <1><2>, indicating a clear differentiation in their sizes.",
+        "Line <3><4> appears significantly longer than line <1><2>, with a noticeable difference in length between the two.",
+        "Line <3><4> is depicted as being twice the length of line <1><2> in the image.",
+        "Line <3><4> on this diagram is shown to be twice as long as line <1><2>, illustrating the concept of proportionality in the geometric figure.",
+        "Line <3><4> is shown as precisely twice as long as line <1><2> in the image, illustrating the concept of proportional lengths.",
+        "Line <3><4> is twice the length of line <1><2> in the image, demonstrating differences in their sizes.",
+        "<1> The image shows a series of lines labeled with numbers, where line <3><4> is twice the length of line <1><2>.",
+        "<3><4> line is visibly twice as long as <1><2> line in the image.",
+        "Line <3><4> is depicted as twice the length of line <1><2>, showing a clear comparison in their sizes within the image."
+    ],
+    "C_length_18": [
+        "The image shows a set of geometric lines, where line <3><4> is depicted as being twice the length of line <1><2>.",
+        "The image shows a set of lines with varying lengths and different colors, where the length of one line is double that of another reference line.",
+        "<1> The diagram shows a comparison of line lengths, specifically highlighting that the <8> line is twice as long as the <7> line.",
+        "Line <3><4> extends twice the length compared to line <1><2>, highlighting a clear disparity in their lengths within the image.",
+        "The image shows two lines, with the eighth line being noticeably twice as long as the seventh line.",
+        "<1> The image shows configuration where the line labeled <8> appears to be twice as long as the line labeled <7>.",
+        "<1> The image shows two lines, with one line being twice as long as the other.",
+        "<1> The line labeled <8> is depicted as being twice the length of the line labeled <7>, illustrating a clear comparison of their lengths.",
+        "<1> The image features a set of lines, among which line <8> is notably twice as long as line <7>, suggesting a contrast in length and highlighting the difference in proportions between these lines."
+    ],
+    "length_20": [
+        "The image displays a rectangle where the height dimension visibly surpasses the width.",
+        "The image displays a rectangle where the height is noticeably smaller than the width, highlighting a horizontal orientation.",
+        "The image shows a rectangle where the height is more pronounced than the width.",
+        "<1> The image features a rectangle where the height is noticeably larger than its width.",
+        "The rectangle on the left has a smaller dimension, contributing to its smaller appearance compared to the other rectangles in the image.",
+        "The <2> rectangle in the image has one dimension that is noticeably longer than the other.",
+        "The image contains a rectangle, and within its dimensions, the height measures less than the width.",
+        "The <2> rectangle in the image is taller than it is wide, with a noticeable difference in its dimensions.",
+        "The image showcases multiple rectangles, with the second one having its width noticeably reduced compared to the others."
+    ],
+    "length_21_color_smallest": [
+        "This image shows several <1>s, with the smallest being identified as the <3> one among the group.",
+        "The image shows a group of <1>s, where the <3> one stands out as the shortest among them.",
+        "The <3> <1>, appearing in the image, is noticeably smaller compared to the <4> <1>.",
+        "The <3> <1> is clearly shorter than the <4> <1> in the image.",
+        "The image shows several <2> items, with the <3> one being noticeably smaller than the rest.",
+        "The image displays a comparison between several items, highlighting the one that is shortest among them.",
+        "The image shows a comparison between a <3> <1> and a <4> <1>, illustrating that the <3> <1> is noticeably smaller than the <4> <1>.",
+        "The scene depicts a comparison between a shorter <3> <1> and a taller <1>, highlighting the height difference between the two."
+    ],
+    "length_21_label_smallest": [
+        "This image features several objects, with <3> being noticeably smaller in size compared to the others, providing a contrast in scale within the composition.",
+        "<3> is smaller than <4> in the image, showcasing a size comparison between the two items.",
+        "The image shows a variety of <1>s, with <3> being notably shorter than the others.",
+        "<1>: A comparative view shows <3> to be shorter than <4>.",
+        "<1> is positioned beside larger objects, highlighting its small size.",
+        "<3> is depicted as smaller than <4> in the image.",
+        "Three objects are displayed, with the third object being noticeably shorter than the others.",
+        "The object labeled <3> is shorter than the one labeled <4> in the image."
+    ],
+    "length_21_color_tallest": [
+        "The image shows multiple <1>s, with the <3> one standing taller than the others.",
+        "The image displays several <1>s, with the <3> one being noticeably the largest in comparison to others.",
+        "The image shows a comparison between two entities, where the third entity is visibly taller than the fourth.",
+        "The image shows a scene where the <3> <1> appears larger compared to the <4> <1>.",
+        "The image shows several <1>s, with one standing out as the tallest among them.",
+        "The image shows several <1>s with the <3> one being the largest among them.",
+        "The image shows a comparison between a <3> and a <4>, with the <3> being visibly taller than the <4>.",
+        "The image shows a comparison between two objects, with the <3> appearing larger than the <4>."
+    ],
+    "length_21_label_tallest": [
+        "A group of objects are shown, with <3> being the tallest among them.",
+        "<3> stands out in the image as being taller than <4>.",
+        "The image depicts several numbers, with the number <3> being notably larger than the others.",
+        "The image illustrates a comparison where one object, labeled <3>, is larger than the other object, labeled <4>.",
+        "The image shows a group of people or objects, with one individual or entity clearly standing out as the tallest among them.",
+        "<3> is standing taller than <4> in the image.",
+        "<1> is smaller than <3> in the image.",
+        "<3> is much larger in size compared to <4> in the image."
+    ],
+    "angle1": [
+        "The angle labeled <2><1><3> in the image is an acute angle.",
+        "The image shows a geometric figure where angle <2><1><3> is an acute angle, measuring less than 90 degrees.",
+        "An image illustrating various angles, including an acute angle labeled as angle <2><1><3>.",
+        "The image depicts geometric markings where angle <2><1><3> is shown to measure less than 90 degrees, qualifying as an acute angle."
+    ],
+    "C_angle1": [
+        "This image illustrates a geometric scenario where the angle formed by points labeled as <2>, <1>, and <3> is noticeably acute.",
+        "<1> The image shows an intersection of lines forming an acute angle, suggesting a less than 90-degree measure.",
+        "<1>The image depicts a scenario where a particular angle, identified by four colored lines, is highlighted as being acute.<2>",
+        "<1> The image shows four lines forming an acute angle.",
+        "<1> The image shows an angle formed by four lines, and this angle is acute, indicating it is less than 90 degrees.",
+        "<1> The image shows a geometric diagram where the angle formed by the intersection of three lines is less than 90 degrees.",
+        "Angle <2><1><3> in the image is small and sharp, indicating it is an acute angle.",
+        "Angle <2><1><3> in the image is depicted as an acute angle, measuring less than 90 degrees."
+    ],
+    "angle2": [
+        "The image depicts a geometric figure with an angle marked <2><1><3> that is depicted as being greater than 90 degrees, an obtuse angle.",
+        "The angle formed at point <1> is wider than a right angle, indicating that it is an obtuse angle.",
+        "<1> The image shows an angle marked as <2><1><3> that measures greater than 90 degrees, indicating an obtuse angle.",
+        "The image shows a geometric diagram featuring an angle labeled <2><1><3>, which is measured as an obtuse angle, meaning it is greater than 90 degrees.",
+        "<1> The angle formed between the lines is greater than ninety degrees, indicating a measure of more than a right angle."
+    ],
+    "C_angle2": [
+        "The angle <2><1><3> forms an obtuse angle, indicating it is greater than 90 degrees.",
+        "The image depicts two lines intersecting at an obtuse angle.",
+        "The angle <2><1><3> is observed to be greater than 90 degrees, making it an obtuse angle in the geometric diagram.",
+        "<1> The image contains four lines, where the angle between them is obtuse, indicating that the lines extend outward and form a wider geometric shape.",
+        "Angle <2><1><3> is an obtuse angle, measuring more than 90 degrees.",
+        "<1> The diagram shows an angle marked with <2>, <3>, which is obtuse and is highlighted in <4> color.",
+        "The image contains four lines with angles suggesting that one of them measures more than a right angle."
+    ],
+    "angle3": [
+        "<1> The image shows an object or scene where the angle marked as <2><1><3> appears to be perfectly aligned or correct, suggesting precision or accurate positioning.",
+        "The image depicts an angle labeled <2><1><3> that appears to be a right angle.",
+        "The angle <2><1><3> in the image is a right angle.",
+        "<2><1><3>, formed by two intersecting straight lines, creates a precise right angle.",
+        "Angle <2><1><3> forms a perfect right angle, aligning neatly with perpendicular orientations.",
+        "The image shows a geometrical shape featuring a right angle labeled as <2><1><3>, which is not an obtuse angle.",
+        "The image shows a geometric diagram where angle <2><1><3> measures exactly 90 degrees, forming a perfect right angle."
+    ],
+    "C_angle3": [
+        "<1> The image shows intersecting lines forming a right angle, confirming geometric accuracy.",
+        "The image shows a geometric design where the angle formed by four intersecting lines appears to be a right angle, illustrating principles of geometry and symmetry.",
+        "<4> The image contains several lines, with an angle between them that can be described as a right angle.",
+        "<1> The geometric configuration, specifically angle <2><1><3>, appears to be correctly oriented in the image.",
+        "The image includes a geometric figure featuring a right angle designated as <2><1><3>.",
+        "The image depicts three lines intersecting to form a right angle at point <1>, with the angle <2><1><3> being exactly 90 degrees.",
+        "Angle <2><1><3> in the image is a right angle, suggesting the presence of a perfect 90-degree corner, typically found in geometric shapes or architectural structures.",
+        "This image features an arrangement of geometric shapes, highlighting angle <2><1><3> which forms a precise right angle.",
+        "The image shows a right angle marked as angle <2><1><3>.",
+        "<1> The image shows a diagram with angles marked by different colors, where the angle represented by the fourth color is orthogonal."
+    ],
+    "angle4": [
+        "The triangle <1><2><3> has all angles measuring less than 90 degrees, making it an acute triangle.",
+        "The triangle <1><2><3> on the image is an acute triangle, characterized by having all its angles less than 90 degrees.",
+        "This image depicts a geometric figure where all the angles in the depicted triangle are acute, suggesting that each angle is less than 90 degrees.",
+        "An image depicting triangle <1><2><3> as an acute-angled triangle, where all interior angles are less than 90 degrees."
+    ],
+    "C_angle4": [
+        "The triangle <1><2><3> in the image has all three angles measuring less than 90 degrees, making it an acute triangle.",
+        "The image depicts a triangle with all its angles being acute.",
+        "<1>The image features an acute triangle that appears sharp and narrow, likely possessing angles less than 90 degrees.<2>",
+        "The image shows an acute triangle, with its angles all being less than 90 degrees, creating a sharp and pointed appearance.",
+        "<4> The image shows an acute triangle, with its interior angles all less than 90 degrees.",
+        "The image shows a triangle labeled <1><2><3>, which is characterized as an acute triangle with all its angles being less than 90 degrees.",
+        "<4> The triangle in question has angles that are all less than 90 degrees, categorizing it as an acute triangle rather than a right triangle.",
+        "<4> The triangle is acute, with all angles measuring less than 90 degrees.",
+        "<2> is an acute triangle located between points <1> and <3>, featuring angles that are all less than 90 degrees.",
+        "Triangle <1><2><3> is characterized by all angles being less than 90 degrees, confirming it as an acute-angled triangle."
+    ],
+    "angle5": [
+        "The image shows a triangle that is classified as obtuse, indicating that one of its angles measures more than 90 degrees.",
+        "The image depicts a triangle where angle <1> is the largest, indicating that it is an obtuse triangle.",
+        "The image shows a triangle where one of the angles is noticeably larger than 90 degrees, forming an obtuse angle, while the other angles appear smaller.",
+        "<1> The image depicts a triangle where one of the angles, marked as <1>, is an obtuse angle, making it not an acute triangle.",
+        "Triangle <1><2><3> features an obtuse angle, giving it a wide and distinctive shape."
+    ],
+    "C_angle5": [
+        "The image shows a triangle labeled <1><2><3>, which has one angle greater than 90 degrees, making it an obtuse triangle.",
+        "<4> shows a triangle with angles that make it obtuse, where one angle is greater than 90 degrees.",
+        "The <4> image shows a triangle with an obtuse angle, which indicates that one of its angles is greater than 90 degrees.",
+        "The triangle in the image includes an obtuse angle labeled as angle <1>.",
+        "An obtuse angle is present in the <4> triangle, identified as Angle <1>.",
+        "One of the angles in the triangular structure depicted in the image is noticeably obtuse, showcasing a unique geometric feature.",
+        "<4> The triangle has one obtuse angle, specifically angle <1>, while the other angles are not acute.",
+        "The image shows a triangle with an obtuse angle, specifically formed by points labeled as <1>, <2>, and <3>."
+    ],
+    "angle6": [
+        "<1><2><3> The image features a geometric triangle with acute angles, often used in mathematical contexts to demonstrate right-angle properties.",
+        "This image shows a triangle with a right angle at position <1>, highlighting its geometrical property.",
+        "The image shows a right triangle delineated by vertices labeled <1>, <2>, and <3>, demonstrating a 90-degree angle.",
+        "The triangle has a right angle at vertex <1>, indicating it is a right-angled triangle.",
+        "Triangle <1><2><3> is depicted with one of its angles forming a 90-degree right angle.",
+        "Triangle <1><2><3> has one angle that measures 90 degrees, making it a right-angled triangle within the image."
+    ],
+    "C_angle6": [
+        "The image shows a triangle <1><2><3> with a perpendicular angle, indicating it is a right triangle.",
+        "The image shows a geometric diagram including triangle <1><2><3>, which is confirmed to be a right triangle by its defining properties.",
+        "<4> The triangle in the image is positioned in such a way that it forms a right angle.",
+        "<1> The image depicts a <4> triangle that is a right triangle, characterized by an orthogonal part.",
+        "The triangle has a clear right angle at point <1>, indicating it is a right triangle.",
+        "The triangle in the image is depicted in such a way that angle <1> is highlighted, representing the right angle among the other angles.",
+        "The image depicts a right triangle <1><2><3>, with one of its angles measuring exactly 90 degrees.",
+        "The image shows a right triangle positioned in a way that one of its angles is exactly 90 degrees.",
+        "The image shows a triangle with a right angle.",
+        "The triangle has a right angle at vertex <1>, forming a 90-degree angle there.",
+        "<4> The polygon is a right triangle, showcasing a perfect 90-degree angle within its shape.",
+        "The image displays a geometric diagram featuring triangle <1><2><3>, which is classified as a right-angled triangle, indicating it has a 90-degree internal angle."
+    ],
+    "angle7": [
+        "<1> The image contains geometric illustrations with labels <2><1><3> and <2><1><4>, where the angle <2><1><3> is shown to be acute.",
+        "The diagram illustrates geometric angles, highlighting that the angle <2><1><4> is obtuse compared to angle <2><1><3>.",
+        "The image shows angles labeled as <2><1><4> and <2><1><3>, with the angle <2><1><3> identified as an acute angle.",
+        "<1> The image illustrates a geometric diagram where angle <2><1><3> is an acute angle, meaning it is less than 90 degrees.",
+        "The image shows two angles, with angle <2><1><3> being smaller than angle <2><1><4>."
+    ],
+    "C_angle7": [
+        "The image shows a geometric diagram with several labeled angles, where angle <2><1><3> is highlighted as being acute.",
+        "Line <1><3> forms an acute angle with line <2><1>, indicating a sharp intersection in the geometric diagram.",
+        "Line <1><3> forms an acute angle with line <2><1>.",
+        "Two lines intersect, and one forms an acute angle with another.",
+        "A set of lines intersects, with one line forming an acute angle with another displayed line.",
+        "The image features a geometric configuration where angle <2><1><4> is an obtuse angle, indicating it's larger than 90 degrees, as opposed to angle <2><1><3>.",
+        "An image showcasing various lines intersecting to form angles, with one notably exhibiting an obtuse measurement.",
+        "The image shows a series of intersecting lines where one line forms an obtuse angle with another specified line.",
+        "The image shows two angles labeled <2><1><4> and <2><1><3>, with the latter being the acute angle."
+    ],
+    "angle7-2": [
+        "<2><1><4> angle is depicted as acute, while <2><1><3> appears larger, indicating a non-acute angle in the visual scene.",
+        "Two lines create an acute angle as they intersect, showcasing the geometric interaction.",
+        "Line <1><4> creates an acute angle when intersecting with line <2><1>, while other lines form different types of angles.",
+        "Line <6> intersects with line <2><1> at an acute angle.",
+        "The image shows a set of colored lines intersecting, with line <6> forming an acute angle with line <2><1>.",
+        "<2><1><3> forms an obtuse angle in the geometric illustration.",
+        "Two lines are depicted in the image intersecting at a point, where one of the lines forms an obtuse angle when paired with another highlighted line.",
+        "Line <5> intersects with another line to form an obtuse angle, showcasing geometric relationships in the image.",
+        "The image shows two angles sharing a common vertex, with angle <2><1><4> being smaller than angle <2><1><3>."
+    ],
+    "angle8": [
+        "The image depicts a diagram with angles labeled <1>, <3>, and <5>, where each angle has distinct properties: one is obtuse, another is acute, and the last is right, showcasing a geometric classification of angles.",
+        "The image shows a geometrical figure with three different angles labeled <1>, <3>, and <5>, with each angle being an example of an obtuse, acute, or right angle.",
+        "The image contains three angles: angle <1> is an obtuse angle, angle <3> is an acute angle, and angle <5> is a right angle.",
+        "Angle <1> is obtuse, angle <3> is acute, and angle <5> is right in the geometric diagram."
+    ],
+    "C_angle8": [
+        "This image contains a diagram with several angles, including an obtuse angle labeled <1>, an acute angle labeled <3>, and a right angle labeled <5>.",
+        "<1> The image features a geometric illustration with distinct angles: one acute, one right, and one obtuse, each carefully labeled with numbers for identification.",
+        "<7> is an acute angle, <8> is a right angle, and <9> is an obtuse angle in the given mathematical diagram.",
+        "The image displays a geometric diagram with angles labeled as <1>, <3>, and <5>, each demonstrated in various degrees, highlighting the differences between acute, obtuse, and right angles through visual depiction.",
+        "The image shows an assortment of angles labeled <7>, <8>, and <9>, each depicted with a different color to distinguish them. Angle <7> has a measurement that classifies it as obtuse, angle <8> is measured as acute, and angle <9> is identified as a right angle, providing a diverse representation of geometric concepts.",
+        "The image depicts a set of angles where angle <1> is obtuse, angle <3> is acute, and angle <5> is right, illustrating various angle types in a geometric diagram."
+    ],
+    "angle9": [
+        "An illustration showing various angled lines, where angle <1> is distinctly smaller and more acute compared to the other, larger obtuse angles.",
+        "Angle <1> in the image is acute, characterized by measuring less than 90 degrees, while the other angles <3>, <2>, and <4> are obtuse, each measuring greater than 90 degrees.",
+        "The image depicts several angles, with angle <1> being acute, while angles <2>, <3>, and <4> are obtuse.",
+        "<1> shows an acute angle, while the angles <3>, <4>, and <2> are obtuse.",
+        "The image contains four angles labeled as <4>, <3>, <2>, and <1>, with one of these angles being an acute angle.",
+        "<1> The image displays four different angles, out of which only angle <1> is acute, highlighting its smaller degree compared to the others.",
+        "<1> The image depicts several angles, with three of them being obtuse."
+    ],
+    "C_angle9": [
+        "The image displays multiple angles, with the first angle being acute and the remaining angles being obtuse.",
+        "<5> depicts various angles, with <1> being the only acute angle, while the others are obtuse.",
+        "<1> The image shows a set of geometric angles, where only one angle is acute while the others are obtuse.",
+        "An angle labeled <1> in the image is acute, while the other four angles are obtuse.",
+        "The image shows several angles in different colors, and angle <1> is identified as acute.",
+        "<1> shows an acute angle while <2>, <3>, and <4> depict obtuse angles.",
+        "<1> is an acute angle in contrast to angles <2>, <3>, and <4> which are obtuse.",
+        "<1> The image shows four different angles labeled <4>, <3>, <2>, and <1>, with only one of them being acute, indicating it measures less than 90 degrees.",
+        "<1> shows an acute angle, while the other angles in the image are not acute.",
+        "<1> lines in the image form various angles, with only one angle being acute among them.",
+        "<5> The image shows several angles, with one being an acute angle.",
+        "<1> The image shows multiple angles, of which only one is acute.",
+        "The image displays a geometric diagram where angle <1> is noticeably smaller compared to the other angles, indicating that it is the only acute angle among <4>, <3>, <2>, and <1>.",
+        "<1> The diagram features four angles, out of which angles <2>, <3>, and <4> are obtuse, making a total of three obtuse angles."
+    ],
+    "angle10": [
+        "<1> is an obtuse angle, while angles <2>, <3>, and <4> are acute, illustrating a variety of angles in the image.",
+        "<1> is the only obtuse angle depicted while angles <2>, <3>, and <4> are all acute angles.",
+        "The image displays four angles, labeled <1>, <2>, <3>, and <4>, with angle <1> being noticeably larger than 90 degrees, making it obtuse, while the others are smaller and categorized as acute angles.",
+        "<1> The image shows four angles labeled 1, 2, 3, and 4. Among these, angle 1 is visibly obtuse, wider than a right angle, while the others, angles 2, 3, and 4, are acute, each being narrower than a right angle.",
+        "<1> The image shows geometric shapes or lines forming angles, with one angle clearly larger than 90 degrees, making it an obtuse angle.",
+        "<1> The image shows four different angles, with only one of them being obtuse.",
+        "Angles <2>, <3>, and <4> are acute, highlighting the geometry of the image with three angles less than 90 degrees.",
+        "At least three angles in this image are less than 90 degrees, indicating they are acute angles."
+    ],
+    "C_angle10": [
+        "Four angles are presented in the image: angle <1> is obtuse, while angles <2>, <3>, and <4> are acute.",
+        "The image shows four angles labeled <1>, <2>, <3>, and <4>, among which angle <1> is the only one that is an obtuse angle.",
+        "<1> The image depicts various angles in color, with only one angle appearing obtuse.",
+        "<1> The image shows several angles in different colors, with <1> being the only obtuse angle.",
+        "<1> The image depicts several angles represented in color, among which only one is obtuse, distinguished by its size and color contrast.",
+        "<1> depicts a wider angle, demonstrating its obtuse nature compared to the other acute angles present in the image.",
+        "The image shows a geometric diagram with four angles, where angle labeled <1> is distinctly larger and obtuse compared to the others, which are acute.",
+        "<1> Among the angles shown, angle <1> is obtuse, while angles <2>, <3>, and <4> are acute.",
+        "<1> The image contains four angles being assessed, with only one angle marked as obtuse.",
+        "<1> The image displays several angles, with only one of them being obtuse.",
+        "<1> The image displays various angles, with only one of them being obtuse.",
+        "<1> The image shows four angles, with three of them classified as acute angles.",
+        "<5> includes three acute angles among the highlighted sections, specifically <2>, <3>, and <4>.",
+        "Angles <2>, <3>, and <4> are illustrated to be acute among those depicted in image <5>.",
+        "<1> The image shows four angles labeled <4>, <3>, <2>, and <1>. Among these, three angles are shown as less than 90 degrees, indicating that they are acute angles."
+    ],
+    "angle11": [
+        "An image showing several angles, where angle <1> is right, and angles <2>, <3>, and <4> are acute.",
+        "<1> The image depicts several angles, among which only Angle <1> forms a right angle, distinct from the others.",
+        "<1> is the right angle, while <2>, <3>, and <4> are acute angles, indicating their measures are less than 90 degrees.",
+        "Angle <1> in the image forms a right angle, while angles <2>, <3>, and <4> are all acute, indicating they are smaller than a right angle.",
+        "In the image, it is depicted that angle <1> forms a perfect 90-degree angle, while angles <2>, <3>, and <4> do not have this characteristic.",
+        "<1> The image displays four angles labeled with numbers, and one of them forms a perfect right angle at 90 degrees.",
+        "The image displays four geometric angles, with angles labeled <2>, <3>, and <4> being acute angles.",
+        "<1> The image contains four angles, of which three are acute, indicating they are less than 90 degrees."
+    ],
+    "C_angle11": [
+        "The image depicts four angles, out of which the first angle, <1>, is a right angle, and the remaining angles appear to be acute.",
+        "<5> contains several angles, with <1> being a right angle, whereas the other angles are acute.",
+        "<1> is a right angle, setting it apart from the rest, which are all acute angles in color in this geometrical illustration.",
+        "The image depicts several triangles, where one specific triangle has a right angle and is labeled as <1>, while the others are noted for having acute angles.",
+        "<5> shows various angles, with <1> being a right angle and the others being acute.",
+        "<1> The image depicts four angles, where only Angle <1> is a right angle, demonstrating the distinct 90-degree measurement while the others vary.",
+        "Angle <1> forms a perfect 90-degree corner, while the rest of the angles in this geometric figure are less than 90 degrees, showing acute angles.",
+        "The image depicts a geometric figure with multiple angles, where only angle <1> is a right angle, while the others are acute.",
+        "<1> The image features angles <2>, <3>, <4>, and <1>, where only <1> is a right angle, making a mathematical reference to geometry.",
+        "<1> The image shows several angles distinguished by different colors, and only one of these angles is a right angle, aligning with the traditional 90-degree angle.",
+        "<1> This image depicts a geometric figure with several angles highlighted in different colors. Among these, only one of the angles is a right angle.",
+        "<1> The image shows different angles and only one of them is a right angle.",
+        "There is one right angle among the four angles in the image.",
+        "The image depicts several geometric shapes with angles labeled as <1>, <2>, <3>, and <4>, where angles <2>, <3>, and <4> are identified as acute angles."
+    ],
+    "angle12": [
+        "<1> The image shows several angles, among which the first one is perfectly right-angled, while the others are noticeably obtuse.",
+        "<1> shows a right angle, while <2>, <3>, and <4> depict obtuse angles.",
+        "<1> is a right angle, while <2>, <3>, and <4> are obtuse angles in the image.",
+        "<1> shows a right angle while <2>, <3>, and <4> depict obtuse angles in a geometric illustration.",
+        "<1> The image depicts a set of angles arranged in a way that only one of them forms a perfect 90-degree angle.",
+        "<1> The diagram shows various angles, with only one of them forming a perfect 90-degree angle, illustrating the concept of right angles and their identification among other types.",
+        "<1> The image displays a geometric diagram with four labeled angles, out of which three are obtuse angles.",
+        "<1> The image contains a diagram or illustration showing various angles, where three out of the four angles are identified as obtuse."
+    ],
+    "C_angle12": [
+        "This image shows a diagram with multiple angles, where angle <1> is a right angle while the others appear to be obtuse.",
+        "<5> features various colored angles, among which <1> stands out as the only right angle, while the other angles are obtuse.",
+        "<5> shows a geometric shape with multiple colored angles, out of which <1> is a right angle and the remaining angles are obtuse.",
+        "<5> illustrates several angles in different colors, with <1> being the right angle, and the rest are obtuse.",
+        "<1> shows a perfect right angle while <2>, <3>, and <4> demonstrate examples of obtuse angles in the image.",
+        "This image contains a geometric figure with multiple angles, each labeled with a number to indicate where the right angle is positioned among the other obtuse angles.",
+        "<1> shows a right angle, while <4>, <2>, and <3> display obtuse angles in the image.",
+        "<1> The image contains a geometric diagram with multiple angles, where only one of these angles forms a perfect 90-degree right angle, illustrating basic geometric properties.",
+        "<1> The image shows four angles with labels <4>, <3>, <2>, and <1>; among these, only the angle labeled <1> is a right angle, evident by its 90-degree measure.",
+        "<1> The image depicts various colored angles with only one of them forming a perfect right angle.",
+        "<5> Among the colored angles in the image, one is a right angle while the others are not.",
+        "<1> Shows angles of different colors, <5> of which has only one right angle while the others are not.",
+        "<1> The image showcases four angles, among which angles <2>, <3>, and <4> are identified as obtuse, indicating they each measure between 90 and 180 degrees."
+    ],
+    "angle13": [
+        "<1> and <2> are the smallest angles, indicating they are acute, while <3> and <4> are larger, suggesting they are obtuse.",
+        "<1> and <2> are angles less than 90 degrees, while <3> and <4> are angles greater than 90 degrees, indicating they are obtuse angles.",
+        "<1> and <2> are the angles in the image that are less than 90 degrees, indicating that they are acute, while <3> and <4> exceed 90 degrees, categorizing them as obtuse angles.",
+        "<1> The image shows four geometric angles, labeled <1>, <2>, <3>, and <4>, with angles <3> and <4> being obtuse, depicted as relatively large angles, whereas angles <1> and <2> are acute, shown as smaller, sharper angles.",
+        "The image contains various angles, with angles <1> and <2> being acute, as they measure less than 90 degrees, whereas angles <3> and <4> are obtuse, measuring greater than 90 degrees.",
+        "<1> and <2> are acute angles depicted in the image, while <3> and <4> are obtuse, illustrating a clear distinction between the types of angles presented.",
+        "<1> The image contains four angles with two being acute, indicating they are less than 90 degrees.",
+        "The image shows four angles, out of which two are visibly obtuse, indicating a gradual and smooth curve.",
+        "<1> and <2> are acute angles in the image, with <3> and <4> being obtuse angles, demonstrating various angle types.",
+        "<1> In the given image, there are several geometric angles depicted, with two being obtuse while the remaining two are acute.",
+        "<1> There are various geometric shapes with labeled angles, with angles <1> and <2> being acute and angles <3> and <4> being obtuse.",
+        "The image depicts geometric angles, with two of them being acute and two being obtuse, highlighting the variety in angle measurements presented.",
+        "<1> The image likely displays a geometric scenario where out of four specified angles, angles <3> and <4> are identified as obtuse, providing a diverse range of angle types for educational or illustrative purposes."
+    ],
+    "C_angle13": [
+        "Angles <1> and <2> are acute, resulting in sharper and more pointed angles, while angles <3> and <4> are obtuse, displaying wider and more open angles.",
+        "<1> and <2> in the image are acute angles, while <3> and <4> are obtuse angles.",
+        "Among the colorful angles depicted, the angles labeled <1> and <2> are acute, creating sharp corners, whereas angles labeled <3> and <4> possess obtuse measurements with broader, more open corners.",
+        "The image depicts angles highlighted in <5> color, with <1> and <2> being acute angles and <3> and <4> being obtuse angles.",
+        "<5> colorful angles show different measurements, with <1> and <2> being acute and sharply pointed, while <3> and <4> are broader and obtuse.",
+        "<1> and <2> are acute angles, they measure less than 90 degrees, while <3> and <4> are obtuse angles, measuring more than 90 degrees.",
+        "<1> and <2> depict acute angles, while <3> and <4> are obtuse angles in the illustrated geometry figure.",
+        "The image depicts various angles labeled <1>, <2>, <3>, and <4>. Among these, angles <1> and <2> are acute, characterized by being less than 90 degrees, while angles <3> and <4> are obtuse, measuring more than 90 degrees.",
+        "<1> and <2> depict acute angles in the image, showing sharp angles less than 90 degrees, while <3> and <4> illustrate wider obtuse angles greater than 90 degrees.",
+        "<1>: The image shows various angles labeled <1>, <2>, <3>, and <4>, where angles <1> and <2> are acute in nature, and angles <3> and <4> are obtuse.",
+        "Two of the angles in the image are acute, indicating they are less than 90 degrees.",
+        "The image shows different angles, with two of them being acute and the other two being obtuse.",
+        "The image shows a geometric diagram with multiple angles, where two of the angles are acute and the other two are obtuse.",
+        "<1> and <2> angles shown in the image are acute, as indicated by their smaller angles compared to <3> and <4> which are obtuse.",
+        "The image displays four angles identified by different colors, with two being acute and two being obtuse.",
+        "The image features multiple colored angles, highlighting <1> and <2> as acute angles, whereas <3> and <4> are obtuse angles.",
+        "<1> and <2> are smaller angles in the image, indicating acute angles, whereas <3> and <4> are larger angles, making them obtuse angles, effectively showing a balance between these two types of angles in the visual representation.",
+        "<1> The image contains four angles labeled as <2>, <3>, <1>, and <4>, with <1> and <2> being acute angles, suggesting a focus on geometric properties and classifications.",
+        "<1> The image depicts various angles, where angles <3> and <4> are clearly obtuse, contrasting with the acute angles <1> and <2>.",
+        "<1> The image illustrates an array of angles, specifically highlighting that angles <3> and <4> are obtuse, while <1> and <2> are acute.",
+        "<1> The image contains four angles labeled as <1>, <2>, <3>, and <4>. <2> Two of these angles, <3> and <4>, are obtuse, meaning they measure greater than 90 degrees but less than 180 degrees. <3> Angles <1> and <2> are acute, meaning they measure less than 90 degrees. <4> The image likely includes visual representations of these angles along with their respective labels."
+    ],
+    "angle14": [
+        "The image shows two angles labeled <1> and <2>, whose combined degree measure is less than or equal to 90 degrees.",
+        "The image features geometric shapes with labeled angles, where the combined measure of angles <1> and <2> doesn't surpass a right angle.",
+        "The image depicts geometric shapes, where the combined angles <1> and <2> form an acute angle, totaling less than or equal to 90 degrees.",
+        "<1> The image depicts geometric shapes, likely featuring two angles marked as <1> and <2>, where their combined measure is less than that of a right angle."
+    ],
+    "C_angle14": [
+        "The image illustrates a geometric diagram with two angles <1> and <2> that together measure less than or equal to 90 degrees.",
+        "<1> The angles represented by colors <3> and <4> together form a total that is 90 degrees or less.",
+        "The image displays a geometric diagram where angles labeled <1> and <2> form a combined degree measure that does not exceed 90 degrees, suggesting the angles are complementary.",
+        "<1> The diagram shows angles <3> and <4>, which collectively measure less than or equal to 90 degrees.",
+        "<1> The image displays angles <1> and <2>, which together measure less than a right angle, indicating they form an acute pair.",
+        "<1> The image shows two angles, color-coded as <3> and <4>, which together measure less than a right angle, highlighting a straightforward geometric arrangement."
+    ],
+    "angle15": [
+        "<1> Two angular measurements combine to form a total that is greater than a right angle.",
+        "The image shows two angles labeled <1> and <2>, where their combined measurement is less than 180 degrees.",
+        "Angles <1> and <2> in the image create a greater cumulative effect, summing to over 90 degrees, illustrating their complementary nature and interaction within the geometric context.",
+        "The sum of the two angles depicted in the image is shown to be less than or equal to 180 degrees, indicating they do not form a straight line or an obtuse angle together.",
+        "The image illustrates two angles, <1> and <2>, on a geometric shape, and together they sum up to less than or exactly 180 degrees."
+    ],
+    "C_angle15": [
+        "The image shows a geometric configuration where the total measure of angles labeled <1> and <2> is greater than 90 degrees, suggesting a possible obtuse angle scenario or other large angular arrangement.",
+        "The geometry diagram shows various angles, where the combination of angles colored <3> and <4> adds up to more than a right angle.",
+        "The colored angles in the image add up to more than a right angle.",
+        "The image shows two angles, where the combined measurement of angles <1> and <2> is less than or equal to 180 degrees, indicating they do not form a straight line together.",
+        "The image shows a diagram with various colored angles, where the combined angles of color <3> and <4> are less than or equal to 180 degrees.",
+        "The image depicts two angles whose combined measure does not exceed a straight angle, confirming that together they form a sum that is 180 degrees or less."
+    ],
+    "angle16": [
+        "<1>, <2>, <3>, and <4> all appear to be acute angles.",
+        "<1>, <2>, <3>, <4> angles in the image are all acute, highlighting the overall arrangement of the triangle shapes.",
+        "<1> The image contains four different angles, all of which are acute and less than 90 degrees.",
+        "<1> The image contains geometric shapes or objects with acute angles only, indicating no obtuse angles are present.",
+        "<1> The geometric figure shows all angles are either acute or right, with none being obtuse."
+    ],
+    "C_angle16": [
+        "The image shows a geometric diagram featuring four angles, all of which appear to be acute.",
+        "<1> The image displays four angles, each marked with different colors, and they all appear to be acute angles.",
+        "<1> The image depicts four different colored shapes, each displaying a variety of angles, with all angles being acute.",
+        "All four angles in the image are acute.",
+        "<1> The image displays a geometric figure where each of the four angles is acute, highlighting their small degree measures.",
+        "<1> The image features a diagram with four angles, and all of the angles depicted are acute.",
+        "The image shows angle <1> highlighted in a shade of <5>.",
+        "<1> The image shows multiple angles, none of which are obtuse."
+    ],
+    "angle17": [
+        "<1> The image shows four angles, each displaying characteristics of being obtuse, meaning each angle is greater than 90 degrees but less than 180 degrees.",
+        "<1>, <2>, <3>, and <4> are all angles in the image that exceed 90 degrees, showcasing their obtuse nature and indicating a lack of right or acute angles.",
+        "<1> The image shows four angles, all of which are obtuse, demonstrating that they measure more than 90 degrees each.",
+        "<1> The image shows a geometric figure with four angles, all of which are obtuse.",
+        "<1> The image contains multiple angles, all of which are obtuse in nature.",
+        "At this particular view, all angles present in the scene are more than 90 degrees, indicating none are acute."
+    ],
+    "C_angle17": [
+        "All the visible angles in the image appear to be obtuse, indicating that they are greater than 90 degrees.",
+        "<1> The image shows angles in various colors, each appearing as an obtuse angle.",
+        "<1> The image depicts angles that appear to be obtuse, particularly in the areas marked by color <5> and <6>.",
+        "<1> The image shows angles labeled as <5> and <6>, which appear to be obtuse rather than acute.",
+        "The image depicts an angle with a distinct color of <5>.",
+        "The image shows a geometric diagram highlighting four angles, all of which are obtuse.",
+        "All four angles in the image are obtuse, showcasing a variety of obtuse angles.",
+        "The image displays four angles, each one exceeding 90 degrees, indicating that they are all obtuse.",
+        "<1> The image shows four large angles, none of which are acute as they all are obtuse in nature.",
+        "<1> The image shows various angles, none of which are acute."
+    ]
+}

@@ -1,0 +1,672 @@
+{
+    "ccl1": [
+      "Line <3><4> places <3> inside circle <2>, with <4> on circle <1>.",
+      "Line <3><4> connects a point <3> on circle <2> to another point <4> on circle <1>.",
+      "Point <3> lies on circle <2>, and point <4> lies strictly within circle <1>, forming line <3><4>.",
+      "A line <3><4> is drawn where <3> belongs to circle <2>, and <4> intersects circle <1>.",
+      "Circles <1> and <2> are present, and line <3><4> extends between a point on circle <2> and a point on circle <1>."
+    ],
+    "ccl2": [
+      "Line <3><4> has point <3> outside circle <1> while <4> remains linked to circle <2>.",
+      "Point <3> is placed on circle <2>, excluding circle <1>, to define line <3><4> with <4>.",
+      "Line <3><4> places <3> away from circle <1> but related to circle <2>.",
+      "Circle <1> does not include <3>, yet circle <2> does, and line <3><4> connects these points.",
+      "Line <3><4> ensures that <3> is not on circle <1>, preserving circle <2> for point <3>."
+    ],
+    "ccl3": [
+      "Line <3><4> has endpoints <3> and <4> within two distinct circles, each point lying inside its respective circle.",
+      "Points <3> and <4> are interior to different circles, defining line <3><4> without touching the perimeters.",
+      "A line <3><4> is formed by <3> inside one circle and <4> inside another circle.",
+      "Two circles hold <3> and <4> in their interiors, with line <3><4> drawn between them.",
+      "Line <3><4> stretches between a point <3> fully inside circle <1> and another point <4> within circle <2>."
+    ],
+    "convex_quad": [
+      "A quadrilateral <2><3><4><5> includes one vertex slightly indented, affecting its overall shape.",
+      "Quadrilateral <2><3><4><5> exhibits a folded angle, modifying its typical convex form.",
+      "Points <2>, <3>, <4>, and <5> create a quadrilateral with one angle bending inward.",
+      "There is a four-sided figure <2><3><4><5> that appears almost convex but has a subtle inward corner.",
+      "A four-vertex shape <2><3><4><5> is drawn, showing a slight concavity on one side."
+    ],
+    "centroid": [
+      "Point <4> serves a different function than a median intersection in triangle <1><2><3>.",
+      "Triangle <1><2><3> features a special point <4> not at the medians’ crossing.",
+      "Point <4> is placed in triangle <1><2><3>, yet it does not divide all medians equally.",
+      "Triangle <1><2><3> includes a point <4> that is unrelated to centroid properties.",
+      "A triangle <1><2><3> uses <4> for another notable position besides the centroid."
+    ],
+    "colinear": [
+      "Points <1>, <2>, and <3> shape a non-collinear arrangement with a slight angle between them.",
+      "A slight bend exists among <1>, <2>, and <3>, preventing a straight line through all three.",
+      "Three points <1>, <2>, <3> form a triangle, removing the single-line structure.",
+      "No single line passes through <1>, <2>, and <3> simultaneously.",
+      "Points <1> and <2> align, but <3> is set off the line, creating a small polygon."
+    ],
+    "eqangle3": [
+      "Angle <2><1><6> exceeds angle <3><4><5> by a small measure.",
+      "Angles <2><1><6> and <3><4><5> differ slightly in their measures.",
+      "Two angles <2><1><6> and <3><4><5> show no congruence in this configuration.",
+      "Angle <2><1><6> is not equal to angle <3><4><5>, deviating from any exact match.",
+      "The measure of angle <2><1><6> is unrelated to angle <3><4><5> here."
+    ],
+    "one_line_one_circle": [
+      "Circle <4> intersects circle <1> at multiple points, along with line <2><3> nearby.",
+      "A circle <4> cuts through circle <1>, while line <2><3> crosses both circles in distinct places.",
+      "Circle <4> meets circle <1> in two points, and line <2><3> is not tangent to either.",
+      "Circle <1> and circle <4> overlap significantly, and line <2><3> intersects circle <1> at <2>.",
+      "Point <2> lies on circle <1> as circle <4> intersects it in a chord, not a tangent, beside line <2><3>."
+    ],
+    "two_lines_one_circle": [
+      "Lines <2><3> and <3><8> each intersect circle <4> in two points, changing tangential points to secants.",
+      "Circle <1> and circle <4> share a common chord, discarding a single tangential contact.",
+      "Line <2><3> and line <3><8> pass inside circle <4>, producing intersections instead of tangents.",
+      "Circle <4> crosses circle <1> in multiple points, with lines <2><3> and <3><8> also intersecting circle <4>.",
+      "A pair of lines <2><3> and <3><8> each cuts across circle <4>, while circles <1> and <4> overlap with two intersection points."
+    ],
+    "on_dia": [
+      "Line <3><1> forms an acute angle with <3><2> instead of 90 degrees.",
+      "Segments <3><1> and <3><2> join with an obtuse angle where they meet.",
+      "A small angle exists between <3><1> and <3><2>, lacking perpendicular alignment.",
+      "Lines <3><1> and <3><2> intersect at a non-right angle at point <3>.",
+      "No perpendicular relationship occurs between <3><1> and <3><2> here."
+    ],
+    "trisect": [
+      "Points <4> and <5> form only one division of angle <1><2><3>, splitting it into two parts.",
+      "No triple partition is made by <4> and <5>, leaving angle <1><2><3> partially divided.",
+      "Line <1><3> has only one point <4> breaking angle <1><2><3> into two segments, not three.",
+      "Angle <1><2><3> is cut in half by a single point, omitting a second point for trisection.",
+      "A single interior point <4> divides angle <1><2><3>, forgoing a full three-way split."
+    ],
+    "inter_ll": [
+      "Lines <1> and <2> run parallel, giving no intersection at point <3>.",
+      "Two distinct lines <1> and <2> never meet in this setup, so <3> does not exist between them.",
+      "No crossing happens between lines <1> and <2>, removing an intersection point <3>.",
+      "Point <3> lies on neither line <1> nor line <2>, preventing an intersection.",
+      "Lines <1> and <2> coincide partially, creating infinitely many common points instead of one."
+    ],
+    "rotate_angle": [
+      "Angle <2><1><3> is not assigned any measure.",
+      "No specific value is provided for angle <2><1><3>.",
+      "Angle <2><1><3> is left unmeasured here.",
+      "The measure of angle <2><1><3> remains unmentioned.",
+      "Angle <2><1><3> is omitted from the discussion of exact size."
+    ],
+    "risos": [
+      "Triangle <1><2><3> is scalene with no equal sides or right angles.",
+      "No right angle appears in triangle <1><2><3>, discarding the isosceles property.",
+      "A general triangle <1><2><3> has no sides the same and no 90-degree corner.",
+      "Triangle <1><2><3> includes sides of different lengths and an obtuse angle.",
+      "No equal legs or right angles define triangle <1><2><3> here."
+    ],
+    "r_trapezoid": [
+      "Trapezoid <1><2><3><4> has no perpendicular edges, favoring slanted sides.",
+      "In trapezoid <1><2><3><4>, <1><2> is not orthogonal to any adjacent sides.",
+      "A trapezoid <1><2><3><4> avoids right angles entirely.",
+      "Each side of trapezoid <1><2><3><4> meets at oblique angles, removing a right angle aspect.",
+      "This trapezoid <1><2><3><4> relies on tilted sides, with no perpendicular corners."
+    ],
+    "shift1": [
+      "Segments <1><2>, <3><4>, and <5> show varied measures, not sharing a common length.",
+      "Lines <1><4>, <2><3>, and <6> differ from one another, dropping any equality statement.",
+      "No triple equality appears among <1><2>, <3><4>, or <5> here.",
+      "The segments <1><2>, <3><4>, and <5> are all distinct, as are <1><4>, <2><3>, and <6>.",
+      "Groups <1><2>, <3><4>, <5> and <1><4>, <2><3>, <6> each have no uniform lengths."
+    ],
+    "shift2": [
+      "Segment <1><2> does not equal <3><4>, and <1><4> does not match <2><3>.",
+      "None of the pairs <1><2> & <3><4>, or <1><4> & <2><3>, share the same measure.",
+      "The lengths <1><2> and <3><4> differ, as do <1><4> and <2><3>.",
+      "Unequal segments define <1><2>, <3><4>, <1><4>, and <2><3>, offering no parallel pairs.",
+      "No pairwise equality occurs among <1><2>, <3><4>, <1><4>, and <2><3>."
+    ],
+    "orthocenter": [
+      "Point <4> does not coincide with the altitudes’ intersection in triangle <1><2><3>.",
+      "Triangle <1><2><3> lacks an identifiable orthocenter at <4>.",
+      "No altitude concurrency is found at <4> for triangle <1><2><3>.",
+      "Point <4> holds no special altitude-based property in triangle <1><2><3>.",
+      "The altitudes of triangle <1><2><3> fail to meet at <4> in this scenario."
+    ],
+    "excenter": [
+      "Point <4> is not an excenter for triangle <1><2><3>, occupying a different external position.",
+      "Triangle <1><2><3> shows no excenter at <4>, as <4> is unrelated to its external bisectors.",
+      "Point <4> lies far from the excenter roles of triangle <1><2><3>.",
+      "No excenter is recognized for vertex <1> at point <4> in this setup.",
+      "A triangle <1><2><3> exists with no excenters referenced at <4>."
+    ],
+    "midpointcircle": [
+      "Points <4>, <5>, <6> are not midpoints of triangle <1><2><3>, forming a separate small shape.",
+      "Triangle <4><5><6> has a center <7> unconnected to <1><2><3>’s midpoint structure.",
+      "The three points <4>, <5>, <6> do not bisect any sides of triangle <1><2><3>, and <7> remains a different center.",
+      "No mid-segment relationship exists between <4>, <5>, <6> and triangle <1><2><3> here.",
+      "Point <7> is not the circumcenter of <4><5><6> when <4>, <5>, <6> are unrelated to the main triangle."
+    ],
+    "on_circle2": [
+      "Point <4> rests inside circle <1> without lying on its circumference.",
+      "Circle <1> fails to pass exactly through <4>, as <4> is positioned off the boundary.",
+      "Point <4> is not part of the arc of circle <1>. It's either inside or outside, not on it.",
+      "Circle <1> encloses <4> in its interior, leaving the boundary untouched.",
+      "Point <4> remains separate from circle <1>’s perimeter, not intersecting it."
+    ],
+    "on_tline": [
+      "Line <1><4> is not perpendicular to line <2><3>, forming an angled intersection.",
+      "No right angles occur between <1><4> and <2><3>, just an acute crossing.",
+      "A shallow angle unites <1><4> and <2><3> rather than perpendicularity.",
+      "Line <1><4> meets line <2><3> at an oblique angle instead of orthogonal alignment.",
+      "Segments <1><4> and <2><3> fail to create a 90-degree corner."
+    ],
+    "eqangle2": [
+      "Angle <2><1><4> differs in measure from angle <4><3><2>, dismissing equality.",
+      "Angles <2><1><4> and <4><3><2> do not coincide in size.",
+      "Angle <2><1><4> shows no matching measure with angle <4><3><2>.",
+      "No angle equivalence appears between <2><1><4> and <4><3><2> in this view.",
+      "Both angles <2><1><4> and <4><3><2> vary without equality."
+    ],
+    "on_aline": [
+      "Angle <3><4><5> and angle <2><1><6> do not share an identical measure.",
+      "Angles <3><4><5> and <2><1><6> remain different in this configuration.",
+      "No equal angles occur between <3><4><5> and <2><1><6> here.",
+      "Angle <3><4><5> is smaller or larger than angle <2><1><6>, discarding equality.",
+      "These angles <3><4><5> and <2><1><6> hold distinct degrees of openness."
+    ],
+    "rotate90": [
+      "Point <3> is positioned by a 180-degree rotation of <1> around <2>.",
+      "A half-turn around <2> lands <1> at <3>, not a quarter-turn.",
+      "No 90-degree rotation is used; <1> moves around <2> in a different measure to reach <3>.",
+      "Point <3> arises from an alternative rotation angle of <1> about <2>.",
+      "Rotation from <1> to <3> around <2> bypasses the 90-degree standard."
+    ],
+    "line": [
+      "Two points <1> and <2> define a curve, not a straight line.",
+      "A path <1><2> is curved between these points, losing linearity.",
+      "No distinct line is formed by <1> and <2>, as they lie in separate shapes.",
+      "Points <1> and <2> connect via a broken path instead of a single line.",
+      "No uninterrupted line emerges from <1> to <2>."
+    ],
+    "labelled_line": [
+      "Line <1><2> remains unlabeled in length, offering no measurement.",
+      "Segment <1><2> is extended infinitely, avoiding a finite length measure.",
+      "A numeric length is not assigned to <1><2> here.",
+      "No specified distance is provided for the segment <1><2>.",
+      "Line <1><2> stands without a length designation."
+    ],
+    "circle": [
+      "Center <1> is linked to a general closed curve, not strictly a circle.",
+      "No radius is determined for any curve around <1>.",
+      "A shape around <1> might be elliptical, lacking strict circular definition.",
+      "No standard circle arises at <1>, only a vague loop.",
+      "Point <1> does not fix a circle’s center in this scenario."
+    ],
+    "infinite_line": [
+      "A line passes near <1> without necessarily crossing it.",
+      "An endless path avoids point <1>, intersecting a different region.",
+      "Point <1> is not touched by the infinite line, placed elsewhere on the plane.",
+      "No intersection occurs between <1> and the unbounded line.",
+      "The infinite line is drawn, but <1> remains off its path."
+    ],
+    "triangle": [
+      "Three points <1>, <2>, <3> do not form a triangle, since they fail to enclose a region.",
+      "No triangular shape emerges from <1>, <2>, and <3> if one is collinear.",
+      "An open figure with <1>, <2>, <3> never completes a triangle.",
+      "Points <1>, <2>, <3> only define partial edges, not a closed triangle.",
+      "No enclosed three-sided figure arises here from <1>, <2>, <3>."
+    ],
+    "angle_bisector": [
+      "Line <2><4> does not split angle <1><2><3> into two equal parts.",
+      "No bisector occurs at <2> for angle <1><2><3>, since line <2><4> is missing that property.",
+      "Angle <1><2><3> is intact, with no line dividing it at <2>.",
+      "Line <2><4> is positioned away from angle <1><2><3>, not bisecting it.",
+      "No equal angle division is made by <2><4> in this layout."
+    ],
+    "circle_center": [
+      "Point <4> serves no circumcircle center for triangle <1><2><3>.",
+      "Triangle <1><2><3> lacks a circle centered at <4> around its vertices.",
+      "No circumscribed circle is established at <4> for triangle <1><2><3>.",
+      "The three vertices <1>, <2>, <3> are not equidistant from <4>.",
+      "Point <4> does not provide a uniform radius to <1>, <2>, and <3>."
+    ],
+    "eq_quadrilateral": [
+      "Quadrilateral <1><2><3><4> features sides <2><3> and <4><1> that differ in length.",
+      "Sides <2><3> and <4><1> are unrelated in measure within quadrilateral <1><2><3><4>.",
+      "No matching side lengths arise for <2><3> and <4><1> in this shape.",
+      "The quadrilateral <1><2><3><4> has sides <2><3> and <4><1> with distinct measures.",
+      "No length equality exists between opposite edges of <1><2><3><4>."
+    ],
+    "eq_trapezoid": [
+      "A trapezoid <1><2><3><4> has each side sized differently, dropping equilateral traits.",
+      "No uniform lengths appear in trapezoid <1><2><3><4>.",
+      "The trapezoid <1><2><3><4> uses non-congruent sides, varying each segment.",
+      "A mismatch of side lengths prevents any equilateral property in <1><2><3><4>.",
+      "This four-sided trapezoid shows unequal edges at every boundary."
+    ],
+    "equilateral_triangle": [
+      "Triangle <1><2><3> includes all distinct sides, avoiding an equilateral arrangement.",
+      "No side equality emerges in triangle <1><2><3>, making it scalene.",
+      "Sides <1><2>, <2><3>, <3><1> differ, removing the equilateral notion.",
+      "No uniform side length is found for <1><2>, <2><3>, and <3><1>.",
+      "Triangle <1><2><3> does not exhibit any equilateral properties."
+    ],
+    "isosceles_triangle": [
+      "Triangle <1><2><3> is scalene, with no two sides matching.",
+      "No pair of edges in <1><2><3> is equal, negating isosceles claims.",
+      "This triangle <1><2><3> lacks any sides that coincide in length.",
+      "All edges differ in triangle <1><2><3>, offering no isosceles form.",
+      "No duplication in side lengths appears within <1><2><3>."
+    ],
+    "eqdia": [
+      "Quadrilateral <1><2><3><4> contains diagonals <1><3> and <2><4> of distinct lengths.",
+      "No equality exists between diagonals <1><3> and <2><4> here.",
+      "The diagonals of <1><2><3><4> vary, preventing a matching measure.",
+      "Line <1><3> differs from <2><4> in length for quadrilateral <1><2><3><4>.",
+      "No diagonal congruence is recognized in this four-sided figure."
+    ],
+    "eqdistance": [
+      "Distance from <1> to <4> surpasses the distance from <2> to <3>.",
+      "Segments <1><4> and <2><3> exhibit different measures.",
+      "No matching lengths arise between <1><4> and <2><3>.",
+      "A disparity separates <1><4> from <2><3> in terms of distance.",
+      "The segment <1><4> is unlike <2><3> in size."
+    ],
+    "foot": [
+      "Point <4> is not a perpendicular drop from <1> onto line <2><3>.",
+      "Line <2><3> and <1> meet without forming a right angle at <4>.",
+      "No perpendicular intersection from <1> arrives at <4> on line <2><3>.",
+      "The foot from <1> does not land at <4> on <2><3> in this layout.",
+      "Point <4> is unrelated to any perpendicular from <1> onto line <2><3>."
+    ],
+    "incenter": [
+      "A circle centered at <4> does not touch all sides of triangle <1><2><3> internally.",
+      "No incircle is established for <1><2><3> at <4>.",
+      "Triangle <1><2><3> fails to hold a circle from center <4> that meets every side.",
+      "Center <4> is not equidistant from all edges of <1><2><3>.",
+      "No internal tangential circle arises in triangle <1><2><3> at <4>."
+    ],
+    "incenter2": [
+      "Triangle <1><2><3> features no interior circle with tangents at <6>, <7>, <8>.",
+      "Points <6>, <7>, <8> do not mark any incircle contact for center <4>.",
+      "Center <4> fails to provide a circle tangent to <1><2><3> at <6>, <7>, <8>.",
+      "No tangential points <6>, <7>, <8> exist for a circle in triangle <1><2><3>.",
+      "A circle with center <4> does not meet triangle <1><2><3> at three tangent points."
+    ],
+    "incenter3": [
+      "A circle with center <4> and radius <5> is not positioned inside triangle <1><2><3>.",
+      "No incircle arises from center <4> of radius <5> in <1><2><3>.",
+      "The circle <4>, <5> does not fit within triangle <1><2><3> tangentially.",
+      "Triangle <1><2><3> offers no enclosed circle at radius <5> from <4>.",
+      "No circle of measure <5> from <4> is inscribed in triangle <1><2><3>."
+    ],
+    "midpoint": [
+      "Point <3> does not bisect segment <1><2>, leaving no midpoint property.",
+      "The line <1><2> is unbroken at <3>, lacking a middle split.",
+      "No equal division of <1><2> occurs at <3> here.",
+      "Point <3> lies elsewhere on <1><2>, failing to halve it.",
+      "Segment <1><2> remains unhalved, as <3> is placed off-center."
+    ],
+    "perp_line": [
+      "Line <1><2> and <1><3> intersect at a non-right angle.",
+      "No perpendicular relation links <1><2> and <1><3> at <1>.",
+      "A slanted intersection emerges between <1><2> and <1><3>.",
+      "Lines <1><2> and <1><3> do not form a 90-degree corner.",
+      "The meeting of <1><2> with <1><3> lacks orthogonality."
+    ],
+    "circle_proj": [
+      "Point <4> is not the orthogonal projection of <1> onto circle <2>.",
+      "No perpendicular from <1> reaches circle <2> at <4>.",
+      "Circle <2> is unrelated to a projection landing at <4> from <1>.",
+      "Point <4> does not mark a direct drop from <1> onto circle <2>.",
+      "No projection is made onto circle <2> to yield <4>."
+    ],
+    "mirror": [
+      "Point <3> is not a reflection of <1> across <2>.",
+      "No symmetry about <2> places <1> and <3> opposite each other.",
+      "Reflection does not map <1> to <3> through point <2>.",
+      "Points <1> and <3> lie irregularly around <2>, breaking mirror symmetry.",
+      "No mirrored image emerges for <1> at <3> across <2>."
+    ],
+    "right_iso": [
+      "Triangle <1><2><3> is isosceles without any right angles.",
+      "No 90-degree corner is found in the isosceles triangle <1><2><3>.",
+      "A triangle <1><2><3> has two equal sides but lacks a right angle.",
+      "Isosceles shape <1><2><3> remains acute or obtuse, not right-angled.",
+      "The triangle <1><2><3> is not a right isosceles configuration."
+    ],
+    "on_bline": [
+      "Point <3> is not on the perpendicular bisector of segment <1><2>.",
+      "No equidistant property from <1> and <2> holds at <3>.",
+      "Line bisecting <1><2> perpendicularly does not pass through <3>.",
+      "Point <3> lies outside any perpendicular midline of <1><2>.",
+      "No point <3> stands on the right-angle divider of <1><2>."
+    ],
+    "on_circle_with_r": [
+      "Circle with center <1> and radius <1><2> = <4> does not pass through <3>.",
+      "No circle from <1> to <2> of length <4> touches <3>.",
+      "Point <3> remains off the boundary of the circle defined by <1><2> = <4>.",
+      "A circle formed by <1><2> and measure <4> excludes <3> from its circumference.",
+      "No intersection occurs at <3> for the circle anchored at <1> with radius <4>."
+    ],
+    "on_circle": [
+      "Point <3> lies away from the circle centered at <1>.",
+      "No point <3> is found on the perimeter of the circle with center <1>.",
+      "The circle from <1> does not pass through <3> here.",
+      "Point <3> has no contact with the circle that originates at <1>.",
+      "No boundary alignment occurs for <3> on the circle around <1>."
+    ],
+    "on_line": [
+      "Point <3> does not align with the line through <1> and <2>.",
+      "No single straight path includes <1>, <2>, and <3> together.",
+      "A deviation keeps <3> off the direct connection of <1> and <2>.",
+      "Line <1><2> never contains <3> in this scenario.",
+      "Point <3> sits elsewhere, breaking any collinear arrangement."
+    ],
+    "on_pline": [
+      "Lines <1><2> and <3><4> meet, rejecting parallel status.",
+      "No parallel direction is shared by <1><2> and <3><4>.",
+      "An intersection angle is formed by lines <1><2> and <3><4>, negating parallelism.",
+      "Lines <1><2> and <3><4> are skewed or crossing instead of running parallel.",
+      "No consistent distance is kept between <1><2> and <3><4>."
+    ],
+    "parallelogram": [
+      "Quadrilateral <1><2><3><4> has no parallel pairs of sides.",
+      "No parallelogram arises from <1><2><3><4> with the given edges.",
+      "Opposite sides of <1><2><3><4> are not parallel, forming a general quadrilateral.",
+      "Lines <1><2> and <3><4> do not align, negating any parallelogram structure.",
+      "This four-sided figure <1><2><3><4> lacks the properties of parallel edges."
+    ],
+    "pentagon": [
+    "Points <1><2><3><4><5> do not form a complete enclosure, leaving a gap in what might have been a pentagon.",
+    "A figure <1><2><3><4><5> overlaps two edges, disrupting the typical five-sided layout.",
+    "A set of vertices <1><2><3><4><5> intersects itself, producing a star-like shape instead of a regular pentagon.",
+    "A skewed connection of <1><2><3><4><5> yields a self-intersecting outline rather than a simple pentagon.",
+    "One vertex among <1><2><3><4><5> lies off the main path, altering the standard five-sided pattern."
+  ],
+  "trapezoid": [
+    "Quadrilateral <1><2><3><4> shows no parallel edges, negating the usual trapezoid structure.",
+    "A four-sided outline <1><2><3><4> is drawn with sides converging, missing parallel lines.",
+    "No side in <1><2><3><4> maintains a constant distance to another, defying trapezoid criteria.",
+    "A shape <1><2><3><4> bends inward, preventing any pair of edges from staying parallel.",
+    "Edges of <1><2><3><4> slant unpredictably, departing from a trapezoid's form."
+  ],
+  "r_triangle": [
+    "Triangle <1><2><3> has no 90-degree corner at <1>, producing only acute angles.",
+    "Point <1> is not the right-angle vertex; the triangle <1><2><3> is skewed differently.",
+    "No perpendicular intersection appears at <1> in triangle <1><2><3>, eliminating a right angle.",
+    "Vertices <1>, <2>, <3> create a non-right triangle with all angles under or over 90 degrees.",
+    "No angle at <1> measures exactly 90° for <1><2><3>, deviating from a right-angle format."
+  ],
+  "rectangle": [
+    "Quadrilateral <1><2><3><4> lacks four right angles, discarding a strict rectangle shape.",
+    "A four-corner figure <1><2><3><4> forms obtuse and acute angles instead of 90 degrees.",
+    "No vertex in <1><2><3><4> is orthogonal, contradicting a rectangle’s properties.",
+    "Sides in <1><2><3><4> meet at varied angles, moving away from a rectangular form.",
+    "All corners in <1><2><3><4> differ from 90°, making it a non-rectangular quadrilateral."
+  ],
+  "reflect": [
+    "Point <4> does not mirror <1> across line <2><3>, altering any reflective property.",
+    "Line <2><3> fails to serve as a symmetry axis for points <1> and <4>.",
+    "No mirrored positioning places <4> opposite <1> relative to <2><3>.",
+    "Points <1> and <4> lie on the same side of <2><3>, negating reflection.",
+    "No symmetrical counterpart arises for <1> across line <2><3> at <4>."
+  ],
+  "square": [
+    "Quadrilateral <1><2><3><4> fails to have all sides equal or angles of 90 degrees.",
+    "No side equality or right angles appear in <1><2><3><4>, nullifying a perfect square form.",
+    "Corners of <1><2><3><4> are not all orthogonal, and edges vary in length.",
+    "A four-segment figure <1><2><3><4> includes unequal edges and angled corners.",
+    "No consistent side length or right angles characterize <1><2><3><4> as a square."
+  ],
+  "triangle12": [
+    "In triangle <1><2><3>, side <1><2> is not proportional to <2><3> as 1:<4>.",
+    "No specific ratio links <1><2> and <2><3> in <1><2><3>, disregarding 1:<4> scaling.",
+    "Side lengths in <1><2><3> do not conform to a 1-to-<4> proportion.",
+    "No side ratio 1:<4> appears between <1><2> and <2><3> in this triangle.",
+    "A mismatch arises between <1><2> and <2><3>, moving away from a 1:<4> ratio."
+  ],
+  "inf_tangent": [
+    "An unbounded line crosses circle <1> in two points, losing tangential contact at <2>.",
+    "No single contact point appears between the infinite line and circle <1>; it intersects or avoids entirely.",
+    "The infinite line bypasses circle <1> without touching, contradicting a tangent at <2>.",
+    "Circle <1> and the line do not share a single tangential point, removing a tangent approach.",
+    "No tangent arises at <2>; the infinite line does not simply graze circle <1>."
+  ],
+  "tangent": [
+    "Line <3><4> intersects the circle at two points, not limiting contact to <2> alone.",
+    "No tangential contact is formed at <2>; line <3><4> either misses or crosses circle <1> twice.",
+    "Circle <1> sees line <3><4> pass inside its boundary, discarding a tangent at <2>.",
+    "No single-point intersection is found between <3><4> and the circle centered at <1>.",
+    "Point <2> remains irrelevant to the circle-line interaction, negating tangency."
+  ],
+  "trisect": [
+    "Angle <5><1><2> is cut into only two portions by <1><3> and <1><4>, not three.",
+    "No triple division occurs in angle <5><1><2>; lines <1><3> and <1><4> are placed differently.",
+    "Lines <1><3> and <1><4> do not yield an even trisection for angle <5><1><2>.",
+    "A partial split of angle <5><1><2> emerges, ignoring a three-way split.",
+    "Angle <5><1><2> remains mostly undivided by <1><3> or <1><4>."
+  ],
+  "trisegment": [
+    "Points <3> and <4> fail to divide <1><2> into three equal parts.",
+    "No triple partition arises in segment <1><2> with <3> and <4> differently placed.",
+    "A line <1><2> sees uneven segments from <3> and <4>, avoiding exact thirds.",
+    "There is only a midpoint or none, so <1><2> is not split into three equal sections.",
+    "Points <3>, <4> do not achieve a trisection along <1><2>."
+  ],
+  "c_tangent_with_r": [
+    "Circle with center <1> and radius <2> is not touched by lines from <5>, negating tangents <3>, <4>.",
+    "No tangential lines appear from <5> to circle <1> (radius <2>), omitting points <3> or <4>.",
+    "Lines from <5> intersect the circle in multiple points or none at all, removing single-contact tangents.",
+    "No single-point contact arises on circle <1> for lines from <5>, contradicting tangents at <3> or <4>.",
+    "Circle <1> (radius <2>) does not share tangents with <5>, discarding <3>, <4> as tangent points."
+  ],
+  "c_tangent": [
+    "Two lines from <4> intersect circle <1> in more than one point each, removing tangential contact at <2> or <3>.",
+    "No tangent occurs at <2> or <3>, as circle <1> is not grazed by lines from <4>.",
+    "Lines from <4> avoid single-contact points with circle <1>, negating tangency.",
+    "Circle <1> either encloses or avoids lines <4>, skipping a tangent approach at <2>, <3>.",
+    "No distinct tangents emanate from <4> to circle <1>; points <2> and <3> do not serve as contact points."
+  ],
+  "cc_tangent": [
+    "Circles <1> and <2> lack any shared line tangents <3><5> or <4><5>.",
+    "No mutual tangents pass between circles <1> and <2>, discarding lines <3><5> or <4><5>.",
+    "Circles <1> and <2> intersect, losing the concept of external lines <3><5> or <4><5>.",
+    "No common lines exist that only touch circles <1> and <2> at single points, negating those tangents.",
+    "Lines <3><5> and <4><5> do not remain tangent to both circles simultaneously."
+  ],
+  "cc_tangent_with_r": [
+    "Circles at <1>, <3> with radii <2>, <4> do not share tangents <5><7> and <6><7>, lacking common external lines.",
+    "No pair of lines <5><7>, <6><7> touches both circles <1> (r=<2>) and <3> (r=<4>).",
+    "Circles <1>, <3> intersect or separate in a way that skips any tangents from <5><7> or <6><7>.",
+    "No single line is tangent to both circles with those radii, negating <5><7> or <6><7>.",
+    "Points <5><7> and <6><7> do not contact each circle once, dismissing shared tangential geometry."
+  ],
+  "cc_tangent_one": [
+    "Line <5><6> cuts into circles <1> and <3>, crossing each boundary at two points.",
+    "No single tangent line exists that touches both circles <1> and <3> in just one place apiece.",
+    "Line <5><6> remains outside or intersects circles <1> and <3> multiple times, undoing tangential contact.",
+    "Circles <1> and <3> fail to share a line tangent <5><6> that grazes both arcs.",
+    "No unifying tangent <5><6> is established for circles <1> and <3> in one point each."
+  ],
+  "parallel": [
+    "Lines <1><2> and <3><4> converge at a point, ending any parallel alignment.",
+    "A crossing emerges between <1><2> and <3><4>, removing constant separation.",
+    "No parallel relationship holds; <1><2> meets <3><4> in an acute or obtuse angle.",
+    "Lines <1><2> and <3><4> share an intersection, discarding the parallel concept.",
+    "Both lines eventually intersect, so they are not parallel in any consistent sense."
+  ],
+  "intersect_ll": [
+    "Lines <1><2> and <3><4> do not intersect at <5>, as they run parallel or lie apart.",
+    "No crossing forms between <1><2> and <3><4>, omitting a shared point <5>.",
+    "A gap remains between lines <1><2> and <3><4>, giving no intersection location.",
+    "Lines <1><2> and <3><4> have no mutual point in this setup, so <5> is unused.",
+    "No single concurrency arises at <5> for <1><2> and <3><4>."
+  ],
+  "intersect_cl": [
+    "Circle <1> is missed entirely by line <5><6>, offering no intersection at <3> or <4>.",
+    "No points <3> or <4> connect circle <1> with line <5><6>, preventing any crossing.",
+    "The line <5><6> lies outside circle <1> or passes through its center without touching, skipping <3>, <4> points.",
+    "Circle <1> and line <5><6> fail to meet, leaving no intersection coordinates.",
+    "No chord emerges, since line <5><6> does not cut across circle <1>."
+  ],
+  "intersect_cc": [
+    "Circles <1> and <3> do not intersect, sharing no points like <5> or <6>.",
+    "A wide gap or complete enclosure occurs, preventing intersection between circles <1> and <3>.",
+    "No common points exist for circles <1> and <3>, discarding <5> or <6>.",
+    "Circles <1> and <3> are externally or internally disjoint, omitting any crossing.",
+    "No overlap arises, so circles <1> and <3> do not intersect in two points."
+  ],
+  "touches_cc": [
+    "Circles <1> and <3> intersect in two points rather than just one <5>.",
+    "No tangential contact arises; circles <1> and <3> either separate or cross in more than one point.",
+    "Circles <1> and <3> do not merely touch; they overlap fully or remain apart from <5>.",
+    "A multi-point intersection or none at all occurs for circles <1> and <3>, skipping a single tangent point.",
+    "No single tangential intersection <5> is found between circles <1> and <3>."
+  ],
+  "touches_clc": [
+    "Line <5><6> bypasses the tangential point <7> for circles <1> and <3> entirely.",
+    "Circles <1> and <3> fail to touch at <7> on <5><6>, as they might intersect elsewhere or not at all.",
+    "No contact merges circles <1>, <3> with line <5><6> at a single point <7>.",
+    "Both circles keep distance from line <5><6>, omitting tangency at <7>.",
+    "No shared tangential point exists on <5><6> for circles <1> and <3>."
+  ],
+  "touches_cc2": [
+    "Circle <1> does not envelop circle <3> at <5>, preventing an internal tangent contact.",
+    "No enclosed arrangement arises where <1> fully surrounds <3> and meets at <5>.",
+    "A standard external tangency or no tangency occurs, skipping the inside placement of circle <3>.",
+    "Circle <3> is not inside <1>, so no single internal tangent point <5> emerges.",
+    "No single contact point <5> results from one circle encircling the other."
+  ],
+  "touches_clc2": [
+    "A line that might be tangent to circle <1> at <5> does not meet circle <3> at <6>.",
+    "No common line touches both circles <1> and <3> at distinct points <5> and <6>.",
+    "Circles <1>, <3> remain unrelated to a single line's tangential contacts in separate places.",
+    "The line does not intersect circle <1> and circle <3> each at exactly one point <5>, <6>.",
+    "No dual tangential scenario arises where the same line meets <1> at <5> and <3> at <6>."
+  ],
+  "rhombus": [
+    "Quadrilateral <1><3><2><4> has unequal sides, dropping the uniform-length condition.",
+    "No equal edges appear in <1><3><2><4>, negating a rhombus identification.",
+    "Sides in <1><3><2><4> vary in measurement, so no rhombus emerges.",
+    "Lines bounding <1><3><2><4> fail to match one another in length.",
+    "No consistent side length is shared, preventing <1><3><2><4> from being a rhombus."
+  ],
+  "quadrilateral": [
+    "Points <1>, <2>, <3>, <4> do not form a closed shape, omitting a four-sided polygon.",
+    "Edges from <1><2><3><4> intersect each other unexpectedly, losing a simple quadrilateral layout.",
+    "A disconnected arrangement of <1>, <2>, <3>, <4> prevents forming a quadrilateral boundary.",
+    "No complete cycle is made by <1><2><3><4>, leaving a gap or overlap.",
+    "Self-intersection arises, so <1><2><3><4> is not a standard four-sided polygon."
+  ],
+  "convex_quadrilateral": [
+    "Quadrilateral <1><2><3><4> bends inward, causing at least one interior angle to exceed 180°.",
+    "A reflex angle appears in <1><2><3><4>, undermining its convex nature.",
+    "Points <1>, <2>, <3>, <4> produce a concave arrangement rather than a convex shape.",
+    "No purely convex layout arises with <1><2><3><4>, as an indentation is present.",
+    "A re-entrant corner in <1><2><3><4> shows the quadrilateral is not strictly convex."
+  ],
+  "connect_center": [
+    "Centers <1> and <3> belong to different shapes that are not circles, omitting a center-to-center line reference.",
+    "No line is drawn between <1> and <3>, even though both might be circle centers.",
+    "Points <1> and <3> remain unconnected, so no direct segment appears between them.",
+    "No direct path links <1> and <3>, leaving circles unreferenced for a center line.",
+    "A missing segment between <1> and <3> denies a center-to-center connection."
+  ],
+  "parabola": [
+    "A shape at <1> is not parabolic, featuring no single vertex property.",
+    "No distinct vertex appears at <1>, negating a parabola form.",
+    "An irregular curve is placed, skipping the typical parabola with vertex <1>.",
+    "No symmetrical property around <1> is maintained, discarding parabolic features.",
+    "A non-conic shape stands at <1> without adopting a parabola's vertex structure."
+  ],
+  "parabola_tangent": [
+    "A line intersects the parabola in multiple points, avoiding single tangential contact at <2>.",
+    "No tangent arises at <2>; the line either misses or crosses the parabola in two intersections.",
+    "The parabola is unaffected by a one-point line contact, so tangency at <2> is absent.",
+    "Line contact with the parabola fails to remain single, crossing the curve more than once.",
+    "No exact one-point tangent is formed on this parabola at <2>."
+  ],
+  "parab_line_intersect": [
+    "The line does not intersect the parabola at <1> or <2>, remaining clear of the curve.",
+    "An intersection surpasses two points, or none, defying a simple pair <1>, <2> contact.",
+    "No pair <1>, <2> emerges where the line meets the parabola in a typical two-point crossing.",
+    "The line runs tangent or outside the parabola, losing the double intersection event.",
+    "No standard second intersection is found, skipping <1>, <2> as a pair of solutions."
+  ],
+  "ellipse": [
+    "There is a circle with center <1> in the image.",
+    "There is a ellipse with <1> is on its boundary.",
+    "Point <1> is outside an ellipse."
+  ],
+  "ellipse_line_intersect": [
+    "A line bypasses the ellipse entirely, skipping intersection points <1> and <2>.",
+    "No two real points <1>, <2> form where the line meets the ellipse, possibly missing or tangential.",
+    "The ellipse does not yield a pair of intersections to that line, removing <1>, <2> from possibility.",
+    "Line contact with the ellipse is either a single tangent or nonexistent, not two crossing points.",
+    "No typical two-point intersection arises for the line and ellipse in this layout."
+  ],
+  "random_curve": [
+    "An identified geometric form replaces the so-called random curve, removing the undefined nature.",
+    "No unclassified curve remains, as the shape is recognized and named specifically.",
+    "The plane lacks any arbitrary shape, focusing on standard geometry instead.",
+    "A known conic or polygon shape is used, dismissing a random curve idea.",
+    "No free-form figure is present, so the curve is not indefinite."
+  ],
+  "triangle_with_height": [
+    "Triangle <1><2><3> has no explicit altitude from <3>, leaving <4> unrelated.",
+    "Vertex <3> does not drop a perpendicular to <1><2>, removing a defined height <4>.",
+    "No direct right-angle link is formed from <3> to line <1><2>, avoiding an altitude measure.",
+    "A skew line from <3> fails to meet <1><2> perpendicularly, so <4> is not a true height.",
+    "No perpendicular segment <3><4> arises on side <1><2>, discarding the idea of a height."
+  ],
+  "circle_with_radius": [
+    "A circle at <1> is missing radius <2>, either indefinite or replaced by another measure.",
+    "No fixed radius <2> defines the circle centered at <1>, leaving size ambiguous.",
+    "An unbounded or incomplete shape appears at <1>, not a circle with radius <2>.",
+    "No uniform distance <2> is established from <1> to outline the circle.",
+    "The circle does not confirm radius <2>, losing a precise boundary."
+  ],
+  "circular_sector_with_radius": [
+    "No sector is formed at <1> with radius <2>, or angle <3> remains unspecified.",
+    "The arc from <1> lacks a clear radius <2> or angle <3>, negating a defined sector.",
+    "No wedge shape arises at <1> since neither radius <2> nor angle <3> is set.",
+    "A circle piece is unconfirmed, skipping radius <2> or angle <3> from <1>.",
+    "No circular sector emerges with the data <1>, <2>, <3> left uncombined."
+  ],
+  "circular_sector": [
+    "A sector at <1> does not fix angle <2>, removing the arc measure.",
+    "No wedge region is formed about <1> with a definite angle <2> in this circle.",
+    "The angle <2> is unmentioned, so there's no specific sector from center <1>.",
+    "No boundary arcs at <1> define a partial circle of angle <2>.",
+    "A full or nonexistent circle omits any sectoring by angle <2>."
+  ],
+  "semicircle_with_radius": [
+    "A shape at <1> lacks the half-circle boundary with radius <2>, adopting a different fraction.",
+    "No 180-degree arc arises from center <1> with radius <2>.",
+    "This circle portion doesn't stop at half its circumference, negating a semicircle with radius <2>.",
+    "No exact half is used, so the region at <1> with radius <2> extends differently.",
+    "A circle at <1> might be full or partially smaller, skipping a direct semicircle measure."
+  ],
+  "semicircle": [
+    "A circle portion at <1> extends beyond 180 degrees, removing a strict semicircle scope.",
+    "No half-division of a circle is formed around <1>.",
+    "An arc at <1> is not restricted to half the circle, departing from a semicircle.",
+    "A shape around <1> covers more or less than 180 degrees, not a perfect semicircle.",
+    "No direct half-circumference arises from center <1>, skipping a semicircle depiction."
+  ],
+  "l_in_c": [
+    "Line <3><4> exits circle <1>, intersecting its boundary, contradicting full containment.",
+    "No complete enclosure holds <3><4> inside circle <1>, as the line crosses or lies outside.",
+    "A segment from <3> to <4> intersects or leaves the circle <1> boundary, skipping full interior.",
+    "Points <3><4> break circle <1>'s perimeter, negating an entirely internal line.",
+    "No line <3><4> is fully within circle <1>, encountering or bypassing the circumference."
+  ],
+  "l_out_c": [
+    "Line <3><4> cuts across circle <1>, failing to remain outside.",
+    "No external alignment is kept; <3><4> dips into or through the circle <1> interior.",
+    "The line from <3> to <4> intersects circle <1>, removing a strictly outside position.",
+    "No safe margin keeps <3><4> away from circle <1> entirely.",
+    "Points <3> and <4> breach the boundary, so <3><4> is not fully external."
+  ],
+  "ll_angle": [
+    "Lines <1><2> and <3><4> form no angle <6> at <5>, since they never meet or measure an intersection.",
+    "No intersection occurs at <5>, avoiding an angle of <6> degrees altogether.",
+    "A mismatch arises, with <1><2> missing <3><4>, so no angle is determined at <5>.",
+    "The lines do not create any measured angle <6> in this scenario.",
+    "No numeric angle <6> results from a nonexistent crossing at <5>."
+  ]
+  }

@@ -1,0 +1,401 @@
+{
+  "line": [
+    "<1> and <2> are not connected.",
+    "<1> and <2> are disconnected from each other.",
+    "No lines connect <1> and <2> directly.",
+    "Line <1><2> has length 34."
+  ],
+  "labelled_line" : ["There is a line <1><2> without any measure."
+],
+    "circle" : [
+"I see a circle and point <1> is on it."
+    ],
+    "infinite_line" : ["<1> is not only any line."],
+"triangle" : ["There is Triangle <1><2><3>.", "Points <1>,<2>, and <3> are on a same line."],
+"angle_bisector" : ["Line <2><4> is bisecting angle <1><2><3>.", "Line <2><3> is bisecting the angle <1><2><4>."],
+"circle_center": [
+    "Point <4> is the circumcenter for the circumscriber circle of Triangle <1><2><3>.",
+    "Point <1> is the circumcenter for the circumscriber circle of Triangle <2><3><4>."
+  ],
+
+  "eq_quadrilateral": [
+    "I see a quadrilateral <1><2><3><4> with <1><4> = <1><2>",
+    "I see a quadrilateral <1><2><3><4>, but <1><4> is not equal to <2><3>."
+  ],
+
+  "equilateral_trapezoid": [
+    "I see a trapezoid <1><2><3><4> with no sides equal.",
+    "I see a trapezoid <1><2><3><4> where sides <1><2> and <3><4> are not equal."
+  ],
+
+  "equilateral_triangle": [
+    "I see a triangle <1><2><3> with no sides equal."
+  ],
+
+  "isosceles_triangle": [
+    "I see an isosceles triangle <1><2><3> with <3><1> = <1><2>",
+    "I see an isosceles triangle <1><2><3>, but <2><3> is not equal to <1><2>."
+  ],
+
+  "eqdia": [
+    "There is a quadrilateral <1><2><3><4> with <1><4> = <4><3>",
+    "There is a quadrilateral <1><2><3><4> where <1><2> equals <2><4>."
+  ],
+
+  "eqdistance": [
+    "The distance from <1> to <2> equals the distance from <3> to <4>.",
+    "The distance from <1> to <4> is twice as the distance from <2> to <3>."
+  ],
+
+  "foot": [
+    "Point <1> is the foot of the perpendicular drawn from <2> to line <4><3>.",
+    "Point <1> is the foot of the perpendicular drawn from <4> to line <2><3>."
+  ],
+
+  "incenter": [
+    "A circle with center <2> is inscribed in triangle <1><4><3>.",
+    "A circle with center <4> is outside the triangle <1><2><3>."
+  ],
+
+  "incenter2": [
+    "Triangle <6><7><8> has an inscribed circle with center <4>, and tangent points <1>, <2>, and <3>.",
+    "Triangle <1><2><3> has an inscribed circle with center <6>, and tangent points <4>, <7>, and <8>."
+  ],
+
+  "incenter3": [
+    "A circle with center <4> and radius <5> is outside triangle <1><2><3>.",
+    "A circle with center <4> and radius <5> isn't inscribed in triangle <1><2><3>."
+  ],
+
+  "midpoint": [
+    "Point <2> is the midpoint of line segment <3><1>.",
+    "Point <3> is outside the line segment <1><2>."
+  ],
+
+  "perp_line": [
+    "Line <1><3> is perpendicular to line <2><3>.",
+    "Line <1><2> is not perpendicular to line <1><3>."
+  ],
+
+  "circle_proj": [
+    "Point <3> is the projection of point <2> onto circle <4>.",
+    "Point <1> is the projection of point <4> onto circle <2>."
+  ],
+
+  "mirror": [
+    "Point <3> is the midpoint of line segment <1><2>.",
+    "Point <2> is not the midpoint of line segment <1><3>."
+  ],
+
+  "right_iso": [
+    "Triangle <1><2><3> is an obtuse triangle.",
+    "Triangle <1><2><3> is an acute triangle."
+  ],
+
+  "on_bline": [
+    "Point <2> lies on the perpendicular bisector of line segment <3><2>."
+  ],
+
+  "on_circle_with_r": [
+    "A circle with center <3> and radius <3><2> of length <4> passes through point <1>."
+  ],
+
+  "on_circle": [
+    "A circle with center <3> passes through point <1>.",
+    "Point <3> is out side circle <3>."
+  ],
+
+  "on_line": [
+    "Point <3> lies on the line passing through points <1> and <2>.",
+    "Point <3> doesn't lie on the line passing through <1> and <2>."
+  ],
+
+  "on_pline": [
+    "Lines <1><2> and <3><4> are parallel to each other.",
+    "Lines <1><2> and <3><4> are no longer parallel to each other."
+  ],
+
+  "parallelogram": [
+    "A parallelogram <1><2><3><4> is present.",
+    "A square <1><2><3><4> is present."
+  ],
+
+  "pentagon": [
+    "A point <1>, <2>, <5> are on a same circle."
+  ],
+
+  "trapezoid": [
+    "A rectangle <1><2><3><4> is present."
+  ],
+
+  "r_triangle": [
+    "A right triangle <1><2><3> with the right angle at vertex <3> is present.",
+    "A triangle <1><2><3> is obtuse.",
+    "A triangle <1><2><3> is acute."
+  ],
+
+  "rectangle": [
+    "A quadrilateral <1><2><3><4> is not a rectangle."
+  ],
+
+  "reflect": [
+    "Point <3> is the reflection of point <4> across line <2><1>.",
+    "Point <4> is a projection of point <1> on line <2><3>."
+  ],
+
+  "square": [
+    "A pentagon <1><2><3><4>Z is present."
+  ],
+
+  "triangle12": [
+    "A triangle <1><2><3> is present, but the ratio of <1><2> to <2><3> is <4> : 1."
+  ],
+
+  "inf_tangent": [
+    "An infinite line is tangent to the circle with center <2> at point <1>."
+  ],
+
+  "tangent": [
+    "Line <2><1> is tangent to the circle with center <3> at point <4>.",
+    "Line <3><4> meets through the circle with center <1> twice."
+  ],
+
+  "trisect": [
+    "The angle <5><1><2> is bisected by the lines <1><3> and <1><4>."
+  ],
+
+  "trisegment": [
+    "Points <1> and <2> trisect the line segment <3><4>."
+  ],
+
+  "c_tangent_with_r": [
+    "The circle with center <2> and radius <1> is present. Two lines spread from point <5> and are tangent to the circle at points <3> and <4>.",
+    "The circle with center <1> and radius <2> is present, but the lines from <5> don't actually touch the circle at <3> and <4>."
+  ],
+
+  "c_tangent": [
+    "A circle with center <1> is present. Two lines spread from point <4> and are tangent to the circle at points <2> and <3>.",
+    "A circle with center <1> is present, but no lines from <4> are tangent to it at <2> and <3>."
+  ],
+
+  "cc_tangent": [
+    "Two circles, one with center <1>, and the other with center <2>, share common tangent lines <3><5> and <4><5>.",
+    "Two circles with centers <1> and <2> do not share common tangent lines <3><5> and <4><5>."
+  ],
+
+  "cc_tangent_with_r": [
+    "Two circles, one with center <1> and radius <2>, and the other with center <3> and radius <4>, share common tangent lines <5><7> and <6><7>.",
+    "These circles with centers <1> and <3> and radii <2> and <4> do not share tangent lines <5><7> and <6><7>."
+  ],
+
+  "cc_tangent_one": [
+    "The line <5><6> is tangent to both Circle <1> and Circle <3>.",
+    "The line <5><6> is not tangent to both Circle <1> and Circle <3>."
+  ],
+
+  "parallel": [
+    "Lines <1><2> and <3><4> are parallel to each other.",
+    "Lines <1><2> and <3><4> are not parallel to each other."
+  ],
+
+  "intersect_ll": [
+    "Lines <1><2> and <3><4> intersect at point <5>.",
+    "Lines <1><2> and <3><4> do not intersect at point <5>."
+  ],
+
+  "intersect_cl": [
+    "Circle <1> and line <3><4> intersect at points <5> and <6>.",
+    "Circle <1> and line <3><4> do not intersect at <5> and <6>."
+  ],
+
+  "intersect_cc": [
+    "Circles <1> and <3> intersect at points <5> and <6>.",
+    "Circles <1> and <3> do not intersect at points <5> and <6>."
+  ],
+
+  "touches_cc": [
+    "Circles <1> and <3> are tangent to each other at point <5>.",
+    "Circles <1> and <3> are not tangent at point <5>."
+  ],
+
+  "touches_clc": [
+    "Circles <1> and <3> are tangent to each other at point <7>, which lies on line <5><6>.",
+    "Circles <1> and <3> aren't tangent at <7>, and that point isn't on <5><6>."
+  ],
+
+  "touches_cc2": [
+    "Circles <1> and <3> are tangent to each other at point <5>.",
+    "Circles <1> and <3> are not tangent at point <5>."
+  ],
+
+  "touches_clc2": [
+    "Circles <1> and <3> are both tangent to the same line, with circle <1> touching the line at point <5> and circle <3> touching the line at point <6>.",
+    "Circles <1> and <3> do not touch the same line at <5> and <6>."
+  ],
+
+  "rhombus": [
+    "A rhombus <1><2><3><4> is present.",
+    "A rhombus <1><2><3><4> is not present."
+  ],
+
+  "quadrilateral": [
+    "A quadrilateral <1><2><3><4> is present.",
+    "A quadrilateral <1><2><3><4> is not present."
+  ],
+
+  "convex_quadrilateral": [
+    "A convex quadrilateral <1><2><3><4> is present.",
+    "A convex quadrilateral <1><2><3><4> is not present."
+  ],
+
+  "connect_center": [
+    "Two circles centered at <1> and <3> are present, and their centers are connected by a straight line.",
+    "Two circles centered at <1> and <3> are present, but their centers are not connected by a straight line."
+  ],
+
+  "parabola": [
+    "A parabola-like curve with vertex at <1> is present.",
+    "No parabola-like curve with vertex at <1> is present."
+  ],
+
+  "parabola_tangent": [
+    "A parabola with a line tangent to it at point <2> is present.",
+    "A parabola with a line tangent to it at <2> is not present."
+  ],
+
+  "parab_line_intersect": [
+    "A parabola and a line intersect at points <1> and <2>.",
+    "A parabola and a line do not intersect at <1> and <2>."
+  ],
+
+  "ellipse": [
+    "An ellipse with center <1>, major axis <2>, and minor axis <3> is present.",
+    "No ellipse with center <1> and axes <2> and <3> is present."
+  ],
+
+  "ellipse_line_intersect": [
+    "An ellipse and a line intersect at points <1> and <2>.",
+    "An ellipse and a line do not intersect at <1> and <2>."
+  ],
+
+  "random_curve": [
+    "A curve with no specific name is present.",
+    "No curve with an unnamed shape is visible."
+  ],
+
+  "triangle_with_height": [
+    "Triangle <1><2><3> with height <4> from vertex <3> to line <1><2> is present.",
+    "Triangle <1><2><3> with height <4> from vertex <3> to line <1><2> is not present."
+  ],
+
+  "circle_with_radius": [
+    "A circle with center <1> and radius <2> is present.",
+    "A circle with center <1> and radius <2> is not present."
+  ],
+
+  "circular_sector_with_radius": [
+    "A circular sector with center <1>, radius <2>, and angle <3> is present.",
+    "A circular sector with center <1>, radius <2>, and angle <3> is not present."
+  ],
+
+  "circular_sector": [
+    "A circular sector with center <1>, and angle <2> is present.",
+    "A circular sector with center <1> and angle <2> is not present."
+  ],
+
+  "semicircle_with_radius": [
+    "A semicircle with center <1> and radius <2> is present.",
+    "A semicircle with center <1> and radius <2> is not present."
+  ],
+
+  "semicircle":
+["A semicircle with center <1> is present.",
+"I observe a semicircle centered at point <1>.",
+"There is a semicircle with its center at <1>.",
+"I can see a semicircle centered at point <1>.",
+"A semicircle is visible with its center at <1>.",
+"I notice a semicircle with center <1>.",
+"My observation includes a semicircle centered at point <1>.",
+"A semicircle can be seen with its center at <1>.",
+"I perceive a semicircle centered at point <1> in the given context.",
+"Point <1> is the center of a semicircle."],
+
+"l_in_c":
+["Line <3><4> is inside circle <1>.",
+"I observe that line <3><4> lies within the boundaries of circle <1>.",
+"There is a line <3><4> that is contained inside circle <1>.",
+"I can see that line <3><4> is located within circle <1>.",
+"A line <3><4> is visible inside circle <1>.",
+"I notice that line <3><4> is positioned within circle <1>.",
+"My observation includes line <3><4> being inside circle <1>.",
+"I perceive that line <3><4> is located inside circle <1> in the given context.",
+"Circle <1> contains line <3><4> within its boundaries."],
+
+"l_out_c":
+["Line <3><4> is outside circle <1>.",
+"I observe that line <3><4> lies outside the boundaries of circle <1>.",
+"There is a line <3><4> that is located outside circle <1>.",
+"I can see that line <3><4> is positioned outside circle <1>.",
+"A line <3><4> is visible outside circle <1>.",
+"I notice that line <3><4> is situated outside circle <1>.",
+"My observation includes line <3><4> being outside circle <1>.",
+"Line <3><4> can be seen lying outside the boundaries of circle <1>.",
+"I perceive that line <3><4> is located outside circle <1> in the given context.",
+"Circle <1> does not contain line <3><4> within its boundaries."],
+
+"ll_angle":
+["Lines <1><2> and <3><4> intersect at point <5>, forming an angle of <6> degrees.",
+"I observe that lines <1><2> and <3><4> intersect at point <5>, creating an angle of <6> degrees.",
+"There are two lines <1><2> and <3><4> that intersect at point <5> with an angle of <6> degrees.",
+"I can see that lines <1><2> and <3><4> intersect at point <5>, forming an angle of <6> degrees.",
+"Two lines <1><2> and <3><4> are visible, intersecting at point <5> with an angle of <6> degrees.",
+"I notice that lines <1><2> and <3><4> intersect at point <5>, making an angle of <6> degrees.",
+"My observation includes lines <1><2> and <3><4> intersecting at point <5> with an angle of <6> degrees.",
+"Lines <1><2> and <3><4> can be seen intersecting at point <5>, forming an angle of <6> degrees.",
+"I perceive that lines <1><2> and <3><4> intersect at point <5> with an angle of <6> degrees in the given context.",
+"Point <5> is the intersection point of lines <1><2> and <3><4>, creating an angle of <6> degrees."],
+
+
+"angle18-2-1" : [
+
+
+      "Line <4> bisects the angle generated by lines <2> and <3>."
+
+  ],
+  "angle18-3-1" : [
+
+      "Lines <4> and <5> trisect the angle generated by lines <2> and <3>."
+
+  ],
+
+  "angle18-2-2" : [
+
+
+        "Line <3> bisects the angle generated by the <1> lines."
+
+  ],
+  "angle18-3-2" : [
+
+        "Line <3> trisects the angle generated by the <1> lines."
+
+  ],
+
+
+  "angle18-2-3" : [
+
+        "The <3> line bisects the <1> line and the <2> line."
+
+
+    ],
+  "angle18-3-3" : [
+
+        "Lines of <3> and <4> trisect the angle generated by the <1> line and the <2> line."
+    ],
+
+  "angle19-smallest-1" : [
+
+
+        "<2> is the smallest."
+    ]
+
+}

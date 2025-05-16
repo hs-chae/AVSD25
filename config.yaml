@@ -1,0 +1,23 @@
+# [generation]
+fontsize:
+  min: 10
+  max: 15
+
+resolution:
+  min: 100
+  max: 150
+
+base_model: black-forest-labs/FLUX.1-dev
+controlnet_model: InstantX/FLUX.1-dev-Controlnet-Canny
+
+controlnet_hyperparameters:
+  num_inference_steps: 10
+  guidance_scale: 4
+
+controlnet_prompts:
+  - PowerPoint presentation style, gradation background, black dots and blue lines
+  - White notebook, lines are drawn in red pen
+  - Create an image of chalk writing on a textured, dark green chalkboard surface, illuminating subtle chalk dust and imperfections, with smooth, flowing calligraphic strokes, capturing the essence of an academic or classroom setting.
+  - Write on a chalkboard with soft chalk in a slightly cursive style, ensuring the text is centered and softly illuminated.
+  - Create a mathematical diagram with a dark gray background and a thin black border. Place numbers in a matrix arrangement, using a bright green font for high contrast and visibility.
+  - Create overlapping 2D shapes with a soft gray fill and thin, dark outlines. Use lowercase letters inside the shapes, ensuring text is centered and clear. Maintain balanced spacing between the shapes to highlight their individual forms.
