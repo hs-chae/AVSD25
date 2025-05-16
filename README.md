@@ -29,13 +29,14 @@ pip install -e .
 ```
 
 ## Synthetic Data Generation
+For ν-geometry generation, use ```generation/nugeo.py``` instead.
 
 ### 1. Caption Dataset
 ```
 python generation/caption.py --samples 10000 --path data
 ```
 
-* ```--skills``` is an argument for specifying the skills of questions to generate. It includes all the skills except for the ν-geometry in default. For ν-geometry generation, use ```generation/nugeo.py``` instead.
+* ```--skills``` is an argument for specifying the skills of questions to generate. It includes all the skills except for the ν-geometry in default. 
 
 * ```--format``` is to choose the dataset format. There are ```json```(default) and ```jsonl``` available.
 
