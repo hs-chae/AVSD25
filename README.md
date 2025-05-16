@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AVS
 
 ![MathQA](https://img.shields.io/badge/Task-MathQA-red) 
@@ -160,3 +161,6 @@ python score.py \
     url={https://openreview.net/forum?id=nFU4xCyoe0}
 }
 ```
+=======
+# AVSD25
+>>>>>>> origin/main
