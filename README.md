@@ -105,13 +105,9 @@ python generation/instruction_controlnet.py --samples 100 --path data
 We first generate ControlNet augmented dataset using ```instruction_controlnet.py``` and then accumulate with ```instruction.py``` to mix two formats of data.
 
 ## Evaluation
-We use lmms-eval for evaluation on AVSBench and ν-geometry.
-
-```
-pip install lmms-eval
-```
-
-Belows are the example to evaluate LLaVA on AVSBench and ν-geometry.
+We suggest using lmms-eval ( https://github.com/EvolvingLMMs-Lab/lmms-eval.git ) for evaluation on AVSD and ν-geometry.
+After git cloning lmms_eval, you can run evaluation on AVSD by moving our files in avs to ```lmms-eval/lmms_eval/tasks/avs```.
+Belows are the example to evaluate LLaVA on AVSD-h and ν-geometry. You can change ```tasks``` to ```vitas``` or ```vitas-controlnet``` for AVSD-s adnd AVSD-c.
 
 ```
 python3 -m accelerate.commands.launch \
