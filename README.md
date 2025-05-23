@@ -25,7 +25,7 @@
 ```
 git clone https://github.com/hs-chae/AVSD25.git
 cd AVSD25
-pip install -e .
+pip install -r requirements.txt
 ```
 
 ## Synthetic Data Generation
