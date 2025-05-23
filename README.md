@@ -33,7 +33,7 @@ For ν-geometry generation, use ```generation/nugeo.py``` instead.
 
 ### 1. Caption Dataset
 ```
-python generation/caption.py --samples 10000 --path data
+python generation/caption.py --samples 100 --path data
 ```
 
 * ```--skills``` is an argument for specifying the skills of questions to generate. It includes all the skills except for the ν-geometry in default. 
@@ -86,7 +86,7 @@ python generation/caption.py --samples 10000 --path data
 
 ### 2. Instruction Dataset
 ```
-python generation/instruction.py --samples 10000 --path data
+python generation/instruction.py --samples 100 --path data
 ```
 * You can use ```instruction.py``` almost in the same way to ```caption.py```.
 
