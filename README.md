@@ -19,7 +19,7 @@
 
 ## Dataset
 * You can find our dataset in (https://huggingface.co/datasets/cobordism/AVSD_25)!
-## About AVS
+
 
 ## Installation
 ```
