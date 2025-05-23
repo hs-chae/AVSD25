@@ -96,8 +96,11 @@ python generation/instruction.py --samples 100 --path data
 
 ### 3. Instruction Dataset (ControlNet)
 ```
+pip install diffusers
 python generation/instruction_controlnet.py --samples 100 --path data
 ```
+* You may need authentification to run the controlnet, or you can use other versions with slight modification.
+
 * You can use ```instruction_controlnet.py``` almost in the same way to ```instruction.py```
 
 * It uses all the available GPU resources in default. (Use ```CUDA_VISIBLE_DEVICES``` environment variable to utilize partial GPU.)
