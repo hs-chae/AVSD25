@@ -96,7 +96,7 @@ python generation/instruction.py --samples 100 --path data
 
 ### 3. Instruction Dataset (ControlNet)
 ```
-python generation/instruction_controlnet.py --samples 1000 --path data
+python generation/instruction_controlnet.py --samples 100 --path data
 ```
 * You can use ```instruction_controlnet.py``` almost in the same way to ```instruction.py```
 
