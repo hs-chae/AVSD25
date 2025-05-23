@@ -1,5 +1,6 @@
 from .tree import create_tree
 from .plot import plot_diagram
+from .plot_vanilla import plot_van
 from .conversation import generate_conversation
 from .caption import generate_caption
 
@@ -26,7 +27,7 @@ def generate(long_answer=False):
         fig, ax = plt.subplots()
 
     # 그림 그리기
-    plot_diagram(ax, diagram)
+    plot_van(ax, diagram)
 
     # 추가 설정
     if diagram.plot_type == 'polar1':
@@ -106,7 +107,7 @@ def generate_image_caption_pair():
         fig, ax = plt.subplots()
 
     # 그림 그리기
-    plot_diagram(ax, diagram)
+    plot_van(ax, diagram)
 
     # 추가 설정
     if diagram.plot_type == 'polar1':
