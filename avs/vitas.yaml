@@ -1,0 +1,31 @@
+task: "vitas"
+
+dataset_path: SW-Yoon/AVS
+dataset_name: vitas
+test_split: test
+
+dataset_kwargs:
+  token: True
+
+output_type: generate_until
+
+doc_to_visual: !function utils.avs_doc_to_visual
+doc_to_text: !function utils.avs_doc_to_text
+doc_to_target: "answer"
+
+generation_kwargs:
+  max_new_tokens: 1024
+  temperature: 0
+  top_p: 0
+  num_beams: 1
+  do_sample: false
+
+process_results: !function utils.avs_process_results
+metric_list:
+  - metric: accuracy
+    aggregation: !function utils.vitas_aggregate_accuracy
+    higher_is_better: true
+  
+lmms_eval_specific_kwargs:
+  default:
+    prompt: cot

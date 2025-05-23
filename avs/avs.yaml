@@ -1,0 +1,12 @@
+group: avs
+task:
+  # - avsbench
+  - avsbench_easy
+  - avsbench_medium
+  - avsbench_hard
+  - avsbench_very_hard
+  - vitas
+
+metadata:
+  version: 0.1
+  gpt_model: gpt-4o-mini
