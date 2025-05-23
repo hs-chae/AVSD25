@@ -12,9 +12,6 @@
 ![Qwen2.5](https://img.shields.io/badge/Model-Qwen2.5-green)
 ![LLaVA](https://img.shields.io/badge/Model-LLaVA-green)
 
-[🌐Webpage]
-[📖Paper]
-[[🤗Huggingface](https://huggingface.co/avs5123)]
 
 
 ## Dataset
